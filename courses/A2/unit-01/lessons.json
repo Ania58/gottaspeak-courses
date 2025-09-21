@@ -1,8 +1,11 @@
 {
-  "lessons": ["1", "2", "3"],
+  "lessons": ["1", "2", "3", "4", "5", "R1"],
     "titles": {
     "1": "Daily Routines vs Right Now",
     "2": "Asking Better Questions",
-    "3": "Everyday Objects in Real Life"
+    "3": "Everyday Objects in Real Life",
+    "4": "Talking About Past Weekends",
+    "5": "Expressing Future Plans",
+    "R1": "Revision: Unit 01 Review"
   }
 }
