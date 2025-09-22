@@ -1,0 +1,10 @@
+{
+  "lessons": ["11", "12", "13", "14", "15"],
+  "titles": {
+    "11": "Job Search & CV Basics",
+    "12": "Interview Questions & Answers",
+    "13": "Workplace Communication",
+    "14": "Meetings, Emails & Reports",
+    "15": "Career Plans & Development"
+  }
+}
