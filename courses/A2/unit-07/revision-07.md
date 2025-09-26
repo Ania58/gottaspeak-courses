@@ -15,16 +15,20 @@ duration: 30
 6. I will ______ (take up / give up) yoga next month.  
 7. Fireworks, parade, donation → Which word doesn’t fit **shopping** topic?  
 8. Recycling bin, compost, ______ (add one more related word).
+---
 
 ## Listening/Reading (6 min)
 Pick one short text from **News in Levels** (Culture/City/Environment): https://www.newsinlevels.com  
 Answer briefly:  
 - What happened? Who is involved?  
 - Is it positive/negative? Why?
+---
 
 ## Functional Writing (5–6 min)
 Write a **short email** to your school/community: propose one event (festival/clean-up/board-games evening). Include **date**, **place**, **what to bring**.
+---
 
 ## Speaking (6 min)
 - Mini-presentation: “My community and culture: what I enjoy, what I want to improve, and what I will do next month.”  
 - Ask/answer 3 questions about each other’s plans (use **have to / don’t have to** and **there is/are**).
+---

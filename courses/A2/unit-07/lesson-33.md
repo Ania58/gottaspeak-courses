@@ -8,6 +8,7 @@ duration: 30
 
 ## Warm-up (recap 32) (3 min)
 - What celebration did you attend recently? What did you like most?
+---
 
 ## Grammar Input (5 min)
 **Comparatives & Superlatives (shopping)**
@@ -17,6 +18,7 @@ duration: 30
 Common mistakes:
 ❌ more cheap → ✅ cheaper  
 ❌ the most easy → ✅ the easiest
+---
 
 ## Phrasal Verbs & Idioms (3 min)
 - **try on** (put clothes on), **look for** (search), **pick out** (choose)  
@@ -34,6 +36,7 @@ E. rules for giving items back → ______
 F. help desk → ______  
 G. package to your home → ______  
 H. repair promise time → ______
+---
 
 ## Controlled Practice (6 min)
 **Task 2 – Complete (comparative/superlative) (6)**
@@ -43,6 +46,7 @@ H. repair promise time → ______
 4. That shop is the ______ (bad) in service.  
 5. This brand is ______ (popular) this year.  
 6. Delivery is ______ (fast) with express.
+---
 
 **Task 3 – Phrasal/Idiom (6)**
 Choose: try on / look for / pick out / cost an arm and a leg / shop around / take back  
@@ -52,14 +56,18 @@ Choose: try on / look for / pick out / cost an arm and a leg / shop around / tak
 4. She will ______ a blue shirt.  
 5. He wants to ______ his old phone (return).  
 6. I’m ______ a charger.
+---
 
 ## Skills – Reading (5 min)
 Source: **News in Levels – Business/Shopping topics**: https://www.newsinlevels.com  
 **Answer:**  
 1) What did the article say about prices? 2) What advice does it give to buyers? 3) Do you agree?
+---
 
 ## Writing (3–4 min)
 - Write a short email asking for a **refund**. Include: order number, problem, what you want (refund or replacement).
+---
 
 ## Speaking (2 min)
 - Role-play: Customer & shop assistant (ask about **return policy** and **warranty**).
+---

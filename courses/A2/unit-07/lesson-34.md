@@ -8,6 +8,7 @@ duration: 30
 
 ## Warm-up (recap 33) (3 min)
 - Share one good and one bad experience with shopping.
+---
 
 ## Grammar Input (5 min)
 **There is / There are + quantifiers (some/any, a lot of, a few)**  
@@ -17,6 +18,7 @@ duration: 30
 
 Common mistakes:
 ❌ There is many shops → ✅ There **are** many shops
+---
 
 ## Phrasal Verbs & Idioms (3 min)
 - **get around** (move/transport), **drop by** (visit quickly), **look after** (take care)  
@@ -34,6 +36,7 @@ E. park/trees area → ______
 F. buses/trains/metro → ______  
 G. building for city offices → ______  
 H. too many cars → ______
+---
 
 ## Controlled Practice (6 min)
 **Task 2 – There is/are + quantifiers (6)**
@@ -43,6 +46,7 @@ H. too many cars → ______
 4. There isn’t ______ traffic at night.  
 5. There are ______ cafés a stone’s throw from here.  
 6. In the heart of the city, there are ______ museums.
+---
 
 **Task 3 – Phrasal/Idiom (6)**
 Choose: get around / drop by / look after / heart of the city / a stone’s throw / set up  
@@ -52,14 +56,17 @@ Choose: get around / drop by / look after / heart of the city / a stone’s thro
 4. The café is ______ from the station.  
 5. Volunteers ______ the community garden.  
 6. Parents ______ the kids during events.
+---
 
 ## Skills – Listening (5 min)
 Source: **VOA Learning English – Cities/Community**: https://learningenglish.voanews.com/  
 **Answer:**  
 1) What city feature is discussed? 2) What is good/bad about it? 3) What solutions are proposed?
+---
 
 ## Writing (3–4 min)
 - Write a short note to your city council suggesting **one improvement** (e.g., more green spaces or better transport).
-
+---
 ## Speaking (2 min)
 - Describe your neighbourhood using **there is/are** + quantifiers.
+---
