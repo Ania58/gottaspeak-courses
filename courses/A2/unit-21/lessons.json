@@ -1,0 +1,10 @@
+{
+  "lessons": ["101","102","103","104","105"],
+  "titles": {
+    "101": "People and Cultures",
+    "102": "Present Perfect vs Past Simple",
+    "103": "Adverbs and Opinions",
+    "104": "Phrasal Verbs for Communication",
+    "105": "Idioms for Social Situations"
+  }
+}
