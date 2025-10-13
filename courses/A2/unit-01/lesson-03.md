@@ -54,16 +54,16 @@ Talk for one minute about three objects you use every day and why they are impor
 
 ## Reading (8 min)
 
-📰 **[Breaking News English – “People Forget Their Smartphones More Than Their Keys” (Level 2)](https://breakingnewsenglish.com/2302/230210-forgetting-smartphones-2.html)**  
+📰 **[BBC Learning English – “Why do we forget things?”](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230511-why-we-forget)**  
 
-**Read and answer:**
-1. What object do people forget most often, according to the article?  
-2. Why is this a problem for many people?  
-3. Where do people usually forget their smartphones?  
-4. Do you agree that people depend too much on their phones? Why or why not?  
+**Read and answer:**  
+1. What examples of things do people often forget?  
+2. Why does the brain forget everyday objects?  
+3. What advice does the article give to remember things better?  
+4. Do you sometimes forget the same objects?  
 
-**Vocabulary from the article:**  
-forget • leave behind • survey • smartphone • important • habit  
+**Useful words from the article:**  
+memory • forget • remember • object • daily life • attention  
 
 ---
 
