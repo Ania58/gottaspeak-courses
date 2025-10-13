@@ -62,27 +62,27 @@ duration: 30
 ---
 
 ## Listening (8 min)
-🎧 **6 Minute English – The art of conversation (BBC Learning English)**
-Watch and listen: https://www.youtube.com/watch?v=xGhbhWUqL-w
+🎧 **[6 Minute English – The Art of Conversation (BBC Learning English)](https://www.youtube.com/watch?v=xGhbhWUqL-w)**  
+Watch and listen to the conversation about communication and good questions.
 
 **Answer:**
-1. What makes a question “good” in a conversation?
-2. What does “active listening” mean here?
-3. What question helps people keep talking?
-4. Which type of question doesn’t help much?
+1. What makes a question “good” in a conversation?  
+2. What does “active listening” mean here?  
+3. What question helps people keep talking?  
+4. Which type of question doesn’t help much?  
 
-📄 **Transcript (support): Asking the right questions – BBC LE PDF**
-https://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host.pdf
+📄 **[Transcript (support): Asking the Right Questions – BBC PDF](https://downloads.bbc.co.uk/learningenglish/features/6min/160107_6min_english_talk_show_host.pdf)**  
 
 ---
 
 ## Discussion (5 min)
-- How do you keep a conversation going in English?
-- What questions make people talk more?
-- What is one question you like asking new people?
+- How do you keep a conversation going in English?  
+- What questions make people talk more?  
+- What is one question you like asking new people?  
 
 ---
 
 ## Writing (homework)
 **Topic:** *Good Questions Make Good Conversations*  
-Write 60–80 words about one time when a question helped you have a good conversation. Use at least two questions in your text.
+Write 60–80 words about one time when a question helped you have a good conversation.  
+Use at least two questions in your text.
