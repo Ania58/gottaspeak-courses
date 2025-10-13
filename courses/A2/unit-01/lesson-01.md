@@ -16,18 +16,25 @@ duration: 30
 ## Grammar Focus (7 min)
 ### Present Simple vs Present Continuous
 
-| Use | Example |
-|------|----------|
-| Daily habits or routines | I usually have breakfast at 7. |
-| Actions happening now | I’m having breakfast right now. |
-| Temporary situations | She’s staying with her parents this week. |
-| General truths | Water boils at 100°C. |
+**Present Simple – for routines and habits**
+✅ I usually have breakfast at 7.  
+✅ She works in an office.  
+✅ We play tennis every weekend.  
 
-**Signal words:**  
-- *always, usually, often, sometimes, rarely, never* → with **Present Simple**  
-- *now, right now, today, at the moment* → with **Present Continuous**
+**Present Continuous – for actions happening now or temporary situations**
+🔹 I’m having breakfast right now.  
+🔹 She’s staying with her parents this week.  
+🔹 They’re studying for their exams these days.  
 
-**Common mistakes:**  
+**General truths (always true facts)**
+🌍 Water boils at 100°C.  
+🌧 The sun rises in the east.  
+
+**Signal words**
+- **Present Simple:** always, usually, often, sometimes, rarely, never  
+- **Present Continuous:** now, right now, today, at the moment  
+
+**Common mistakes (avoid):**
 ❌ I’m going always to work by bus. → ✅ I always go to work by bus.  
 ❌ He go to school every day. → ✅ He goes to school every day.  
 ❌ They watches TV now. → ✅ They are watching TV now.  
