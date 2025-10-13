@@ -54,16 +54,14 @@ Talk for one minute about three objects you use every day and why they are impor
 
 ## Reading (8 min)
 
-📰 **[BBC Learning English – “Why do we forget things?”](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230511-why-we-forget)**  
+📰 **[An airport notice – LearnEnglish (A2)](https://learnenglish.britishcouncil.org/skills/reading/a2-reading/airport-notice)**
 
-**Read and answer:**  
-1. What examples of things do people often forget?  
-2. Why does the brain forget everyday objects?  
-3. What advice does the article give to remember things better?  
-4. Do you sometimes forget the same objects?  
-
-**Useful words from the article:**  
-memory • forget • remember • object • daily life • attention  
+**Read and answer:**
+1. Which objects are allowed in hand luggage?
+2. Which objects are not allowed before security?
+3. How many bags can passengers take?
+4. What size and weight limits does the notice mention?
+5. Which objects from your bag would you put in your hand luggage? Why?
 
 ---
 
