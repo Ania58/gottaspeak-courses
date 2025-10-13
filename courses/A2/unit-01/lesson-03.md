@@ -7,42 +7,74 @@ duration: 30
 ---
 
 ## Warm-up (5 min)
-Empty your bag/pockets. Show 3 objects. Explain when and why you need them.  
+Empty your bag or pockets. Choose three objects and talk about them.  
+- When and why do you need them?  
+- Which one is most important for you?  
+- Which one do you sometimes forget to take?
 
 ---
 
-## Vocabulary Input (7 min)
-Words: wallet, ID card, charger, headphones, notebook, umbrella.  
+## Vocabulary Focus (7 min)
 
-Phrases:  
+**Words:**  
+wallet • ID card • charger • headphones • notebook • umbrella • keys • phone • bottle of water  
+
+**Useful phrases:**  
 - I can’t live without…  
 - I always forget to bring…  
 - I only use this when…  
+- I always keep this in my bag because…  
+- I never leave home without…  
+
+**Example sentences:**  
+- I can’t live without my phone.  
+- I always forget to bring my umbrella when it rains.  
+- I only use my headphones when I’m on the bus.  
 
 ---
 
-## Controlled Practice (7 min)
-Match the objects with the situations:  
-1. Listening to music on the bus → ______  
-2. Rainy weather → ______  
-3. Paying in a shop → ______  
+## Practice (8 min)
 
-Write 2 sentences about objects you always/never forget.  
+### A) Match the objects with the situations
+1. Listening to music on the bus → **__________**  
+2. Rainy weather → **__________**  
+3. Paying in a shop → **__________**  
+4. Writing notes at work → **__________**  
+5. Taking photos → **__________**  
+
+### B) Complete the sentences
+1. I can’t live without __________________________.  
+2. I always forget to bring ______________________.  
+3. I only use __________________________ when I travel.  
+
+### C) Speak
+Talk for one minute about three objects you use every day and why they are important.
 
 ---
 
-## Skills Practice (6 min)
-**Reading (Breaking News English, Level 2): “People Forgetting Important Objects”**  
-[Link](https://breakingnewsenglish.com/)  
+## Reading (8 min)
 
-Questions:  
-1. What object do people forget most often?  
-2. Why is it a problem?  
-3. Do you agree with the article?  
+📰 **[Breaking News English – “People Forget Their Smartphones More Than Their Keys” (Level 2)](https://breakingnewsenglish.com/2302/230210-forgetting-smartphones-2.html)**  
+
+**Read and answer:**
+1. What object do people forget most often, according to the article?  
+2. Why is this a problem for many people?  
+3. Where do people usually forget their smartphones?  
+4. Do you agree that people depend too much on their phones? Why or why not?  
+
+**Vocabulary from the article:**  
+forget • leave behind • survey • smartphone • important • habit  
 
 ---
 
 ## Discussion (5 min)
-- Which object would be the worst to forget: phone, wallet, or keys? Why?  
-- Do you think people are too dependent on technology?  
+- Which object would be the worst to forget: your phone, wallet, or keys? Why?  
+- Do you think people today are too dependent on technology?  
+- How do you remind yourself not to forget important things?  
 
+---
+
+## Writing (homework)
+**Topic:** *The Object I Can’t Live Without*  
+Write 70–90 words describing one everyday object you use all the time.  
+Explain why it’s important and what would happen if you forgot it.
