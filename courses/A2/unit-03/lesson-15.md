@@ -24,9 +24,31 @@ duration: 30
 ---
 
 ## Vocabulary Input (6 min)
-**Presentation words:** slide, outline, chart, summary, takeaways, Q&A.  
-**Phrasal verbs:** *go over, point out, sum up, move on, hand out, wrap up.*  
-**Idioms:** *cut to the chase, the big picture, get the ball rolling.*
+
+**Presentation words:** slide • outline • chart • summary • takeaways • Q&A
+
+**Phrasal verbs (meanings + mini-examples):**
+- **go over** = review quickly  
+  *Let’s go over the outline before we start.*
+- **point out** = highlight / draw attention to  
+  *I’d like to point out the main risk.*
+- **sum up** = give a short conclusion  
+  *To sum up, option B is faster.*
+- **move on (to)** = continue to the next part  
+  *Let’s move on to slide 3.*
+- **hand out** = give materials to people  
+  *I’ll hand out the leaflet now.*
+- **wrap up** = finish a meeting/presentation  
+  *We need to wrap up in two minutes.*
+
+**Idioms (meanings + mini-examples):**
+- **cut to the chase** = skip details; go to the key point  
+  *Let me cut to the chase: Plan C is the cheapest.*
+- **the big picture** = the overall view, not the details  
+  *This chart shows the big picture of our sales.*
+- **get the ball rolling** = start an activity  
+  *I’ll get the ball rolling with a quick demo.*
+
 
 ---
 
@@ -63,14 +85,25 @@ Choose the best option:
 
 ---
 
-## Skills Practice (6 min)
-**Reading:** Simple tips for presentations (short)  
-- [https://simple.wikipedia.org/wiki/Presentation](https://simple.wikipedia.org/wiki/Presentation)  
-Note 2 tips for engaging slides.
+## Skills Practice (6–8 min)
 
-**Listening:** BBC 6-Minute English – *Public speaking*  
-- [https://www.bbc.co.uk/learningenglish](https://www.bbc.co.uk/learningenglish) (search “public speaking”).  
-Write 2 ideas you can use next time.
+### Reading
+📰 **[Mind maps – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/mind-maps)**
+
+**Answer:**
+1) Note **three tips** for organising ideas.  
+2) Write **one sentence** comparing tools for planning a talk (e.g., *A mind map is **more flexible** than a list.*).  
+3) Write **one superlative** about planning (*This is the **best** way to prepare my slides.*).
+
+### Listening
+🎧 **[Using colours to do homework – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/using-colours-do-homework)**
+
+**Answer:**
+1) What is the **main idea** of the presentation?  
+2) Write **two signpost phrases** the speaker uses (e.g., *First… / Finally…*).  
+3) Make **two lines** for your own talk using our phrasals/idioms  
+   *(e.g., “First, I’ll **go over** the plan, then I’ll **move on** to the costs / To **sum up**, Option A shows **the big picture**”).*
+
 
 ---
 
