@@ -63,13 +63,26 @@ Complete with suitable phrases (greeting, reason, request, sign-off):
 ---
 
 ## Skills Practice (6 min)
-**Reading:** *Email etiquette for beginners* (short)  
-- Simple English Wikipedia / other simple resource (e.g. [https://simple.wikipedia.org](https://simple.wikipedia.org)).  
-Answer: Name two tips for a clear **subject line**.
+## Reading (6–7 min)
 
-**Listening:** BBC 6-Minute English – *The language of emails*  
-- [https://www.bbc.co.uk/learningenglish](https://www.bbc.co.uk/learningenglish) (search “email”).  
-Note two phrases you can use.
+📰 **[An email to ask a colleague to do something – LearnEnglish (A2)](https://learnenglish.britishcouncil.org/skills/writing/a2-writing/email-ask-colleague-do-something)**
+
+**Answer:**
+1) What is the **main request** in the email?  
+2) Copy **two polite phrases** the writer uses to ask for help.  
+3) What **deadline/time** is mentioned (if any)?  
+4) Rewrite one sentence to make it **more formal**, using a linker (*however/therefore/in addition*) and a polite request (*Could you… / Would you mind…*).
+
+
+## Listening (6–7 min)
+
+🎧 **[Leaving a message – LearnEnglish (A2 Listening)](https://learnenglish.britishcouncil.org/skills/listening/a2-listening/leaving-message)**
+
+**Answer:**
+1) What **information** does the caller leave (name, reason, contact)?  
+2) Write **two polite request** phrases you hear or read in the transcript.  
+3) Write one **follow-up** sentence you could email after the call (formal tone).
+
 
 ---
 
