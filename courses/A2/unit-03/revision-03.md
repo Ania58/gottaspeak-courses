@@ -44,14 +44,22 @@ Choose the best:
 ---
 
 ## Skills (10 min)
-**Reading** (pick one short piece from any link below):  
-- News in Levels – work topic: [https://www.newsinlevels.com/](https://www.newsinlevels.com/)  
-- Breaking News English (Level 2): [https://breakingnewsenglish.com/](https://breakingnewsenglish.com/)  
-Answer in one sentence: *What happened? What is the recommendation?*
 
-**Listening**  
-- BBC 6-Minute English – choose one related episode: [https://www.bbc.co.uk/learningenglish](https://www.bbc.co.uk/learningenglish)  
-Write 3 useful phrases you heard.
+### Reading (6–7 min)
+📰 **[Instructions for a colleague – LearnEnglish (A2)](https://learnenglish.britishcouncil.org/skills/writing/a2-writing/instructions-colleague)**
+
+**Answer:**
+1) What is the **task** and who is it for?  
+2) Copy **two imperative** sentences and rewrite them as **polite requests** (*Could you… / Would you mind…*).  
+3) Find **two linking words** in the text or tips and write your own example with each.  
+
+### Listening (3–4 min)
+🎧 **[Who’s who in the office – LearnEnglish (A2 Listening)](https://learnenglish.britishcouncil.org/skills/listening/a2-listening/whos-who-office)**
+
+**Answer:**
+1) Write the **roles** of two people mentioned in the audio.  
+2) Write **two phrases** you can use to **ask for help** at work.  
+3) Make **one first conditional** about office help: *If I need the report, I’ll …*
 
 ---
 
