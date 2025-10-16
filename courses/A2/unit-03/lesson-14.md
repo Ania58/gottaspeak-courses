@@ -63,13 +63,27 @@ Use: **deal with, sort out, come up with, break down, figure out, carry on**
 ---
 
 ## Skills Practice (6 min)
-**Reading:** Breaking News English (Level 2) – short tech/work article  
-- [https://breakingnewsenglish.com/](https://breakingnewsenglish.com/) (choose Level 2, workplace topic).  
-3 questions: What happened? Why is it a problem? What’s the solution?
+## Skills Practice — Reading (6–7 min)
 
-**Listening:** VOA Learning English – *Everyday Grammar: If-clauses*  
-- [https://learningenglish.voanews.com/](https://learningenglish.voanews.com/) (search “conditional”).  
-Note two examples.
+📰 **[7 tips for a tidy desk – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/7-tips-tidy-desk)**
+
+**Answer:**
+1) Write **three tips** from the text in your own words.  
+2) Which tip would **solve a problem** you have at work or when studying? Explain in one sentence.  
+3) Turn one tip into **advice** with a modal: *You should… / You could… / You’d better…*  
+4) Write **one first conditional** using a tip: *If I keep my desk tidy, I’ll …*
+
+
+## Skills Practice — Listening (6–7 min)
+
+🎧 **[Working from home – Test-English (A2 Listening)](https://test-english.com/listening/a2/working-from-home-listening-test/)**
+
+**Answer:**
+1) What **problems** do Daniel and Kate mention? Write two.  
+2) What **solutions** do they suggest? Write two.  
+3) Make one **advice sentence**: *You should… / You could…*  
+4) Make one **first conditional** about your routine: *If I …, I’ll …*
+
 
 ---
 
