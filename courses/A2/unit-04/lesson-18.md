@@ -44,7 +44,7 @@ Time markers: **ever/never/just/already/yet** vs **yesterday/last year/in 2019**
 ## Vocabulary, Phrasals & Idioms (5–6 min)
 Words: reception, single/double room, facilities, Wi-Fi, rate, invoice, maintenance.  
 Phrasals: **check out**, **turn on/off**, **look into** (investigate), **sort out** (fix).  
-Idioms (A2-friendly): **call it a day** (finish for today), **on the house** (free).  
+Idioms: **call it a day** (finish for today), **on the house** (free).  
 **Match / Use** (6 items): fill in with a word or phrasal verb.
 
 1. Could you ______ the air conditioning?  
@@ -56,11 +56,18 @@ Idioms (A2-friendly): **call it a day** (finish for today), **on the house** (fr
 
 ---
 
-## Skills Practice (6 min)
-**Reading**: “Hotel Reviews — What to read before booking” — [Breaking News English, Easy level](https://breakingnewsenglish.com/)  
-Questions:
-1. What should you check in reviews?  
-2. What is the writer’s main tip?
+## Skills Practice (6–7 min)
+
+**Reading (A2)**  
+📰 **[Accommodation – Test-English (A2 Reading)](https://test-english.com/reading/a2/accommodation/)**
+
+**Answer:**
+1) What **accommodation options** are described? List at least three.  
+2) For each option, note **one advantage** and **one problem** (e.g., distance, facilities, price).  
+3) Which option **fits your needs** best for a weekend city break? Why?  
+4) Write **two sentences** using our unit language:  
+   - one in **Present Perfect** (*I’ve never stayed in…*)  
+   - one in **Past Simple** (*We stayed in… last summer.*)
 
 ---
 
