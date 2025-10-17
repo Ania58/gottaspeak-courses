@@ -36,9 +36,17 @@ duration: 30
 
 ---
 
-## Skills (6 min)
-Choose one short **reading** (News in Levels / VOA Learning English) about travel.  
-Answer 3 questions: *What happened?*, *What was the problem?*, *What advice is given?*
+## Skills (6–7 min)
+
+### Reading
+📰 **[A restaurant menu – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/restaurant-menu)**
+
+**Answer:**
+1) When is **lunch** and **dinner** served?  
+2) Choose one **starter**, one **main/snack** and one **dessert**. How much is it **in total**?  
+3) Write one **polite request** to the waiter (e.g., *Could I have the cheese omelette, please?*).  
+4) Make one **comparative** and one **superlative** sentence using items/prices from the menu.
+
 
 ---
 
