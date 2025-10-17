@@ -34,18 +34,51 @@ a) Turn right at the café. b) Go past the library. c) Cross the street. d) Take
 
 ---
 
-## Vocabulary & Collocations (5–6 min)
-Words: square, old town, castle, gallery, viewpoint, route, entrance, ticket office, guided tour.  
-Collocations: **take a photo**, **buy a ticket**, **join a tour**, **queue for**, **get lost**, **follow the map**.  
-**Fill in** (6 items): Use a word or collocation.
+## Vocabulary & Collocations (6–7 min)
+
+**Word bank (places & sightseeing):** square • old town • castle • gallery • viewpoint • route • entrance • ticket office • guided tour • city walls • street market • fountain
+
+**Collocations (use these exactly):**  
+- take a photo (of)  
+- buy a ticket (at/from)  
+- join a guided tour (of)  
+- queue for (the museum / tickets)  
+- follow the map / follow the signs  
+- get lost (in the old town)  
+- open from … to … / opening hours  
+- entrance fee / student discount
+
+### A) Match (write the collocation)
+1) Wait in line → __________  
+2) Start going with a tour group → __________  
+3) Pay to go in → __________  
+4) Use directions on paper/app → __________  
+5) Pay less with a student card → __________  
+6) Take a picture → __________
+
+### B) Complete the sentences
+1) Let’s __________ a __________ at the __________ and then walk to the castle.  
+2) We can __________ a __________ of the city walls at 11:00.  
+3) The gallery is __________ 10:00 __________ 18:00; the __________ is €8.  
+4) If we __________, we’ll __________ the signs to the main square.  
+5) I want to __________ the street artists near the __________.
+
+### C) Mini-speak (3 lines)
+Use two collocations and one place from the Word bank to say what you’ll do this afternoon.
+
 
 ---
 
-## Skills Practice (6 min)
-**Reading**: Simple English Wikipedia — “Tourism” (A2-friendly) — [https://simple.wikipedia.org/wiki/Tourism](https://simple.wikipedia.org/wiki/Tourism)  
-Answer:
-1. Why do people travel for tourism?  
-2. What are two popular types of tourism?
+## Skills Practice (Reading – 6–7 min)
+
+📰 **[Going out – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/going-out)**
+
+**Answer:**
+1) Choose **two adverts** and write the **place**, **time**, and **price/entry**.  
+2) Which option is **closer/easier** for a visitor? Explain in one sentence.  
+3) Write one **direction** line to get there from the main square (use: *Go straight / Turn left at / Go past / Cross …*).  
+4) Add one **collocation** from today’s list (e.g., *buy a ticket at the ticket office*).
+
 
 ---
 
