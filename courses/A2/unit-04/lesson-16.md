@@ -58,11 +58,18 @@ Match:
 ---
 
 ## Skills Practice (6 min)
-**Reading** (A2): “Buying Train Tickets Online” — [VOA Learning English](https://learningenglish.voanews.com/)  
-Answer:
-1. What information do you need to buy a ticket?  
-2. Why do people book in advance?  
-3. What is one tip from the article?
+
+**Reading (A2)**  
+📰 **[A train timetable – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/train-timetable)**
+
+**Answer:**
+1) What time does the **earliest** train leave and from which platform?  
+2) Which train is **cheaper** or **faster** for your plan? Explain in one sentence.  
+3) Which connection do you choose? Write one line using **going to** or **Present Continuous**  
+   *(e.g., “I’m going to take the 10:45 train from Platform 3.”)*  
+4) Write **one first conditional** with the timetable  
+   *(e.g., “If the 10:45 is full, I’ll take the 11:15.”)*
+
 
 ---
 

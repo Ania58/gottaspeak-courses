@@ -62,7 +62,6 @@ Use: **deal with, sort out, come up with, break down, figure out, carry on**
 
 ---
 
-## Skills Practice (6 min)
 ## Skills Practice — Reading (6–7 min)
 
 📰 **[7 tips for a tidy desk – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/7-tips-tidy-desk)**

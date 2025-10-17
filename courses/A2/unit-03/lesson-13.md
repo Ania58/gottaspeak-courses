@@ -62,7 +62,7 @@ Complete with suitable phrases (greeting, reason, request, sign-off):
 
 ---
 
-## Skills Practice (6 min)
+## Skills Practice 
 ## Reading (6–7 min)
 
 📰 **[An email to ask a colleague to do something – LearnEnglish (A2)](https://learnenglish.britishcouncil.org/skills/writing/a2-writing/email-ask-colleague-do-something)**
