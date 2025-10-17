@@ -62,11 +62,17 @@ H. where you get on a train → ______
 
 ---
 
-## Skills Practice (6 min)
-**Listening**: BBC 6 Minute English “Airport announcements” (similar topic) — [https://www.bbc.co.uk/learningenglish](https://www.bbc.co.uk/learningenglish)  
-Answer:
-1. What information do announcements usually include?  
-2. What advice do they give to travelers?
+
+## Skills Practice (6–7 min)
+
+🎧 **[Trains and travel – LearnEnglish Teens (A2)](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/trains-travel)**
+
+**Answer:**
+1) What information do you hear about **platforms**, **times**, or **tickets**?  
+2) Which conversation includes a **problem**? What is it and how is it **sorted out**?  
+3) Write one **comparative** about transport (e.g., *The metro is faster than the bus.*).  
+4) Make one **airport sentence** using new vocab (gate, boarding pass, baggage claim).
+
 
 ---
 
