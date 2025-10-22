@@ -46,12 +46,15 @@ Complete with *too* or *enough*:
 
 ---
 
-## Skills Practice (5 min)
-**Reading**: [Mind UK – Stress Tips](https://www.mind.org.uk/information-support/tips-for-everyday-living/stress/)  
-Questions:  
-1. What are 3 tips to reduce stress?  
-2. Which one would you try?  
-3. Which one is not useful for you?  
+## Skills Practice (5–6 min)
+
+**Reading:** 📰 **[Happiness – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/study-break/reading-zone/a2-graded-reading/happiness-a2)**
+
+**Answer:**
+1) What **two things** does the text say make people happy (not only “fun”)?  
+2) Write **two small actions** you can do this week to increase happiness (use our unit phrases: *take a break, go for a walk, talk to a friend, do meditation*).  
+3) Make **two sentences with too/enough** about your routine (e.g., *I’m too busy to relax after work.* / *I don’t have enough time for exercise.*).
+
 
 ---
 
