@@ -23,16 +23,34 @@ duration: 30
 
 ---
 
-## Vocabulary (6 min)
-Words: vegetarian, vegan, gluten-free, protein, carbohydrates, fats, vitamins, balanced diet.  
+## Vocabulary (6–7 min)
 
-**Task**: Match foods with categories:  
-1. Rice → ______  
-2. Chicken → ______  
-3. Olive oil → ______  
-4. Carrots → ______  
-5. Bread → ______  
-6. Cheese → ______  
+**Food & diet words:** vegetarian • vegan • gluten-free • protein • carbohydrates • fats • vitamins • balanced diet • whole grains • processed food • sugary drinks
+
+**Collocations (use exactly):**  
+- **high in** protein / sugar / fat  
+- **low in** salt / sugar  
+- **rich in** vitamins / fibre  
+- **cut down on** (sugar/fast food)  
+- **plenty of** water/vegetables  
+- **a portion of** fruit/nuts
+
+### A) Classify (write 2–3 items in each group)
+**Proteins:** __________  
+**Carbohydrates:** __________  
+**Fats (healthy):** __________  
+**Vegetables/Fruit:** __________
+
+### B) Complete the collocations
+1) I’ll choose bread that is **__________ fibre**.  
+2) I want snacks that are **__________ sugar**.  
+3) This salad is **__________ vitamins**.  
+4) I’m trying to **__________ ________ ________** sugary drinks.  
+5) I drink **__________ ________** water every day.  
+6) I eat **__________ ________** fruit after lunch.
+
+### C) Plate planner (2 lines)
+Write two sentences about a **balanced lunch** using one collocation each.
 
 ---
 
@@ -47,12 +65,16 @@ Complete with *much, many, some, any, a lot of*:
 
 ---
 
-## Skills Practice (5 min)
-**Listening**: [BBC Learning English – Food and Health](https://www.bbc.co.uk/learningenglish)  
-Questions:  
-1. What food advice is given?  
-2. Which foods should we eat more of?  
-3. Which foods should we avoid?  
+## Skills Practice (5–6 min)
+
+**Listening (A2):** 🎧 **[English pubs – Test-English](https://test-english.com/listening/a2/english-pubs-a2-listening/)**
+
+**Answer:**
+1) What food or drinks does the video mention? Name two.  
+2) What rules or customs are explained?  
+3) Which option sounds **healthier** to you and why? Use a collocation (*low in / high in / rich in / cut down on*).  
+4) Make one **polite request** you could say in a café or pub.
+
 
 ---
 
