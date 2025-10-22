@@ -7,53 +7,71 @@ duration: 30
 ---
 
 ## Warm-up (5 min)
-- Think of the last time you were sick. What happened?  
+- Think of the last time you were sick. What happened?
 - How did you feel? What did you do?
 
 ---
 
-## Grammar Input (6 min)
-**Should / Must for Advice & Obligation**  
-- You should drink tea and rest.  
-- You must take this medicine twice a day.  
+## Grammar Focus (6 min) — **Should vs Must**
+- **should** = advice/suggestion: *You should rest and drink water.*
+- **must** = obligation/requirement (rules, labels, doctor’s orders): *You must take this medicine twice a day.*
+- **mustn’t** = prohibition: *You mustn’t mix these medicines.*
+- **shouldn’t** = negative advice: *You shouldn’t eat heavy food tonight.*
 
-❌ wrong: *You should to eat vegetables* → ✅ *You should eat vegetables*
-
----
-
-## Vocabulary (6 min)
-Words: fever, headache, cough, sore throat, prescription, pill, tablet, syrup, pharmacist.  
-
-**Task**: Match symptoms with advice:  
-1. Headache → ______  
-2. Cough → ______  
-3. Fever → ______  
-4. Sore throat → ______  
-5. Toothache → ______  
-6. Stomachache → ______  
+Common mistake:  
+❌ *You should to take vitamins.* → ✅ *You should take vitamins.*
 
 ---
 
-## Controlled Practice (5 min)
-Fill in with *should* or *must*:  
-1. You ______ take an aspirin.  
-2. You ______ not go to school with a fever.  
-3. The doctor says you ______ drink more water.  
-4. You ______ take these pills after meals.  
-5. If you’re sick, you ______ rest.  
-6. You ______ call the doctor if it gets worse.  
+## Vocabulary (6–7 min)
+
+**Symptoms:** fever • headache • cough • sore throat • toothache • stomachache  
+**At the pharmacy/doctor:** prescription • pill/tablet • syrup • antibiotic • dosage • pharmacist  
+**Advice/Actions:** drink plenty of water • rest at home • take a painkiller • gargle with salt water • avoid heavy food • see a dentist/doctor
+
+### A) Match the symptom to suitable advice
+1) Headache → __________  
+2) Cough → __________  
+3) Fever → __________  
+4) Sore throat → __________  
+5) Toothache → __________  
+6) Stomachache → __________
+
+### B) Choose **should** or **must** (use the cue)
+1) You ______ take this antibiotic **twice a day**. *(label/doctor’s instruction)*  
+2) You ______ drink more water and rest. *(general advice)*  
+3) You ______ not mix these two medicines. *(safety rule)*  
+4) With a high temperature, you ______ call the doctor. *(necessary)*  
+5) If it’s only a light cough, you ______ try honey and lemon. *(suggestion)*  
+6) You ______ finish the whole course. *(obligation)*
 
 ---
 
-## Skills Practice (5 min)
-**Listening**: [VOA Learning English – Health Reports](https://learningenglish.voanews.com/)  
-Questions:  
-1. What was the health problem?  
-2. What advice was given?  
-3. How can people avoid it?
+## Controlled Practice (5–6 min)
+
+**Fill in with _should / shouldn’t / must / mustn’t_ (use the cue)**
+1) You ______ take these pills **after meals**. *(instruction)*  
+2) You ______ go to school with a fever. *(rule)*  
+3) The pharmacist says you ______ drink more water. *(advice)*  
+4) You ______ skip doses of this medicine. *(safety)*  
+5) If the pain continues, you ______ see a dentist. *(necessary)*  
+6) For a cold, you ______ rest and sleep more. *(recommendation)*
 
 ---
 
-## Speaking (3 min)
-- Role-play: You are at the doctor’s.  
-Patient explains 2–3 symptoms, doctor gives advice.
+## Listening (5–6 min)
+
+🎧 **[At the doctor – ExamEnglish (A2 Listening)](https://www.examenglish.com/A2/A2_listening_at_the_doctor.htm)**
+
+**Answer:**
+1) What personal details does the receptionist ask for?  
+2) What health problem is mentioned?  
+3) Write two sentences you could say after the visit using today’s grammar  
+   *(e.g., “You **must** bring your ID.” / “You **should** rest today.”)*
+
+---
+
+## Speaking (2–3 min)
+- Role-play: You are at the doctor’s. Say **2–3 symptoms** and ask for advice using **Should/Must**.  
+  Example starters: *“I have a sore throat. What should I do?”* / *“Must I take this with food?”*
+
