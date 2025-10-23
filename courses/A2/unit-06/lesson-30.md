@@ -21,18 +21,35 @@ duration: 30
 
 ---
 
-## Vocabulary (6 min)
-Phrases: forget password, lose connection, virus, update software, backup files, safe password, online scam, report problem.  
+## Vocabulary (6–7 min)
 
-**Task**: Match problems with solutions.  
-1. Virus → ______  
-2. Lost internet → ______  
-3. Forgot password → ______  
-4. Scam → ______  
-5. Important files → ______  
-6. Old version of app → ______  
-7. Strange email → ______  
-8. Broken phone → ______  
+**Safety & tech words (plain meanings):**  
+- **strong password** = a safe password with letters, numbers and symbols  
+- **two-step code** (2FA) = extra code after your password  
+- **update software** = install the newest version  
+- **back up files** = save a copy in another place  
+- **antivirus** = a program that stops viruses  
+- **online scam** = a trick to steal money or data  
+- **phishing email** = a fake email that asks for your info  
+- **report a problem** = tell support/the website
+
+### A) Match words to definitions
+1) save a copy in another place → __________  
+2) a fake email asking for your info → __________  
+3) newest version of an app → __________  
+4) extra code after your password → __________  
+5) program that stops viruses → __________  
+6) trick to steal money/data → __________  
+
+### B) Complete (use the words)
+1) If you see a strange message, don’t click — ________ it.  
+2) I’m going to ________ tonight; my laptop is slow.  
+3) You should ________ every week to protect photos.  
+4) Create a ________ with 12+ characters and symbols.  
+
+### C) Mini speaking (2 lines)
+Say what you’re doing **now** to be safe online (Present Continuous):  
+*“I’m ________ my apps and I’m ________ my files.”*
 
 ---
 
@@ -47,12 +64,17 @@ Complete with First Conditional:
 
 ---
 
-## Skills Practice (5 min)
-**Reading**: [StaySafeOnline](https://staysafeonline.org)  
-Questions:  
-1. What is the main advice?  
-2. What are 2 common problems online?  
-3. How can you protect yourself?  
+## Skills Practice (5–6 min)
+
+**Reading (A2):** 📰 **[Social Media – A2 Key Reading Part 4 (ESLeschool)](https://www.esleschool.com/en_gb/a2-social-media/)**
+
+**Answer:**
+1) According to the text, what are **two risks** of social media use?  
+2) Find **two words/phrases** in the text that are linked to safety or information quality (e.g., *fake news*, *take a break*).  
+3) Write **one first conditional** using an online-safety idea from the text:  
+   *“If I see ______, I’ll ______.”*  
+4) In **one sentence**, say how you **verify a source** before you share a post.
+
 
 ---
 
