@@ -47,12 +47,17 @@ Complete sentences in Past Simple:
 
 ---
 
-## Skills Practice (5 min)
-**Reading**: [News in Levels](https://www.newsinlevels.com)  
-Questions:  
-1. What happened?  
-2. Who reported it?  
-3. Is it positive or negative news?  
+## Skills Practice (5–6 min)
+
+**Reading (A2):** 📰 **[Online safety poster – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/online-safety-poster)**
+
+**Answer:**
+1) Write **three tips** from the poster that help you check information online.  
+2) Why is the **source** important? Give one example from the poster.  
+3) Find **two imperatives** in the poster (e.g., “Don’t … / Check …”).  
+4) Write **one Past Simple** sentence about your news yesterday  
+   *(e.g., “I read two articles about science.”)*  
+
 
 ---
 
