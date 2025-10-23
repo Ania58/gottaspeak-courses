@@ -47,12 +47,16 @@ Complete sentences with *going to*:
 
 ---
 
-## Skills Practice (5 min)
-**Listening**: [BBC Learning English – Entertainment](https://www.bbc.co.uk/learningenglish)  
-Questions:  
-1. What kind of entertainment is described?  
-2. Why is it popular?  
-3. Do you like it? Why/why not?  
+## Skills Practice (5–6 min)
+
+**Listening (A2):** 🎧 **[Talking about films – Test-English](https://test-english.com/listening/a2/talking-about-films-listening-test/)**
+
+**Answer:**
+1) What **film genres** does the speaker mention? Write two.  
+2) Which genre does the speaker **prefer** and **why**?  
+3) Write one **going to** sentence about your plan for tonight (e.g., *I’m going to watch a comedy.*).  
+4) Make one **comparative** about two genres (e.g., *Action films are more exciting than dramas.*).
+
 
 ---
 
