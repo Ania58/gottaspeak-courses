@@ -48,14 +48,30 @@ Complete with Present Continuous:
 
 ---
 
-## Skills Practice (5 min)
-**Reading**: [BBC Learning English – Technology](https://www.bbc.co.uk/learningenglish)  
-Questions:  
-1. Which new technology is described?  
-2. How do people use it?  
-3. Do you think it is useful? Why?  
+## Skills Practice (5–6 min)
+
+**Reading (A2):** 📰 **[Are you a good digital citizen? – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/are-you-good-digital-citizen)**
+
+**Answer:**
+1) Write two **safe online habits** from the text.  
+2) What should you **not** do online? Give two examples.  
+3) Make one sentence about your tech use with **Present Continuous** (*I’m using… right now*) and one with **Present Simple** (*I usually use…*).  
+
 
 ---
 
-## Speaking (2 min)
-- Show your tutor your phone: What apps are you using most often?
+## Speaking (2–3 min) — Present Continuous
+
+- Look at your phone **right now**. Say 2–3 things you are doing:  
+  *“I’m checking my messages.” / “I’m listening to a podcast.” / “I’m charging my phone.”*
+
+- Ask and answer **3 wh-questions** in Present Continuous:  
+  *“What are you using at the moment?” “Why are you opening that app?” “Who are you chatting with?”*
+
+- Quick yes/no (short answers):  
+  *“Are you using Wi-Fi or mobile data?” — “I’m using Wi-Fi.”*  
+  *“Are you wearing headphones?” — “No, I’m not.”*
+
+- One comparison of now vs routine (both forms in one line):  
+  *“I’m using my camera now, but I usually use the notes app.”*
+
