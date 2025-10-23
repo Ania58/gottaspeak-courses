@@ -45,12 +45,16 @@ Rewrite sentences with comparatives:
 
 ---
 
-## Skills Practice (5 min)
-**Listening**: [VOA Learning English – Social Media](https://learningenglish.voanews.com/)  
-Questions:  
-1. What is the main topic of the news?  
-2. What problem is mentioned?  
-3. Do you agree? Why/why not?  
+## Skills Practice (5–6 min)
+
+🎧 **[Is social media good for you? – LearnEnglish Teens (Video)](https://learnenglishteens.britishcouncil.org/study-break/video-zone/social-media-good-you)**
+
+**Answer:**
+1) Name **two benefits** and **one risk** of social media from the video.  
+2) What **advice** do they give for using social media well? Write two ideas.  
+3) Write one **comparative** about apps or features (e.g., *Instagram is more visual than Twitter*).  
+4) Write one sentence about your habits **today** in Present Continuous (e.g., *I’m sharing a link with my class group right now*).
+
 
 ---
 
