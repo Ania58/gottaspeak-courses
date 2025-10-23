@@ -18,12 +18,17 @@ duration: 30
 
 ---
 
-## Skills (6 min)
-Choose one short **listening** from [VOA Learning English – Technology](https://learningenglish.voanews.com/).  
-Answer:  
-- What is the problem?  
-- Who does it affect?  
-- What solutions are given?  
+## Skills (6–7 min)
+
+### Listening (A2)
+🎧 **[Going to the cinema – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/going-cinema)**
+
+**Answer:**
+1) Which film do they finally choose and **why**?  
+2) Note **two times** mentioned (e.g., 12:00 / 7:30).  
+3) Make one **comparative** about genres from the audio (e.g., *Horror is scarier than comedy*).  
+4) Write one **First Conditional** about plans: *If the film is full, we’ll …*
+
 
 ---
 
