@@ -56,10 +56,16 @@ Choose: cut down on / throw away / turn off / a drop in the ocean / every little
 6. Volunteers ______ litter in the park.
 ---
 
-## Skills – Reading (5 min)
-Source: **National Park Service – Recycling/Leave No Trace (free)**: https://www.nps.gov/subjects/sustainability/index.htm  
-**Answer:**  
-1) What actions are suggested? 2) Which can you do this week? 3) What will be difficult?
+## Skills – Reading (5–6 min)
+
+📰 **[In Taiwan, turning trash into sunglasses (VOA Learning English)](https://learningenglish.voanews.com/a/in-taiwan-turning-trash-into-sunglasses-/7771282.html)**
+
+**Answer:**
+1) What **waste** do people bring to the workshop? Name two items.  
+2) Write two **actions** they take to **reduce waste**.  
+3) Why is this project **useful for the community**?  
+4) Write one idea you can **cut down on** waste this week (use today’s phrasal verbs/idioms).
+
 ---
 
 ## Writing (3–4 min)
