@@ -13,15 +13,21 @@ duration: 30
 4. There ______ (be) a lot of parks in my area.  
 5. You ______ (have to / not) print the ticket.  
 6. I will ______ (take up / give up) yoga next month.  
-7. Fireworks, parade, donation → Which word doesn’t fit **shopping** topic?  
+7. **receipt, discount, parade** → Which word doesn’t fit the **shopping** topic? → ______
 8. Recycling bin, compost, ______ (add one more related word).
 ---
 
-## Listening/Reading (6 min)
-Pick one short text from **News in Levels** (Culture/City/Environment): https://www.newsinlevels.com  
-Answer briefly:  
-- What happened? Who is involved?  
-- Is it positive/negative? Why?
+## Skills (6–7 min)
+
+### Listening (A2)
+🎧 **[Shopping for clothes – Test-English](https://test-english.com/listening/a2/shopping-for-clothes-a2-english-listening-test/)**
+
+**Answer:**
+1) What item does the customer finally choose and **why**?  
+2) What size/colour/options are discussed?  
+3) What does the assistant say about the **price/discount** or **return policy**?  
+4) Make one comparative sentence (e.g., *This jacket is cheaper than the coat*).
+
 ---
 
 ## Functional Writing (5–6 min)
