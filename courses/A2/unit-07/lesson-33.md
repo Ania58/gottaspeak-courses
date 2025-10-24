@@ -58,10 +58,16 @@ Choose: try on / look for / pick out / cost an arm and a leg / shop around / tak
 6. I’m ______ a charger.
 ---
 
-## Skills – Reading (5 min)
-Source: **News in Levels – Business/Shopping topics**: https://www.newsinlevels.com  
-**Answer:**  
-1) What did the article say about prices? 2) What advice does it give to buyers? 3) Do you agree?
+## Skills – Reading (5–6 min)
+
+📰 **[Black Friday – Test-English (A2 Reading)](https://test-english.com/reading/a2/black-friday/)**
+
+**Answer:**
+1) What **two reasons** do people give for shopping on Black Friday?  
+2) What are **two problems/risks** mentioned in the text?  
+3) Find **three comparatives/superlatives** in the article and copy the full sentences.  
+4) Write one piece of advice for shoppers (use today’s vocab: *discount, refund, return policy*).
+
 ---
 
 ## Writing (3–4 min)
