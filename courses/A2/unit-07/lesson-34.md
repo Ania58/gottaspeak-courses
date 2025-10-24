@@ -58,10 +58,16 @@ Choose: get around / drop by / look after / heart of the city / a stone’s thro
 6. Parents ______ the kids during events.
 ---
 
-## Skills – Listening (5 min)
-Source: **VOA Learning English – Cities/Community**: https://learningenglish.voanews.com/  
-**Answer:**  
-1) What city feature is discussed? 2) What is good/bad about it? 3) What solutions are proposed?
+## Skills – Listening (5–6 min)
+
+🎧 **[The city where I live – Test-English (A2 Listening)](https://test-english.com/listening/a2/the-city-where-i-live-listening-test/)**
+
+**Answer:**
+1) Name **three places** or services in the speaker’s city (use *there is/are*).  
+2) What **transport** does he mention? Is it easy to **get around**?  
+3) Write one sentence with a **quantifier** about his city (*There are a lot of… / There aren’t many…*).  
+4) Copy **two Past Simple** facts from the audio/transcript (e.g., *He moved… / He visited…*), if mentioned.
+
 ---
 
 ## Writing (3–4 min)
