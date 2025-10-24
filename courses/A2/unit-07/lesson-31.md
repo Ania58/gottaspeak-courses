@@ -57,13 +57,19 @@ Choose: take up / give up / hang out / be into / piece of cake / kill time
 5. That exercise is a ______.  
 6. I read news to ______ on the bus.
 ---
-## Skills – Reading (5 min)
-Source: **BBC Learning English – Features/Stories section** : https://www.bbc.co.uk/learningenglish  
-**Answer (short):**  
-1) What hobby is described? 2) Why do people like it? 3) What equipment do you need?
+## Skills – Reading (5–6 min)
+
+📰 **[Hobbies: Why do people collect? – Test-English (A2)](https://test-english.com/reading/a2/hobbies-people-collect-reading-test/)**
+
+**Answer:**
+1) What **reasons** for collecting are mentioned? Write two.  
+2) Find **three -ing words** that name hobbies or activities and copy the phrases (e.g., *collecting …*).  
+3) Write one sentence about you with **like/love/enjoy + -ing** inspired by the text.  
+4) Choose **one advantage** and **one disadvantage** of collecting and explain in 1–2 lines.
+
 ---
 ## Speaking (2–3 min)
-- Tell your partner one hobby you want to **take up** and one you might **give up**. Explain why.
+- Tell your tutor one hobby you want to **take up** and one you might **give up**. Explain why.
 ---
 ## Quick Writing (2 min)
 - Write 3–4 sentences about your weekend plans using **like/love/enjoy + -ing**.
