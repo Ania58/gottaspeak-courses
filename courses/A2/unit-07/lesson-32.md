@@ -60,10 +60,16 @@ Choose: dress up / set up / take part / once in a blue moon / in full swing / gi
 6. Not needed: I will ______ (stop) smoking next year.
 ---
 
-## Skills – Listening (5 min)
-Source: **VOA Learning English – Everyday Grammar/Arts & Culture**: https://learningenglish.voanews.com/  
-**Answer:**  
-1) Which celebration is discussed? 2) What traditions are typical? 3) What surprised you?
+## Skills – Listening (5–6 min)
+
+🎧 **[Party experiences – Test-English (A2 Listening)](https://test-english.com/listening/a2/party-experiences-a2-english-listening-test/)**
+
+**Answer:**
+1) Who **left early** and why?  
+2) Who **didn’t have enough to eat**?  
+3) Copy **two Past Simple** sentences from the audio/transcript.  
+4) Write **one Past Simple** sentence about a celebration you took part in.
+
 ---
 
 ## Writing (3–4 min)
