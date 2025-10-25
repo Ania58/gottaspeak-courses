@@ -24,18 +24,23 @@ duration: 30
 
 -------
 
-## Vocabulary (5 min)
-Words: adventure, hero, journey, stranger, accident, surprise, danger, mystery.  
+## Vocabulary (5–6 min)
 
-**Task – Match (8)**  
+Words: adventure, hero, journey, stranger, accident, surprise, danger, mystery.
+
+**Task – Match (8)**
 A. unexpected event → ______  
-B. travel experience → ______  
-C. main character → ______  
-D. unknown person → ______  
-E. risk situation → ______  
-F. unusual story → ______  
-G. beginning phrase → ______  
-H. conclusion phrase → ______  
+B. travel from one place to another with experiences → ______  
+C. main character in a story → ______  
+D. person you don’t know → ______  
+E. risky situation with possible harm → ______  
+F. unusual thing people don’t understand → ______  
+G. bad event that happens suddenly (e.g., car crash) → ______  
+H. exciting event with action → ______
+
+**Quick production (2 lines)**
+1) Write one sentence with **out of the blue** + a word from the list.  
+2) Write one sentence with **at the end of the day** + a word from the list.
 
 -------
 
@@ -50,13 +55,16 @@ H. conclusion phrase → ______
 
 -------
 
-## Skills – Reading (5 min)
-**Text**: [News in Levels – “Strange Stories”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-**Questions:**  
-1. What strange event happened?  
-2. Who was involved?  
-3. How did it end?  
+📰 **Reading (A2): [Frank’s last case – LearnEnglish (British Council)](https://learnenglish.britishcouncil.org/general-english/story-zone/a2-b1-stories/franks-last-case-a2/b1)**
+
+**Answer:**
+1) Who is Frank and what problem does he have?  
+2) Copy **two sentences** in **Past Simple** that show key events.  
+3) Find **one sentence** with **past continuous** (or rewrite one event as *Past Continuous + Past Simple*, e.g., “He **was searching** the car when he **found** the diamond”).  
+4) What is the **surprise** at the end? One line.
+
 
 -------
 
