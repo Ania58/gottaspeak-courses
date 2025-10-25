@@ -22,18 +22,32 @@ Common mistakes:
 
 -------
 
-## Vocabulary (5 min)
-Words: cooking, studying, driving, talking on the phone, raining, snowing, waiting, running.  
+## Vocabulary (6–7 min)
 
-**Task – Match actions with situations (8)**  
-1. You were hungry → ______  
-2. Students at home → ______  
-3. In bad weather → ______  
-4. On the road → ______  
-5. With a friend → ______  
-6. Before the bus → ______  
-7. During sports → ______  
-8. In the kitchen → ______  
+**Action words & collocations:**  
+was cooking • were studying • was driving • was talking on the phone • was waiting • were running • was fixing the router • was checking messages • was raining
+
+### A) Match each unique cue to ONE action (1–8)
+1) At the **bus stop**, the screen shows **“Next bus: 5 min”** → __________  
+2) He holds a **saucepan** over a **hob** → __________  
+3) She sits with **textbooks + a highlighter** before an exam → __________  
+4) He has a **steering wheel** in his hands on the **motorway** → __________  
+5) She has a **phone to her ear** saying “**Can you hear me?**” → __________  
+6) Two people in **trainers on a track** before the match → __________  
+7) The **Wi-Fi router light is red**, he holds a **screwdriver** → __________  
+8) A lock icon on the **phone screen**; he scrolls **notifications** → __________
+
+
+### B) Complete the scene (write 3 lines)
+*“At 8 p.m. last night…*  
+1) I **was __________** when the phone **rang**.  
+2) My neighbours **were __________** while I **was __________**.  
+3) It **was __________**, so we **didn’t __________**.”
+
+### C) Quick speak (2 lines)
+Say what three people were doing at the **same time**:  
+*“I was ___, my friend was ___, and my sister was ___.”*
+
 
 -------
 
@@ -48,13 +62,17 @@ Words: cooking, studying, driving, talking on the phone, raining, snowing, waiti
 
 -------
 
-## Skills – Reading (5 min)
-**Text**: [News in Levels – “Storm in the City”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-**Questions:**  
-1. What was happening during the storm?  
-2. What did people do?  
-3. How did it end?  
+📰 **[A really popular summer festival in the UK – Test-English (A2)](https://test-english.com/reading/a2/a-really-popular-summer-festival-in-the-uk-a2-english-reading-test/)**
+
+**Answer:**
+1) What is the festival and **when** does it usually happen?  
+2) Name **two activities** people do during the festival.  
+3) Write **two Past Simple** facts from the text (copy full sentences).  
+4) Transform one of those facts into a **Past Continuous + Past Simple** scene (your idea), e.g.:  
+   *“People were watching a show when it started to rain.”*
+  
 
 -------
 
