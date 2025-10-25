@@ -49,13 +49,14 @@ Change to Reported Speech:
 
 -------
 
-## Skills – Reading (5 min)
-Text: [News in Levels – “People Said…”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-Answer:
-1. What did people say?  
-2. How is it reported in the text?  
-3. Can you change one direct sentence to reported?  
+📰 **Reading (A2): [Quotes to inspire you in your English learning – LearnEnglish (British Council)](https://learnenglish.britishcouncil.org/english-levels/improve-your-english-level/quotes-inspire-you-your-english-learning)**
+
+**Answer:**
+1) Choose **two quotes** and rewrite them in **reported speech** (e.g., *Sandra Cisneros said that…*).   
+2) In one line, write a quote you **agree with** and explain **why**.
+
 
 -------
 
