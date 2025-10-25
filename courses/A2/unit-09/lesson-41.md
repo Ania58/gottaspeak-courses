@@ -50,13 +50,16 @@ Choose *will* or *going to*:
 
 -------
 
-## Skills – Reading (5 min)
-Text: [News in Levels – “Future Plans of Students”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-Answer:
-1. What plans do the students have?
-2. Which of these plans are similar to yours?
-3. Which are long-term, which are short-term?
+📰 **Reading (A2): [An email from a friend – LearnEnglish (British Council)](https://learnenglish.britishcouncil.org/skills/reading/a2-reading/email-friend)**
+
+**Answer:**
+1) List three **weekend plans** from the email. Mark each as **going to** (plan/intention) or **present continuous** (arrangement).  
+2) Find one **will** sentence (decision/promise/prediction) and copy it. Why is **will** used here?  
+3) Which plan is **short-term** and which is **long-term**? Explain in 1 line.  
+4) Write two sentences about your weekend: **one with going to**, **one with will**.
+
 
 -------
 
