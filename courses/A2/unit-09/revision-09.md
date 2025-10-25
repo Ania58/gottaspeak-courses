@@ -13,18 +13,21 @@ duration: 30
 4. This time next week, I ______ (travel) to Italy.  
 5. He said he ______ tired. (reported speech)  
 6. Ambition, career, challenge, ______ (add one more goal word).  
-7. It ______ (might) rain this weekend.  
-8. What are you ______ (going to) do tonight?  
+7. It ______ rain this weekend.  
+8. What are you ______ do tonight?  
 
 -------
 
-## Skills – Reading (6 min)
-Text: [News in Levels – “Future of the World”](https://www.newsinlevels.com/)  
+## Skills – Reading (6–7 min)
 
-Answer:
-1. What predictions are made?  
-2. Which are positive, which are negative?  
-3. Which one do you agree with most?  
+📰 **Reading (A2): [How will life be different after Covid-19? – Test-English](https://test-english.com/reading/a2/how-will-life-be-different-after-covid-19-a2-english-reading-test/)**
+
+**Answer:**
+1) Note **three predictions** from the text (use your own words).  
+2) Mark each as **positive / negative / mixed** and explain why (1 short line).  
+3) Copy **one sentence** with *will* and **one** with a future **time expression** (e.g., *in the future*, *soon*).  
+4) Write **two sentences about your country**: one with **will** and one with **going to**.
+ 
 
 -------
 
