@@ -47,13 +47,16 @@ H. silly event → ______
 
 -------
 
-## Skills – Listening (5 min)
-**VOA Learning English – “Personal Stories”**: https://learningenglish.voanews.com/  
+## Skills – Listening (5–6 min)
 
-**Questions:**  
-1. What happened to the person?  
-2. When did it happen?  
-3. Why was it unforgettable?  
+🎧 **[Have you ever… (Experiences) – Test-English (A2 Listening)](https://test-english.com/listening/a2/have-you-ever-experiences-a2-english-listening-test/)**
+
+**Answer:**
+1) Write **two experiences** each speaker mentions.  
+2) Copy **two Present Perfect** sentences from the audio/transcript.  
+3) Copy **one Past Simple** sentence with a finished time (e.g., *last year*, *in 2022*).  
+4) Write **two “Have you ever…?”** questions inspired by the audio and answer them briefly.
+ 
 
 -------
 
