@@ -48,13 +48,17 @@ H. future weather example → ______
 
 -------
 
-## Skills – Listening (5 min)
-**VOA Learning English – “Possibility and Ability”**: https://learningenglish.voanews.com/  
+## Skills – Listening (5–6 min)
 
-**Questions:**  
-1. What could the person do?  
-2. What might happen in the future?  
-3. What examples are given?  
+🎧 **[Weather forecast – LearnEnglish Teens (A2 Listening)](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/weather-forecast)**
+
+**Answer:**
+1) What **might** happen in the north/south tomorrow? Write two possibilities from the forecast.  
+2) Note two numbers (⟂ **temperatures/times**) you hear.  
+3) Make two sentences using **might** or **could** based on the forecast  
+   *(e.g., “It might rain in the afternoon.” / “The wind could be strong on the coast.”)*  
+4) One safety tip with **should**: *“If it’s windy, you should …”*
+
 
 -------
 
