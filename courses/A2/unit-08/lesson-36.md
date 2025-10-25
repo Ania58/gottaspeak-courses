@@ -50,13 +50,16 @@ H. sit on a horse → ______
 
 -------
 
-## Skills – Reading (5 min)
-**Text**: [News in Levels – “Young People Travel”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-**Questions**:  
-1. What do young people like to do when they travel?  
-2. Have you ever done something similar?  
-3. What advice is given in the article?  
+📰 **[Three experiences I’ve had – Test-English (A2)](https://test-english.com/reading/a2/three-experiences-i-have-had-a2-english-reading-test/)**
+
+**Answer:**
+1) List **three experiences** the writer mentions.  
+2) Copy **two sentences** with **Present Perfect** and **one** with **Past Simple** from the text.  
+3) Why doesn’t the writer give exact times for some actions? (Explain in one short line.)  
+4) Write **two “Have you ever…?”** questions inspired by the text and answer them briefly.
+  
 
 -------
 
