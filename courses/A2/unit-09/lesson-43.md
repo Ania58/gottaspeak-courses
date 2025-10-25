@@ -24,18 +24,24 @@ Common mistakes:
 
 -------
 
-## Vocabulary (5 min)
-Words: at the moment, in progress, exact time, in the middle of, scheduled, ongoing, still, happening.  
+## Vocabulary (5–6 min)
 
-**Match (8)**  
+Words: **at the moment**, **in progress**, **scheduled**, **ongoing**, **at a set time**, **happening**, **in the middle of**, **exact time**
+
+### A) Match (8) — one clear clue each
 A. right now → ______  
-B. not finished → ______  
-C. plan for future → ______  
-D. action in progress → ______  
-E. something continuing → ______  
-F. at a set time → ______  
-G. taking place → ______  
-H. during the action → ______  
+B. continuing, not finished → ______  
+C. on an official timetable (e.g., 14:05 train) → ______  
+D. continuing over a period (e.g., a long project) → ______  
+E. exactly at 7:30 p.m. → ______  
+F. taking place (occurring) → ______  
+G. during an action (e.g., “_____ writing an email”) → ______  
+H. a precise clock time (e.g., 10:00) → ______
+
+### B) Build two Future Continuous lines
+1) **This time next Friday**, I’ll be __________.  
+2) **At exactly 6:45 tomorrow**, we’ll be __________.
+
 
 -------
 
@@ -50,13 +56,18 @@ Complete:
 
 -------
 
-## Skills – Reading (5 min)
-Text: [News in Levels – “Future Jobs”](https://www.newsinlevels.com/)  
+## Skills – Reading (5–6 min)
 
-Answer:
-1. What jobs are described?  
-2. What will people be doing in the future?  
-3. Which job would you like?  
+📰 **Reading (A2): [A train timetable – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/train-timetable)**
+
+**Answer:**
+1) According to the timetable, which train **leaves at an exact time** that suits you?  
+2) Write two sentences with **Future Continuous** using real times from the table, e.g.:  
+   - *At 9:15 tomorrow, I’ll be **waiting** on Platform 2.*  
+   - *At 10:40, we’ll be **travelling** to Bristol.*  
+3) Find one **scheduled** event (departure/arrival) and explain why it’s not a “plan/intention”.  
+4) Which connection is **more convenient** for you and why?
+
 
 -------
 
