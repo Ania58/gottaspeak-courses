@@ -24,20 +24,23 @@ Common mistakes:
 ❌ Is make → ✅ Is made  
 ❌ Was build → ✅ Was built  
 
+Form: **be** (am/is/are | was/were) + **past participle (V3)**  
+Use: focus on the **object/result**, not the doer.
+
 -------
 
 ## Vocabulary (5 min)
-Words: produced, invented, discovered, written, painted, built, designed, used.  
+Words: **produced, invented, discovered, written, painted, built, designed, used**
 
-**Match (8)**  
-A. created by an artist → ______  
-B. opposite of destroyed → ______  
-C. opposite of active voice → ______  
-D. made for the first time → ______  
-E. written on paper → ______  
-F. found for the first time → ______  
-G. planned/created → ______  
-H. often applied → ______  
+**Match (8) — 1:1**
+A. a picture made by an artist → ______  
+B. created (a product) in large numbers → ______  
+C. found for the first time → ______  
+D. text created with pen/keyboard → ______  
+E. made for the first time (a new thing) → ______  
+F. planned the shape or look of something → ______  
+G. put together using stone/wood/metal → ______  
+H. commonly applied or in operation → ______
 
 -------
 
@@ -53,12 +56,20 @@ Change to passive:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Inventions”](https://www.newsinlevels.com/)  
+**Text:** [American Inventions: The Television](https://learningenglish.voanews.com/a/american-inventions-the-television-/7966519.html)  
 
-Answer:
-1. What invention is described?  
-2. When was it invented?  
-3. How is it used today?  
+**Task:** Read and answer:
+1. What invention is described in the text?  
+2. Who is connected with this invention?  
+3. In which year was the first working television receiver demonstrated?  
+4. What kinds of experiences does television let people share?  
+
+-------
+
+## Speaking (3–4 min)
+- Name 2–3 things that **are produced** in your region.  
+- Say one building that **was built** before 1950.  
+- Mention a device that **was invented** in your country.
 
 -------
 
