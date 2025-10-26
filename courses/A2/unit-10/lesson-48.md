@@ -53,12 +53,12 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Conditional Sentences”](https://learningenglish.voanews.com/)  
+Audio: [Everyday Grammar: Second Conditional – The Conditional of Daydreaming](https://learningenglish.voanews.com/a/5965365.html)  
 
 Answer:
-1. What examples are given?  
-2. Which are real, which are imaginary?  
-3. Which can you use in your life?  
+1. What imaginary situation is mentioned?  
+2. How is the second conditional formed?  
+3. Give one example from the audio or make your own.
 
 -------
 
