@@ -51,12 +51,21 @@ Complete with Passive:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Events”](https://www.newsinlevels.com/)  
+**City Bridge Reopened After Repairs**
 
-Answer:
-1. What event happened?  
-2. How is it described in passive?  
-3. Who was affected?  
+After last month’s storm, the Old River Bridge **was closed** for safety checks.  
+This week, the bridge **was repaired** and **was reopened** to the public on Monday morning.  
+Extra lights **were installed**, and warning signs **were added** near the entrance.  
+During the work, traffic **was redirected** to the North Road.  
+According to the city office, two small cracks **were found**, but no serious damage **was reported**.  
+A short ceremony **was held**, and the first pedestrians **were allowed** to cross at 9 a.m.  
+Drivers are reminded that the speed limit **has been reduced** to 20 km/h.
+
+**Task:** Read and answer:  
+1. Why was the bridge closed?  
+2. When was it reopened?  
+3. Name two things that were installed or added.  
+4. Which sentence uses the passive to talk about finding problems?
 
 -------
 
