@@ -27,13 +27,13 @@ Words: pollution, climate, recycle, protect, reduce, energy, responsibility, env
 
 **Match (8)**  
 A. make smaller → ______  
-B. opposite of dirty → ______  
-C. to keep safe → ______  
-D. duty → ______  
-E. nature around us → ______  
-F. temperature/weather → ______  
-G. rubbish in air/water → ______  
-H. use again → ______  
+B. long-term weather pattern → ______  
+C. use again → ______  
+D. keep safe from harm → ______  
+E. power from electricity, wind, etc. → ______  
+F. duty; what you should do → ______  
+G. nature around us (air, land, water) → ______  
+H. dirty air/water/land → ______
 
 -------
 
@@ -49,12 +49,12 @@ Complete with must/should/might/can:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Environment”](https://www.newsinlevels.com/)  
+**Text:** [Greenland Holds Important Position in a Warming World](https://learningenglish.voanews.com/a/greenland-holds-important-position-in-a-warming-world/7935035.html)
 
-Answer:
-1. What problem is described?  
-2. What solutions are suggested?  
-3. Which can you do personally?  
+**Task:**  
+1. What place is described and why is it important for the planet?  
+2. What environmental issues are mentioned?  
+3. Write two tips people **should** follow to help the environment (use modals).
 
 -------
 
