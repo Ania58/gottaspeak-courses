@@ -22,7 +22,7 @@ Answer:
 
 Common mistakes:  
 ❌ The man which helps me → ✅ The man who helps me  
-❌ The place when I live → ✅ The place where I live  
+❌ The place which I live → ✅ The place where I live  
 
 -------
 
@@ -53,12 +53,12 @@ Complete with **who/which/that/where**:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “People Who Inspire”](https://www.newsinlevels.com/)  
+**Text:** [A message to a new friend — British Council LearnEnglish (A2)](https://learnenglish.britishcouncil.org/skills/reading/a2-reading/message-new-friend)
 
-Answer:  
-1. Who is described?  
-2. What makes them special?  
-3. Which relative clauses are used in the text?  
+**Task:**  
+1. List three people or things from the text (e.g., a person, a place, an object).  
+2. Write **two sentences** about them using **who**, **which** or **that**.  
+3. Find one sentence in the text you can expand with a **relative clause**, and rewrite it. 
 
 -------
 
