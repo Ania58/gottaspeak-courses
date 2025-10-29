@@ -28,35 +28,35 @@ Common mistakes:
 Words: advice, rule, obligation, ban, suggestion, certainty, doubt, permission.  
 
 **Match (8)**  
-A. official instruction → ______  
-B. strong belief → ______  
-C. opposite of permission → ______  
-D. opposite of uncertainty → ______  
-E. personal opinion → ______  
-F. not sure → ______  
-G. duty → ______  
-H. something you propose → ______  
+A. an official instruction people must follow → ______   
+B. complete confidence that something is true → ______    
+C. when something is officially **not allowed** → ______   
+D. a feeling of **not being sure** → ______   
+E. a helpful idea about what someone should do → ______   
+F. an idea to consider or try (not a rule) → ______   
+G. something you **have to** do (a duty) → ______   
+H. the right to do something because it’s allowed → ______  
 
 -------
 
 ## Controlled Practice (6 min)
-Complete:  
-1. You ______ (should) drink more water.  
-2. He ______ (must) be very tired.  
-3. That ______ (can’t) be true.  
-4. We ______ (should) call her.  
-5. She ______ (must) be at home.  
-6. It ______ (can’t) be their car.  
+Choose **should / must / can’t**.
+1. It’s late and you look tired. You ______ go home and rest.  
+2. “The lights are off and his car isn’t here.” — He ______ be at home.  
+3. This museum has a sign: “No photos.” You ______ take pictures inside.  
+4. It’s exam week tomorrow. You ______ bring your ID card to the test.  
+5. The teacher gave us extra practice online. You ______ try those exercises.  
+6. The door is locked from the inside. Someone ______ be in the room. 
 
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Advice Column”](https://www.newsinlevels.com/)  
+**Text:** [Shopping signs and notices — British Council (A2)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/shopping-signs-notices)
 
-Answer:  
-1. What problem is described?  
-2. What advice is given?  
-3. Do you agree with it?  
+**Task:**  
+1. Write two **rules** from the adverts using **must/can’t**.  
+2. Write one **advice** sentence for shoppers using **should**.  
+3. Make one **deduction** with **must** (why a rule exists).
 
 -------
 
