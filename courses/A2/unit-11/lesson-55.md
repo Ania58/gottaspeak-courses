@@ -25,43 +25,43 @@ Answer:
 
 Common mistakes:  
 ❌ Enough tall → ✅ Tall enough  
-❌ Both of my friend → ✅ Both of my friends  
+❌ Both my friends → ✅ Both of my friends  
 
 -------
 
 ## Vocabulary (5 min)
-Words: tall, short, heavy, light, rich, poor, strong, weak.  
+Words: **friendly, unfriendly, lazy, hard-working, confident, shy, clever, silly**
 
-**Match (8)**  
-A. opposite of weak → ______  
-B. not tall → ______  
-C. opposite of heavy → ______  
-D. opposite of poor → ______  
-E. having money → ______  
-F. not light → ______  
-G. opposite of strong → ______  
-H. not rich → ______  
-
+**Match (8) — 1:1 and clear**  
+A. kind and easy to talk to → ______  
+B. opposite of friendly → ______  
+C. doesn’t like working much → ______  
+D. opposite of lazy → ______  
+E. sure of yourself; not afraid to speak → ______  
+F. nervous or quiet in social situations → ______  
+G. intelligent; learns quickly → ______  
+H. opposite of clever → ______  
 -------
 
 ## Controlled Practice (6 min)
-Complete:  
-1. He is too ______ to lift the box.  
-2. She isn’t old ______ to drive.  
-3. We don’t have ______ chairs.  
-4. Both my sisters ______ teachers.  
-5. Neither of them ______ coffee.  
-6. You can take ______ bus.  
+Complete:
+1. He’s too ______ to talk to new people.  
+2. She isn’t confident ______ to sing on stage.  
+3. We don’t have ______ time to finish today.  
+4. Both my friends ______ very clever.  
+5. Neither of them ______ lazy — they study a lot.  
+6. You can take ______ answer; both are fine.
 
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Opinions about People”](https://www.newsinlevels.com/)  
+**Text:** [Going out — A2 Reading (British Council LearnEnglish Teens)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/going-out)
 
-Answer:  
-1. What opinions are expressed?  
-2. Are they positive or negative?  
-3. Do you agree?  
+**Task:**
+1. Choose two adverts and write one opinion sentence with **too** or **enough** for each (e.g., *The concert is too expensive / The museum is cheap enough for students*).
+2. Write one sentence with **both/neither/either** comparing **two** adverts (e.g., *Both events start at 7 p.m.* / *Neither event is outdoors.* / *You can go to either event on Saturday*).
+3. Do you agree with your own opinions? Write **one** short justification (1 sentence).
+ 
 
 -------
 
