@@ -10,7 +10,7 @@ duration: 30
 1. She’s the teacher ______ teaches English.  
 2. I was reading when the phone ______ (ring).  
 3. I have lived here ______ 2018.  
-4. You ______ (must) be very tired.  
+4. You ______  be very tired.  
 5. She isn’t tall ______ to reach the shelf.  
 6. Both my friends ______ doctors.  
 7. Stranger, neighbour, colleague, ______ (add one more).  
@@ -18,13 +18,14 @@ duration: 30
 
 -------
 
-## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Life Stories”](https://learningenglish.voanews.com/)  
+## Skills – Listening (3–4 min)
+Audio: [Let’s Learn English – Lesson 38: She’s My Best Friend](https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html)
 
-Answer:  
-1. Who is described?  
-2. What advice is given?  
-3. What experience is shared?  
+Answer:
+1. Who visits Anna and where are they?
+2. What do Anna and Penelope do together in the episode?
+3. Make one sentence in present perfect about their friendship using **for** or **since**.
+
 
 -------
 
