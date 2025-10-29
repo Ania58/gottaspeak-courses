@@ -20,7 +20,7 @@ Answer:
 
 Common mistakes:  
 ❌ I was watch → ✅ I was watching  
-❌ They plays → ✅ They were playing  
+❌ They playing → ✅ They were playing  
 
 -------
 
@@ -51,12 +51,12 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Unusual Events”](https://www.newsinlevels.com/)  
+**Text:** [A walk in the forest (A2) — LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/study-break/reading-zone/a2-graded-reading/walk-forest-a2)
 
-Answer:  
-1. What happened?  
-2. What were people doing when it happened?  
-3. How did the story finish?  
+**Tasks (only 3):**
+1) Find three sentences in **present simple** and rewrite them in **past simple**.  
+2) Find two sentences in **present continuous** and rewrite them in **past continuous**.  
+3) In one or two sentences, explain the **main event** of the story (who/what/where). 
 
 -------
 
