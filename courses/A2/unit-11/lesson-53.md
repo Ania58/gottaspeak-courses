@@ -29,13 +29,13 @@ Words: decade, recently, lately, already, yet, for ages, since, permanent.
 
 **Match (8)**  
 A. opposite of temporary → ______  
-B. period of 10 years → ______  
-C. up to now → ______  
-D. during a long time → ______  
-E. opposite of not yet → ______  
-F. marker of start → ______  
-G. during weeks/months → ______  
-H. in the near past → ______  
+B. a period of 10 years → ______  
+C. used in negatives/questions to mean “until now” → ______  
+D. for a very long time → ______  
+E. used in affirmatives to mean “before now” → ______  
+F. from a specific starting point (e.g., 2010) → ______  
+G. in the last weeks or months (ongoing trend) → ______  
+H. in the near past (general) → ______
 
 -------
 
@@ -51,13 +51,12 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Living in Cities”](https://learningenglish.voanews.com/)  
+Audio: [Two Americans living in London – A2 Listening Test (Test-English)](https://test-english.com/listening/a2/two-americans-living-in-london-listening-test/)
 
-Answer:  
-1. How long have people lived in the place?  
-2. What changes have they seen?  
-3. What is still the same?  
-
+Answer:
+1. Who moved to London first and why?
+2. Write one sentence in **present perfect + for** about either Kevin or Samantha (choose a reasonable duration).
+3. Write one sentence in **present perfect + since** about either Kevin or Samantha (choose a realistic starting point).
 -------
 
 ## Writing (3 min)
