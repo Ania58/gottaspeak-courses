@@ -51,12 +51,20 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Working Hard”](https://www.newsinlevels.com/)  
+**Text: “Night Classes”**
 
-Answer:  
-1. What has the person been doing?  
-2. For how long?  
-3. What is the result?  
+For the last three months, Marta **has been attending** night classes after work.  
+She **has been studying** English twice a week because she wants a promotion.  
+Her friend Leo **has been helping** her with homework, and they **have been meeting** in a café on Fridays.  
+This week, Marta **has been preparing** for an important speaking test.  
+She **has been practising** presentations and **has been recording** herself on her phone.  
+Since Monday, she **has been sleeping** less than usual, but she feels proud.  
+Her teacher says her pronunciation **has been improving** a lot.
+
+**Task:**
+1. What has Marta been doing recently, and why?  
+2. Since when has she been preparing for the test?  
+3. Write two more sentences about Marta using **have/has been + -ing** with **for** or **since**. 
 
 -------
 
