@@ -27,18 +27,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (5 min)
-Words: amount, quantity, number, plenty, shortage, lack, extra, enough.  
+Words: **homework, information, advice, water, chairs, emails, tasks, time**
 
-**Match (8)**  
-A. opposite of shortage → ______  
-B. opposite of too little → ______  
-C. total count → ______  
-D. something missing → ______  
-E. opposite of small → ______  
-F. large supply → ______  
-G. additional → ______  
-H. how much or how many → ______  
-
+**Match (8) — clear 1:1**
+A. uncountable school work → ______  
+B. facts you receive (uncountable) → ______  
+C. helpful suggestions (uncountable) → ______  
+D. liquid you drink (uncountable) → ______  
+E. seats for one person (countable) → ______  
+F. messages sent electronically (countable) → ______  
+G. pieces of work to do (countable) → ______  
+H. hours/minutes available (uncountable) → ______
 -------
 
 ## Controlled Practice (6 min)
@@ -53,12 +52,13 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Education and Numbers”](https://learningenglish.voanews.com/)  
+**Audio:** [Stop wasting time — A2 Listening (British Council LearnEnglish Teens)](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/stop-wasting-time)
 
-Answer:  
-1. What numbers are given?  
-2. Where is there a shortage?  
-3. Where is there plenty?  
+**Answer:**
+1. List two things that waste time in the dialogue.  
+2. Write one sentence with **much/many/a lot of** about study time or distractions (your own idea).  
+3. Write one sentence with **enough / (a) few / (a) little** about what a student needs.
+
 
 -------
 
