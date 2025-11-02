@@ -48,12 +48,12 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Dreams and Work”](https://www.newsinlevels.com/)  
+**Text:** [Dreams (A2) — LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/study-break/reading-zone/a2-graded-reading/dreams-a2)
 
-Answer:  
-1. What ambitions are described?  
-2. How do people try to achieve them?  
-3. Do you have similar ambitions?  
+**Task:**
+1. What ambitions or dreams are mentioned in the text?
+2. Write two sentences about your goals using **present perfect continuous** (e.g., *I have been preparing…*).
+3. Write two short pieces of advice using **should** for someone who wants to reach a dream from the text.
 
 -------
 
