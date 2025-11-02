@@ -52,12 +52,12 @@ Change to passive:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Work and Education”](https://www.newsinlevels.com/)  
+**Text:** [An end of term report — A2 Reading (British Council)](https://learnenglish.britishcouncil.org/skills/reading/a2-reading/end-term-report)
 
-Answer:  
-1. What event is reported?  
-2. How is it described in passive?  
-3. Who is affected?  
+**Task:**
+1. What subject(s) does the report talk about and what results are mentioned?
+2. Rewrite two facts from the report in the **passive** (e.g., *Exams are given in June.* / *Homework is checked every week.*).
+3. Write one passive sentence about school or work in your country (Present Simple or Past Simple). 
 
 -------
 
