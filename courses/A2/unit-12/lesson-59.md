@@ -52,12 +52,12 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Future and Imaginary Situations”](https://learningenglish.voanews.com/)  
+Audio: [If I were a millionaire – A2 Listening Test (Test-English)](https://test-english.com/listening/a2/if-i-were-a-millionaire-second-conditional-a2-english-listening-test/)
 
-Answer:  
-1. What real examples are given?  
-2. What imaginary examples are given?  
-3. Which could happen to you?  
+Answer:
+1. Write two things the speakers **would** do if they were millionaires.
+2. Make two **first conditional** sentences about *real* study/work plans in your life (If + present, will + base verb).
+3. Make one **second conditional** sentence about an imaginary situation in your life (If + past, would + base verb).  
 
 -------
 
