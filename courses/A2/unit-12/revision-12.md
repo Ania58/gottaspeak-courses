@@ -14,17 +14,17 @@ duration: 30
 5. If I study, I ______ (pass). (1st cond.)  
 6. If I had money, I ______ (travel). (2nd cond.)  
 7. Ambition, effort, challenge, ______ (add one more).  
-8. You ______ (should) sleep more.  
+8. You ______ (modal) sleep more.  
 
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Education and Careers”](https://learningenglish.voanews.com/)  
+Audio: [Work — A2 Listening (British Council LearnEnglish Teens)](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/work)
 
-Answer:  
-1. What is the topic?  
-2. What problems are mentioned?  
-3. What solutions are suggested?  
+Answer:
+1. Which jobs are mentioned (name two)?
+2. What does one speaker like about their job?
+3. Write one **present perfect continuous** sentence about study/work in your life, and one **first or second conditional** about your plans/dreams.
 
 -------
 
