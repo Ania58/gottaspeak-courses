@@ -54,12 +54,12 @@ Complete with comparative/superlative/as…as:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Comparing Transport”](https://www.newsinlevels.com/)  
+**Text:** [Accommodation – A2 Reading Test (Test-English)](https://test-english.com/reading/a2/accommodation/)
 
-Answer:  
-1. Which transport is cheapest?  
-2. Which is fastest?  
-3. Which is most popular?  
+**Task:**
+1. Compare two accommodation options from the text in **two** sentences (e.g., *X is cheaper than Y* / *Y is more comfortable than X*).
+2. Write **one superlative** sentence about any option (e.g., *X is the most convenient place for surfers*).
+3. Write **one** sentence with **as … as / not as … as** comparing price or comfort. 
 
 -------
 
