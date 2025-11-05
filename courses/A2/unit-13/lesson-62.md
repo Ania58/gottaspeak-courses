@@ -28,14 +28,14 @@ Common mistakes:
 Words: accident, adventure, guide, tourist, map, lost, found, direction.  
 
 **Match (8)**  
-A. someone who shows you places → ______  
-B. opposite of won → ______  
-C. unusual experience → ______  
-D. person visiting a place → ______  
-E. paper with roads → ______  
+A. unexpected bad event on the road → ______  
+B. exciting or unusual experience → ______  
+C. person who shows and explains places → ______  
+D. person visiting another place → ______  
+E. paper or app showing streets and routes → ______  
 F. when you don’t know where you are → ______  
 G. opposite of lost → ______  
-H. instruction how to go → ______  
+H. information about how to reach a place → ______ 
 
 -------
 
@@ -51,12 +51,12 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Tourist Stories”](https://www.newsinlevels.com/)  
+**Text:** [A round-the-world trip — A2 English Reading Test](https://englishpracticetest.net/a-round-the-world-trip-a2-english-reading-test/)
 
-Answer:  
-1. What happened to the tourist?  
-2. What problems did they face?  
-3. How did the story end?  
+**Task:**
+1. What happened on the trip? Mention two key events.  
+2. List the places visited in order.  
+3. Write one sentence using **past continuous + when + past simple** to describe a moment from the story (your own wording).  
 
 -------
 
