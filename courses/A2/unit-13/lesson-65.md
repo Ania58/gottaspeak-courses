@@ -23,17 +23,17 @@ Answer:
 -------
 
 ## Vocabulary (5 min)
-Words: pollution, recycling, renewable, waste, protect, climate, energy, environment.  
+Words: **pollution, recycling, renewable, waste, protect, climate, energy, environment**
 
-**Match (8)**  
-A. opposite of dirty → ______  
-B. opposite of non-renewable → ______  
-C. rubbish material → ______  
-D. nature around us → ______  
-E. save from danger → ______  
-F. temperature/weather → ______  
-G. using power → ______  
-H. bad air/water/land → ______  
+**Match (8) — 1:1**
+A. dirty air/water/land → ______  
+B. turning used materials into new products → ______  
+C. power that comes back naturally (e.g., wind, solar) → ______  
+D. rubbish or things thrown away → ______  
+E. keep something safe from harm → ______  
+F. typical weather in a place over time → ______  
+G. power used for heat/light/machines → ______  
+H. natural world around us → ______
 
 -------
 
@@ -49,12 +49,13 @@ Complete with must/should/can/can’t:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Environment”](https://www.newsinlevels.com/)  
+**Text:** [About the Earth — A2 Reading (British Council LearnEnglish Teens)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/about-earth)
 
-Answer:  
-1. What problem is described?  
-2. What solutions are suggested?  
-3. Which can you do personally?  
+**Task:**
+1. Note two facts from the quiz and turn them into advice with **should**.  
+2. Write one rule with **must/can’t** that would help the Earth.  
+3. Write one sentence using a word from the Vocabulary section.
+ 
 
 -------
 
