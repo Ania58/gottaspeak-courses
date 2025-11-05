@@ -19,12 +19,12 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Tourism and Environment”](https://learningenglish.voanews.com/)  
+Audio: [London transport – A2 English Listening Test (Test-English)](https://test-english.com/listening/a2/london-transport-listening-test/)
 
-Answer:  
-1. What is the problem with tourism?  
-2. What solutions are suggested?  
-3. Do you agree?  
+Answer:
+1. Note two facts from the audio and write **one comparative** sentence (e.g., faster/cheaper than).
+2. Write **one modal** rule or advice for travellers (must/should/can’t) based on the audio or common transport rules.
+3. Use **one travel phrasal verb** (e.g., set off, get on, get off) to describe a step of the journey.
 
 -------
 
