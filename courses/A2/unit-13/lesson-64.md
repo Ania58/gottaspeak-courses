@@ -13,7 +13,7 @@ Answer:
 
 -------
 
-## Idioms & Phrasal Verbs (7 min)
+## Idioms & Phrasal Verbs (3 min)
 - set off (start a journey)  
 - check in (at a hotel/airport)  
 - get on / get off (transport)  
@@ -49,12 +49,13 @@ Complete with idioms/phrasal verbs:
 
 -------
 
-## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Travel Tips”](https://learningenglish.voanews.com/)  
+## Skills – Listening (10 min)
+Audio: [Words to Travel With, Part 1 (VOA Learning English)](https://learningenglish.voanews.com/a/words-to-travel-with-part-1/4687812.html)
 
-Answer:  
-1. What advice is given?  
-2. Which phrasal verbs or idioms could you use to describe it?  
+Answer:
+1) Write three travel phrasal verbs you hear (e.g., **check in, take off, pick up**).  
+2) Match each to a meaning from the lesson list (set off / check in / get on / get off / run out of / miss the boat / hit the road).  
+3) Make two new sentences about your last trip using any two of those phrasal verbs.
 
 -------
 
