@@ -23,18 +23,17 @@ Answer:
 -------
 
 ## Vocabulary (5 min)
-Words: museum, monument, temple, village, capital, square, guidebook, traveller.  
+Words: **museum, monument, temple, village, capital, square, guidebook, traveller**.
 
-**Match (8)**  
-A. opposite of countryside → ______  
-B. book with travel information → ______  
-C. large open area in a city → ______  
-D. small town → ______  
-E. historical building → ______  
-F. building for art/history → ______  
-G. main city of a country → ______  
+**Match (8) — 1:1**  
+A. building for art/history → ______  
+B. statue/building to remember a person/event → ______  
+C. religious building in many countries → ______  
+D. small town in the countryside → ______  
+E. main city of a country → ______  
+F. large open area in a city → ______  
+G. book with travel information and tips → ______  
 H. someone who goes on trips → ______  
-
 -------
 
 ## Controlled Practice (6 min)
@@ -49,12 +48,12 @@ Complete with **who/which/where/that**:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Cities That Attract Tourists”](https://www.newsinlevels.com/)  
+**Text:** [My city — A2 Reading (British Council LearnEnglish Teens)](https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading/my-city)
 
-Answer:  
-1. Which cities are described?  
-2. What relative clauses can you find in the text?  
-3. Which place would you like to visit?  
+**Task:**  
+1. Pick **two nouns** from the text (e.g., a place or person) and write sentences with **who/which/where/that** to add extra information.  
+2. Write **one sentence** comparing two places from the text and add a **relative clause** (e.g., *The museum, which…*).  
+3. Write **one question** to your tutor about a place **where** they like to go.
 
 -------
 
