@@ -22,38 +22,38 @@ Answer:
 -------
 
 ## Vocabulary (5 min)
-Words: budget, income, expense, tax, credit, profit, risk, value.  
+Words: **budget, income, expense, tax, credit, profit, risk, value**
 
-**Match (8)**  
-A. money you get regularly → ______  
-B. opposite of loss → ______  
-C. opposite of debit → ______  
-D. total spending → ______  
-E. opposite of safe → ______  
-F. money plan → ______  
-G. government money → ______  
-H. importance → ______  
-
+**Match (8)**
+A. money you receive regularly (e.g., salary) → ______  
+B. total amount you spend → ______  
+C. official money paid to the government → ______  
+D. money plan to control spending → ______  
+E. money you get from a successful business → ______  
+F. danger of losing money → ______  
+G. trust or money limit from a bank → ______  
+H. importance or worth of something → ______  
 -------
 
 ## Controlled Practice (6 min)
 Complete:  
-1. People ______ (must) pay taxes.  
-2. You ______ (should) make a budget.  
-3. They ______ (can’t) spend all their savings.  
-4. She ______ (must) pay her bills.  
-5. He ______ (should) reduce expenses.  
-6. We ______ (can’t) avoid taxes.  
+1. People ______ pay taxes. There is no option.
+2. You ______make a budget. This way you can control your spendings.
+3. They ______spend all their savings. They would be in serious troubles if they did.
+4. She ______ pay her bills if she wants to continue living here.
+5. He ______ reduce expenses. That's the best thing to do.
+6. We ______ avoid taxes. It's a crime to do it.
 
 -------
 
-## Skills – Reading (5 min)
-Text: [News in Levels – “Money and Rules”](https://www.newsinlevels.com/)  
+## Skills – Listening (5 min)
+**Audio:** [There are Many Ways to Save Your Money in the U.S. — VOA Learning English](https://learningenglish.voanews.com/a/many-ways-to-save-money-in-the-us/3295565.html)
 
-Answer:  
-1. What financial rules are described?  
-2. Why are they important?  
-3. Which apply to you?  
+**Task:**
+1. List two money rules or tips from the listening.  
+2. Write two sentences using **must/should/can’t** based on the advice (e.g., *You should make a budget.* / *You can’t spend more than you earn.*).  
+3. Do any of these rules apply to you? Write one sentence.
+
 
 -------
 
