@@ -27,14 +27,14 @@ Common mistakes:
 Words: price, value, quality, cheap, expensive, convenient, comfortable, safe.  
 
 **Match (8)**  
-A. opposite of dangerous → ______  
-B. opposite of uncomfortable → ______  
-C. opposite of expensive → ______  
-D. usefulness → ______  
-E. cost → ______  
-F. standard → ______  
-G. feeling easy → ______  
-H. not difficult → ______  
+A. the amount of money something costs → ______  
+B. how good or bad something is → ______  
+C. what something is worth → ______  
+D. opposite of dangerous → ______  
+E. easy to use or access → ______  
+F. giving physical ease → ______  
+G. costing little money → ______  
+H. costing a lot of money → ______  
 
 -------
 
@@ -50,13 +50,12 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Shopping Habits”](https://learningenglish.voanews.com/)  
+**Audio:** [Supermarket Shopping – ESL Listening (Randall’s ESL Lab)](https://www.esl-lab.com/easy/supermarket-shopping/)
 
-Answer:  
-1. What habits are described?  
-2. Are online and offline shopping compared?  
-3. Which is more popular?  
-
+**Task:**
+1. What are the people buying in the supermarket?  
+2. Which products are cheaper or more expensive?  
+3. Write two sentences using **as…as** or **not as…as** to describe what they buy.
 -------
 
 ## Speaking (3 min)
