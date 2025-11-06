@@ -24,18 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (5 min)
-Words: debt, loan, bill, savings, price tag, wallet, coin, note.  
+Words: **debt, loan, bill, savings, price tag, wallet, coin, note** 
 
 **Match (8)**  
-A. opposite of borrow → ______  
-B. opposite of paper money → ______  
-C. small round money → ______  
-D. opposite of expensive → ______  
-E. something you must pay → ______  
-F. opposite of debt → ______  
-G. money you keep → ______  
-H. container for money → ______  
-
+A. money you owe → ______  
+B. money you borrow from a bank → ______  
+C. paper showing how much you must pay → ______  
+D. money you keep for the future → ______  
+E. small round metal money → ______  
+F. paper money → ______  
+G. label showing the cost → ______  
+H. small case for keeping money → ______  
 -------
 
 ## Controlled Practice (6 min)
@@ -50,12 +49,12 @@ Complete with idioms/phrasals:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Money and Spending”](https://learningenglish.voanews.com/)  
+**Audio:** [Spending Money – Easy Listening (Randall’s ESL Lab)](https://www.esl-lab.com/easy/spending-money/)
 
-Answer:  
-1. What advice is given?  
-2. Which phrasal verbs/idioms can describe it?  
-3. Do you agree?  
+**Task:**
+1. What money advice does the dad give? List two ideas.
+2. Paraphrase one idea using an idiom/phrasal verb from the lesson (e.g., **cut back on**, **run out of**, **pay off**).
+3. Write one sentence about your habits using **shop around** or **splash out on**.  
 
 -------
 
