@@ -52,12 +52,18 @@ Add a non-defining relative clause:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Shops and People”](https://www.newsinlevels.com/)  
+**Text: “Saturday at the Shopping Centre”**
 
-Answer:  
-1. Which relative clauses are used?  
-2. What extra information is given?  
-3. Do you know similar people/shops?  
+Last Saturday I went to the shopping centre with my friend Mia, **who always spends hours looking at shoes**.  
+We met Tom, **who works at the electronics store**, and he showed us some new headphones.  
+The café on the top floor, **which has amazing coffee**, was full, so we sat outside instead.  
+There was a street musician near the entrance, **who played really good jazz music**.  
+We stayed for almost three hours, **which was longer than we planned**, but it was a really nice day.
+
+**Task:**  
+1. Find and underline all the **non-defining relative clauses**.  
+2. Write two more sentences about your last shopping trip using **who** or **which**.  
+3. Write one short opinion sentence about shopping or free time with a **non-defining clause** (e.g. *Shopping, which I usually find tiring, can sometimes be fun.*)
 
 -------
 
