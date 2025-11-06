@@ -24,7 +24,7 @@ Answer:
 
 Common mistakes:  
 ❌ How many money? → ✅ How much money?  
-❌ No shops are → ✅ There are no shops.  
+❌ Are no shops → ✅ There are no shops.  
 
 -------
 
@@ -55,12 +55,19 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Shopping Trends”](https://www.newsinlevels.com/)  
+**Text: “Weekend Shopping”**
 
-Answer:  
-1. What do people buy most?  
-2. How much money do they spend?  
-3. Are there any discounts?  
+Every Saturday morning, Emma goes shopping with her friend Carla.  
+They usually visit the big mall near the station. There are **a lot of** shops, and Emma spends **some** time in every one.  
+She doesn’t buy **much** food, but she often gets **a few** new clothes.  
+Carla doesn’t have **much** money, so she looks for **some** good discounts.  
+This weekend, they also need **a little** time to buy gifts for Emma’s parents.  
+They never buy **too many** things, because their bags are heavy on the bus home!
+
+**Task:**
+1. Underline all the **quantifiers** in the text.  
+2. Write two sentences about Emma’s shopping using **a lot of / much / many / a few / a little**.  
+3. Write one short opinion sentence about your shopping habits using a quantifier. 
 
 -------
 
