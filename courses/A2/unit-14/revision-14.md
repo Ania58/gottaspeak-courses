@@ -11,20 +11,20 @@ duration: 30
 2. This shop is not ______ cheap as that one.  
 3. My sister, ______ loves shopping, spends too much.  
 4. We need to ______ before buying. (phrasal verb)  
-5. This TV ______ (cost) an arm and a leg.  
-6. People ______ (must) pay their bills.  
+5. This TV ______an arm and a leg.  
+6. People ______ pay their bills.  
 7. Wallet, coin, note, ______ (add one more).  
 8. They have cut ______ on their expenses.  
 
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Shopping and Money”](https://learningenglish.voanews.com/)  
+**Audio:** [Clothes by Season – Elllo (Views #1435)](https://www.elllo.org/english/1401/1435-MegTodd-Clothes-Shopping.htm)
 
-Answer:  
-1. What money advice is given?  
-2. Which habits are good/bad?  
-3. Do you follow similar rules?  
+**Task:**
+1. What two clothing items do the speakers compare, and why?  
+2. Write one piece of shopping advice using a **modal** or **phrasal verb**.  
+3. Write one sentence using **as…as / not as…as** about price or comfort.
 
 -------
 
