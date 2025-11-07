@@ -32,14 +32,14 @@ Common mistakes:
 Words: tasty, delicious, spicy, salty, sweet, sour, traditional, meal.  
 
 **Match (8)**  
-A. opposite of sour → ______  
-B. opposite of salty → ______  
-C. opposite of bitter → ______  
-D. opposite of modern → ______  
-E. strong hot taste → ______  
-F. general word for eating → ______  
-G. very good taste → ______  
-H. having much sugar → ______  
+A. not sour; pleasant and full of sugar → ______  
+B. not salty; mild in taste → ______  
+C. not bitter; pleasant and mild → ______  
+D. not new; from a long time ago → ______  
+E. having a strong, hot flavor (like chili) → ______  
+F. any food eaten at one time (breakfast, lunch, dinner) → ______  
+G. having a very good flavor → ______  
+H. having a very nice taste (informal) → ______  
 
 -------
 
@@ -55,12 +55,12 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Food and Taste”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “What Is Your Country’s National Dish?”](https://learningenglish.voanews.com/a/what-is-your-country-s-national-dish-/7526178.html)  
 
 Answer:  
-1. Which foods are described?  
-2. What adjectives are used?  
-3. Do you agree?  
+1. Which countries and dishes are mentioned in the audio?  
+2. What ingredients are used in one of the national dishes?  
+3. Which dish would you like to try, and why?  
 
 -------
 
