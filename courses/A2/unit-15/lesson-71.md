@@ -26,17 +26,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (5 min)
-Words: bread, butter, rice, pasta, meat, fruit, vegetables, cheese.  
+Words: **ingredients, meal, dish, portion, recipe, taste, smell, flavour**
 
-**Match (8)**  
-A. opposite of meat → ______  
-B. opposite of sweet → ______  
-C. product from milk → ______  
-D. basic grain for Asia → ______  
-E. Italian grain dish → ______  
-F. breakfast toast → ______  
-G. yellow spread → ______  
-H. apples, bananas, pears → ______  
+**Match (8)**
+A. one serving of food → ______  
+B. instructions for preparing food → ______  
+C. what you need to cook something → ______  
+D. something you eat at breakfast, lunch, or dinner → ______  
+E. how food feels in your mouth → ______  
+F. how food smells → ______  
+G. how food tastes → ______  
+H. type of prepared food (e.g., soup, salad) → ______
 
 -------
 
@@ -52,12 +52,12 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Food Around the World”](https://www.newsinlevels.com/)  
+**Text:** [Breakfast Around the World — VOA Learning English](https://learningenglish.voanews.com/a/breakfast-around-the-world/4562233.html)
 
-Answer:  
-1. What foods are mentioned?  
-2. Are they countable or uncountable?  
-3. Which do you eat often?  
+**Task:**
+1. List 6 foods from the article. Mark each as **countable** or **uncountable**.  
+2. Write two sentences with **much/many** (e.g., *Many people eat…*, *There isn’t much…*).  
+3. Write one sentence with **some/any** about your breakfast habits.
 
 -------
 
