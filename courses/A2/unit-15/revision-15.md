@@ -19,12 +19,14 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Food and Culture”](https://learningenglish.voanews.com/)  
+Audio: [BBC Learning English – “The health benefits of apples”](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230223)  
 
 Answer:  
-1. What foods are described?  
-2. What cultural rules are mentioned?  
-3. Do you follow similar ones?  
+1. What makes apples good for your health?  
+2. What nutrients or benefits are mentioned in the recording?  
+3. Why do people say “an apple a day keeps the doctor away”?  
+4. What new things did you learn about apples from the programme?  
+ 
 
 -------
 
