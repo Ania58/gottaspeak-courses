@@ -50,12 +50,21 @@ Complete with relative clauses:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Food Stories”](https://www.newsinlevels.com/)  
+**Text: "A Day in the Kitchen"**
 
-Answer:  
-1. What food is described?  
-2. What relative clauses can you find?  
-3. Which food would you like to try?  
+Every morning, the chef starts his day in a kitchen **that smells of fresh bread**.  
+He checks the ingredients **which arrive from local farms**.  
+There is a baker **who makes sweet rolls** and a waiter **who prepares the tables**.  
+The dishes **that the chef cooks** are simple but delicious.  
+At lunchtime, people come to eat food **which reminds them of home**.  
+It’s a small restaurant **that many families visit every weekend**.
+
+**Answer:**  
+1. Find four sentences with relative clauses in the text.  
+2. Which relative pronouns are used?  
+3. Rewrite one sentence replacing **that** with **which** (if possible).  
+4. Write one new sentence about food using a relative clause.  
+ 
 
 -------
 
