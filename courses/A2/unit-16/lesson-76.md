@@ -30,14 +30,14 @@ Common mistakes:
 Words: hobby, leisure, interest, club, activity, music, sport, art.  
 
 **Match (8)**  
-A. opposite of work → ______  
-B. opposite of science → ______  
-C. opposite of disinterest → ______  
-D. small group → ______  
-E. something you do for fun → ______  
-F. organised play → ______  
-G. creative subject → ______  
-H. sounds for listening → ______  
+A. time when you are not working → ______  
+B. something you do regularly for pleasure → ______  
+C. creative work like painting or drawing → ______  
+D. a group where people share a common hobby → ______  
+E. something you do for enjoyment → ______  
+F. things you like or care about → ______  
+G. games or physical exercise for fun or competition → ______  
+H. sounds made by voices or instruments → ______  
 
 -------
 
@@ -53,12 +53,14 @@ Complete with -ing or to + verb:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Learning New Skills”](https://learningenglish.voanews.com/)  
+Audio: [BBC Learning English – “Sunny’s job hunt – Gerunds and infinitives”](https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-10/session-1)  
 
 Answer:  
-1. What new skills are described?  
-2. Which use -ing and which use *to + verb*?  
-3. Which one would you like to try?  
+1. Who is Sunny and what is she looking for?  
+2. What job does she want to find?  
+3. Which verbs in the listening are followed by *-ing* and which by *to + verb*?  
+4. What does Sunny decide to do at the end of the video?  
+
 
 -------
 
