@@ -27,14 +27,14 @@ Answer:
 Words: plate, fork, spoon, knife, glass, bowl, napkin, tray.  
 
 **Match (8)**  
-A. you drink from it → ______  
-B. you cut with it → ______  
-C. round dish for food → ______  
-D. for soup → ______  
-E. opposite of fork → ______  
-F. cloth for mouth → ______  
-G. big flat container → ______  
-H. used with fork for eating → ______  
+A. something you drink from → ______  
+B. used for cutting food → ______  
+C. flat round dish you eat from → ______  
+D. deep round dish for soup or cereal → ______  
+E. metal tool with pointed ends for picking up food → ______  
+F. piece of cloth or paper to clean your mouth → ______  
+G. large flat object for carrying dishes → ______  
+H. metal tool with a small round end for eating liquids or desserts → ______  
 
 -------
 
@@ -50,12 +50,13 @@ Complete with idioms/phrasals:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Food and Expressions”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “Words and Their Stories: Food Expressions”](https://learningenglish.voanews.com/a/words-and-their-stories-food-expressions--116079729/118746.html)  
 
 Answer:  
-1. Which idioms are used?  
-2. What do they mean?  
-3. Can you use one in your own sentence?  
+1. Which food idioms are mentioned in the audio?  
+2. What does each idiom mean?  
+3. Which idiom do you find most interesting and why?  
+4. Can you think of a similar idiom in your language?  
 
 -------
 
