@@ -24,17 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (4 min)
-Words: guitar, painting, jogging, chess, cycling, dancing, swimming, cooking.  
+Words: photography, pottery, gardening, hiking, meditation, cooking, cycling, playing an instrument.  
 
 **Match (8)**  
-A. play with pieces on a board → ______  
-B. move fast on foot → ______  
-C. move in water → ______  
-D. opposite of driving → ______  
-E. opposite of stop → ______  
-F. opposite of old → ______  
-G. art with colours → ______  
-H. preparing food → ______  
+A. growing plants and flowers → ______  
+B. creating objects from clay → ______  
+C. walking long distances outdoors → ______  
+D. preparing meals creatively → ______  
+E. using a camera to take pictures → ______  
+F. using your mind to relax and focus → ______  
+G. travelling by bike → ______  
+H. making sounds with a guitar or piano → ______  
 
 -------
 
@@ -50,12 +50,13 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Hobbies and Free Time”](https://learningenglish.voanews.com/)  
+Audio: [ELLLO – “Alex’s Weekend”](https://www.elllo.org/english/1151/T1191-Alex-Biking.html)
 
-Answer:  
-1. What hobbies are described?  
-2. Which phrasal verbs could you use for them?  
-3. Do you do similar activities?  
+Answer:
+1. What does Alex like doing on weekends when he is alone?  
+2. What does he do when he is with friends?  
+3. Which activities are active and which are relaxing for him?  
+4. Choose two phrasal verbs from this lesson that match Alex’s activities and write sentences.
 
 -------
 
