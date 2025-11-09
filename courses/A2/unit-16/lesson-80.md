@@ -24,14 +24,14 @@ Answer:
 Words: tradition, pastime, sport, leisure, fun, hobby, practice, game.  
 
 **Match (8)**  
-A. opposite of work → ______  
-B. opposite of modern → ______  
-C. something you do often → ______  
-D. opposite of boring → ______  
-E. not professional → ______  
-F. organised play → ______  
-G. activity in free time → ______  
-H. what you like to do → ______  
+A. something people do regularly for fun → ______  
+B. time when you can rest or relax → ______  
+C. old custom followed by a group or country → ______  
+D. big public celebration with music and food → ______  
+E. physical or competitive game → ______  
+F. something you enjoy doing in your free time → ______  
+G. two days at the end of the week → ______  
+H. something you do for pleasure or interest → ______  
 
 -------
 
@@ -47,12 +47,22 @@ Complete:
 -------
 
 ## Skills – Reading (7 min)
-Text: [News in Levels – “Free Time Around the World”](https://www.newsinlevels.com/)  
+**Text: "Free Time Around the World"**
 
-Answer:  
-1. What hobbies are popular?  
-2. What cultural differences are mentioned?  
-3. Which hobby would you like to try?  
+People all over the world enjoy free time in different ways.  
+In Spain, many people spend their weekends with family and friends. They eat together, go to cafés, or watch football matches.  
+In Japan, people often do creative activities, such as calligraphy, flower arranging, or karaoke. These pastimes help them relax after a busy week.  
+In Brazil, weekends are full of energy. People dance, play music, and take part in street festivals.  
+In Poland, families like going for walks, visiting the countryside, or spending time at home cooking together.  
+Even if cultures are different, everyone needs leisure time to rest and enjoy life.  
+
+
+
+**Answer:**  
+1. What activities are popular in each country mentioned?  
+2. Which ones are similar to how people spend free time in your country?  
+3. Why is free time important for people everywhere?  
+4. Which activity would you like to try and why?  
 
 -------
 
