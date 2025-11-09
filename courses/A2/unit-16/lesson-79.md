@@ -50,12 +50,22 @@ Complete with idioms:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Time and Life”](https://www.newsinlevels.com/)  
+Text: 
+
+**“Time in Everyday Life”**  
+
+For most people, time moves very fast. We wake up, go to work, and before we know it, the day is over — time flies!  
+During the week, many people don’t have time for fun. They work, cook, and study. But at the weekend, things are different. That’s when they relax and have a whale of a time with their friends.  
+Sometimes, when we wait for someone or something, we look at our phones or read a book to kill time. And of course, everyone needs a break — after a long day, we just call it a day and rest.  
+Life is busy, but it’s important to stop once in a blue moon and enjoy it.  
+
+-------
 
 Answer:  
-1. What is said about time?  
-2. Which idioms could describe it?  
-3. Do you agree?  
+1. Why does the writer say “time flies”?  
+2. What do people usually do to relax?  
+3. How do they kill time when they wait?  
+4. What does the writer suggest we should do “once in a blue moon”?   
 
 -------
 
