@@ -19,12 +19,14 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Free Time and Hobbies”](https://learningenglish.voanews.com/)  
+Audio: [Test-English – “What are your hobbies?”](https://test-english.com/listening/a2/what-are-your-hobbies-a2-listening-test/)  
 
-Answer:  
-1. What hobbies are described?  
-2. What idioms are mentioned?  
-3. Which hobby is similar to yours?  
+**Answer:**  
+1. What hobbies do the speakers talk about?  
+2. Who prefers active hobbies and who prefers relaxing ones?  
+3. How often does each person do their hobby?  
+4. What reasons do they give for enjoying their hobbies?  
+5. Which of these hobbies would you like to try, and why? 
 
 -------
 
