@@ -24,17 +24,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (4 min)
-Words: cinema, park, café, concert, game, trip, exhibition, festival.  
+Words: picnic, sightseeing, volunteering, hiking, shopping, barbecue, museum, theatre.  
 
 **Match (8)**  
-A. place to see films → ______  
-B. short journey → ______  
-C. opposite of quiet → ______  
-D. music event → ______  
-E. trees and grass → ______  
-F. special cultural event → ______  
-G. place for drinks → ______  
-H. art event → ______  
+A. eating outside, usually in a park → ______  
+B. visiting interesting places as a tourist → ______  
+C. working without pay to help people → ______  
+D. walking long distances in nature → ______  
+E. buying things for fun or necessity → ______  
+F. cooking and eating food outdoors → ______  
+G. place to see art or history → ______  
+H. place to watch live performances → ______  
 
 -------
 
@@ -49,13 +49,15 @@ Complete:
 
 -------
 
-## Skills – Reading (6 min)
-Text: [News in Levels – “Weekend Activities”](https://www.newsinlevels.com/)  
+## Skills – Listening (6 min)
+Audio: [British Council – “Free time”](https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/free-time)  
 
 Answer:  
-1. What activities are popular?  
-2. Which are similar to yours?  
-3. Which are different?  
+1. What information does Tyrone ask for?  
+2. On which days does the club train?  
+3. When do matches take place?  
+4. How much does the club cost for under-18s?  
+5. What must Tyrone bring to join the club?  
 
 -------
 
