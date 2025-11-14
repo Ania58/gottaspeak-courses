@@ -22,7 +22,7 @@ Answer:
 
 Common mistakes:  
 ❌ Is a shop → ✅ There is a shop  
-❌ There are a shop → ✅ There is a shop  
+❌ There are a shops → ✅ There is a shop / There are shops
 
 -------
 
@@ -53,12 +53,23 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Homes Around the World”](https://www.newsinlevels.com/)  
+**Text: “Homes Around the World”**
 
-Answer:  
-1. What homes are described?  
-2. What is there in each?  
-3. Which is most similar to yours?  
+In Japan, many people live in small but modern apartments. There is usually one main room, a small kitchen, and a bathroom. There isn’t much space, but there are clever solutions — folding beds and tables, for example.  
+
+In Canada, there are large houses with big gardens. There is often a garage for two cars and a wooden deck behind the house. In winter, there is a lot of snow, so there are fireplaces in many homes.  
+
+In Morocco, there are beautiful traditional houses called riads. There is a central courtyard with a fountain, and there are colourful tiles on the walls. Families spend time together there in the evening.  
+
+No matter where you live, there is always something that makes a home special — it can be the people, the view, or the feeling of comfort.  
+
+-------
+
+**Answer:**  
+1. What types of homes are mentioned in the text?  
+2. What is there in each home?  
+3. How are the homes in Japan, Canada, and Morocco different?  
+4. What makes a home special, according to the text? 
 
 -------
 
