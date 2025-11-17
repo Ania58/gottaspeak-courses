@@ -24,38 +24,48 @@ Common mistakes:
 -------
 
 ## Vocabulary (4 min)
-Words: city, village, street, square, flat, house, neighbourhood, building.  
+Words: district, suburb, downtown, landmarks, neighbourhood, residential area, surroundings, local area.
 
 **Match (8)**  
-A. opposite of countryside → ______  
-B. open area in town → ______  
-C. many homes together → ______  
-D. structure to live in → ______  
-E. smaller than city → ______  
-F. small part of town → ______  
-G. opposite of house → ______  
-H. road with cars → ______  
+A. quiet place with homes, outside the centre → ______  
+B. important or famous place in a city → ______  
+C. central part of a city → ______  
+D. area around where you live → ______  
+E. group of streets with community life → ______  
+F. part of a city with houses, not offices → ______  
+G. environment close to you → ______  
+H. part of a city for families, often calmer → ______  
 
 -------
 
 ## Controlled Practice (5 min)
-Complete with relative clauses:  
-1. This is the street ______ I live.  
-2. That’s the building ______ I like.  
-3. Here’s the house ______ we stayed.  
-4. This is the flat ______ she rents.  
-5. The city ______ I was born is big.  
-6. This is the place ______ I feel happy.  
+Complete with relative clauses:
+1. This is the district ______ I work.  
+2. That’s the suburb ______ my cousin lives.  
+3. This is the café ______ we met for the first time.  
+4. The neighbourhood ______ I grew up is very green.  
+5. This is the building ______ they are renovating.  
+6. The area ______ I walk every morning is safe.  
 
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Cities and Villages”](https://www.newsinlevels.com/)  
+**Reading: “A Place That Feels Like Home”**
 
-Answer:  
-1. Which places are described?  
-2. What relative clauses are used?  
-3. Which place is like yours?  
+I live in a district **where** people know each other and say hello on the street. It’s a quiet residential area **that** many families choose because there are parks, schools, and small cafés.  
+Near my flat, there is a square **where** local markets take place every weekend. I love walking there on Saturday mornings because there are stalls **that** sell fruit, handmade bread, and flowers.  
+
+If you walk ten minutes from my street, you reach the river, **where** people run, cycle, or sit on the benches. The riverside is one of the places **that** make this district special.  
+
+Downtown, **where** I work, is very different. It’s busy, loud, and full of tall buildings. There are shops and offices **that** stay open until late. I like the energy, but it’s the quiet neighbourhood **where** I live that feels like home.
+
+**Answer:**  
+1. What places are mentioned in the text?  
+2. Which relative clauses can you find?  
+3. What makes the district special?  
+4. How is downtown different from the speaker’s neighbourhood?  
+5. Which place is more similar to yours: the quiet district or the busy downtown?  
+
 
 -------
 
