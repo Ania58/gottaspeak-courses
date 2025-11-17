@@ -24,17 +24,18 @@ Answer:
 -------
 
 ## Vocabulary (4 min)
-Words: furniture, lamp, shelf, carpet, curtain, wall, ceiling, floor.  
+Words: furniture, chandelier, shelf, carpet, curtain, wall, ceiling, hardwood floor.
 
 **Match (8)**  
-A. covers ground → ______  
-B. opposite of ceiling → ______  
-C. covers window → ______  
-D. wooden board for books → ______  
-E. opposite of outside → ______  
-F. soft material on floor → ______  
-G. something to sit on → ______  
-H. light object → ______  
+A. a decorative light that hangs from the ceiling → ______  
+B. a horizontal surface on which you put things → ______  
+C. material that covers the ground → ______  
+D. long fabric to cover a window → ______  
+E. flat vertical surface in a building → ______  
+F. top interior surface of a room → ______  
+G. boards used for walking on inside a house → ______  
+H. large items like a sofa, table or bed → ______  
+
 
 -------
 
@@ -50,12 +51,17 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Life at Home”](https://learningenglish.voanews.com/)  
+Audio: [Randall’s ESL Cyber Listening Lab – “Saturday’s Chores”](https://www.esl-lab.com/easy/household-chores/)
 
-Answer:  
-1. Which phrasal verbs could describe the story?  
-2. What home activities are mentioned?  
-3. Which are similar to yours?  
+**Answer:**  
+1. What does the boy want to do at the beginning?  
+2. What rule does the father remind him about?  
+3. Which chores does the father mention first?  
+4. Which room does the boy prefer to clean instead of the bathroom?  
+5. What chores does the father list for the family room and hall?  
+6. What other tasks does the boy have to do in the kitchen and living room?  
+7. What reward does the father offer if the boy finishes his chores?  
+8. What will the father do while the boy is cleaning?
 
 -------
 
