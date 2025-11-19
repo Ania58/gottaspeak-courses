@@ -19,12 +19,19 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Different Homes”](https://learningenglish.voanews.com/)  
+Audio: [British Council – “Living on my own”](https://learnenglish.britishcouncil.org/general-english/audio-zone/living-my-own)
 
-Answer:  
-1. What types of homes are described?  
-2. What differences are mentioned?  
-3. Which would you like to live in?  
+**Answer:**  
+1. Why is moving out not very common in Hong Kong?  
+2. What traditional Chinese family value does the speaker mention?  
+3. How did her parents react to her decision to move out?  
+4. How much travel time did she save after moving to the new apartment?  
+5. What freedoms does she enjoy now that she lives alone?  
+6. What problems did she experience with the apartment after moving in?  
+7. What expenses does she now have to pay on her own?  
+8. Why doesn’t living alone actually save her time?  
+9. What balance has she achieved since moving out?  
+10. Does she think living on her own is worth it in the end? Why?
 
 -------
 
