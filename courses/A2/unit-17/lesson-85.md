@@ -50,12 +50,24 @@ Complete with idioms:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Living and Homes”](https://www.newsinlevels.com/)  
+**Reading: “A Home That Finally Feels Like Mine”**
 
-Answer:  
-1. What homes are described?  
-2. Which idioms could describe them?  
-3. Do you feel the same about your home?  
+When I first moved into my current flat, it didn’t feel like home at all. The rooms were empty, the walls were plain, and the neighbour I shared the staircase with barely said hello. For the first few weeks, I only came back to sleep. I didn’t feel at home, and I wasn’t sure I had made the right decision.
+
+But little by little, things changed. I bought a soft rug for the living room, put up some pictures on the wall, and added a small lamp that made the evenings warm and calm. One Saturday, my neighbour knocked on the door to borrow a key for the shared storage room, and we ended up talking for almost an hour. Since then, we get on really well — sometimes we have coffee together in the hallway.
+
+The moment that really *hit home* for me came one rainy afternoon. I was returning from a stressful day at work, and as soon as I opened the door, I felt something I hadn’t felt for a long time: peace. The flat wasn’t perfect — the roof still needed a repair, and the bills always arrived at the worst moment — but it felt safe, quiet, and mine.
+
+Now, whenever I return from a trip, I walk in, put down my bag, and think: *Home sweet home.*
+
+**Answer:**  
+1. Why didn’t the flat feel like home at the beginning?  
+2. What small changes helped the narrator feel more comfortable?  
+3. How did the relationship with the neighbour change?  
+4. What moment made the narrator realise the flat felt like home?  
+5. What problems still existed in the flat?  
+6. Which idiom best describes how the narrator feels when returning from a trip?
+ 
 
 -------
 
