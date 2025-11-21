@@ -32,7 +32,7 @@ Words: headache, toothache, stomach ache, cold, fever, cough, sore throat, backa
 A. pain in teeth → ______  
 B. high temperature → ______  
 C. pain in back → ______  
-D. when you can’t stop coughing → ______  
+D. when your chest and throat make a sudden sound to clear airways → ______  
 E. pain in head → ______  
 F. pain in stomach → ______  
 G. illness in nose and throat → ______  
@@ -62,12 +62,21 @@ Patient: For ______ days.
 -------
 
 ## Skills – Reading (7 min)
-Text: [News in Levels – “Health Tips”](https://www.newsinlevels.com/)  
+Text: “When a Busy Week Turns into a Sick Week”**
 
-Answer:  
-1. What health tips are given?  
-2. Which problem is most common?  
-3. Which advice would you follow?  
+Last Monday, everything started normally for Anna. She went to work, had a few meetings, and felt only a light headache. She thought it was just stress. On Tuesday, things got worse. She woke up with a sore throat and a small cough, but she decided to go to work anyway. By lunchtime she also had a fever, so her colleagues told her to go home.
+
+On Wednesday, Anna stayed in bed. She had got a cold, a cough, and a terrible backache from lying in one position for too long. She drank hot tea, took medicine, and slept most of the day. On Thursday, her doctor told her she needed rest, warm drinks, and fresh air in the room. He said she didn’t need antibiotics because it was only a viral infection.
+
+By Friday, she finally started to feel better. The fever was gone, her throat didn’t hurt as much, and the cough was weaker. Anna realised that ignoring small symptoms can make things worse. Now she always listens to her body — and takes a day off when she needs it.
+
+**Answer:**  
+1. What symptoms did Anna have on Tuesday?  
+2. Why did her colleagues tell her to go home?  
+3. What health problems did she have on Wednesday?  
+4. What advice did the doctor give her?  
+5. What did Anna learn at the end of the week?  
+
 
 -------
 
