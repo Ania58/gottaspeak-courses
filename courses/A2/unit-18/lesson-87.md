@@ -34,11 +34,10 @@ A. helpful idea → ______
 B. official restriction → ______  
 C. repeated action → ______  
 D. food you usually eat → ______  
-E. tablets for illness → ______  
-F. opposite of work → ______  
+E. tablets or treatments for illness → ______  
+F. opposite of work (in health context) → ______  
 G. physical activity → ______  
-H. opposite of bad idea → ______  
-
+H. what you should follow to stay healthy → ______  
 -------
 
 ## Controlled Practice (9 min)
@@ -60,12 +59,15 @@ Which sentences are *advice*, *rules*, or *prohibitions*?
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Healthy Habits”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “Let’s Learn English – Level 1 – Lesson 44: Making Healthy Choices”](https://learningenglish.voanews.com/a/let-s-learn-english---level-1---lesson-44-making-healthy-choices/5780880.html)
 
-Answer:  
-1. What habits are described?  
-2. Which are advice, which are rules?  
-3. Do you follow them?  
+**Answer:**  
+1. What healthy choices are mentioned in the listening?  
+2. Which expressions of advice (should/must) are used?  
+3. Did the speaker mention any choices that you can’t do or mustn’t do?  
+4. Which habit would you like to start and why?  
+5. Do you agree with all the advice? Which point do you find easy/difficult to follow?
+
 
 -------
 
