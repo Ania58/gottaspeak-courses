@@ -24,17 +24,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (6 min)
-Jobs: doctor, nurse, teacher, engineer, builder, driver, manager, waiter.  
+Jobs: accountant, receptionist, electrician, journalist, pharmacist, designer, mechanic, salesperson.
 
-**Task (8 items – match)**  
-A. works with cars → ______  
-B. helps in restaurant → ______  
-C. teaches students → ______  
-D. builds houses → ______  
-E. takes care of sick people → ______  
-F. gives instructions in office → ______  
-G. designs machines → ______  
-H. helps sick people in hospital → ______  
+**Match (8)**  
+A. fixes electrical problems → ______  
+B. writes news articles → ______  
+C. works with money and numbers → ______  
+D. helps customers in a shop → ______  
+E. answers phones and greets visitors → ______  
+F. repairs cars and engines → ______  
+G. prepares and gives medicine → ______  
+H. creates plans, clothes, or products → ______  
 
 -------
 
@@ -50,12 +50,18 @@ Complete with **who/that**:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Different Jobs”](https://www.newsinlevels.com/)  
+### **Text: “Three People and Their Jobs”**
 
-Answer:  
-1. Which jobs are described?  
-2. What do they do?  
-3. Which job would you like?  
+Paula works as a **pharmacist** in a small town. She is the person **who** gives people medicine and answers their health questions. She enjoys her job because she meets many different people every day. She has worked in the same pharmacy for five years.
+
+Mark is an **electrician**. He is someone **who** repairs lights, wires, and machines. His work can be difficult because he often climbs ladders and fixes problems in old buildings. He says that safety is the most important part of his job.
+
+Lena is a **journalist**. She is the person **who** writes stories for an online newspaper. She interviews people, travels to events, and reports on local news. She likes her job because she learns something new every day and never gets bored.
+
+**Answer:**  
+1. What jobs do Paula, Mark, and Lena have?  
+2. What do they do in their jobs?  
+3. Which job sounds the most interesting to you? Why?   
 
 -------
 
