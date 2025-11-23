@@ -19,23 +19,23 @@ Answer:
 - I was serving customers when the phone rang.  
 
 Common mistakes:  
-❌ I was work → ✅ I was working  
+❌ I working → ✅ I was working  
 ❌ He go to work yesterday → ✅ He went to work yesterday  
 
 -------
 
 ## Vocabulary (5 min)
-Words: office, factory, shop, customer, boss, colleague, meeting, project.  
+Words: office, factory, shop, client, supervisor, employee, contract, shift.
 
 **Match (8)**  
-A. person you work with → ______  
-B. opposite of home → ______  
-C. someone who buys → ______  
-D. person who gives orders → ______  
-E. discussion at work → ______  
-F. building for production → ______  
-G. big task → ______  
-H. place to buy things → ______  
+A. someone who buys or uses a service → ______  
+B. person in charge of staff → ______  
+C. a formal agreement to work → ______  
+D. period of time you work (morning/afternoon) → ______  
+E. building where goods are manufactured → ______  
+F. place where things are sold → ______  
+G. company worker → ______  
+H. large building where people do administrative work → ______  
 
 -------
 
@@ -51,12 +51,13 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Stories about Work”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “Job and Career”](https://learningenglish.voanews.com/a/job-and-career/5647041.html)
 
-Answer:  
-1. What past events are described?  
-2. Which are Past Simple, which Past Continuous?  
-3. What happened in the end?  
+**Answer:**  
+1. What job-related words are explained in the listening?  
+2. What is the difference between ‘job’, ‘career’ and ‘profession’ according to the speaker?  
+3. Which examples did the speaker give?  
+4. Which job would interest you and why?  
 
 -------
 
