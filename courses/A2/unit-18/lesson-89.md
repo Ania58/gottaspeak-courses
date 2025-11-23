@@ -24,17 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (4 min)
-Words: gym, illness, strength, recovery, virus, disease, rest, fitness.  
+Words: gym, illness, strength, recovery, virus, disease, rest, wellness.
 
 **Match (8)**  
-A. opposite of weakness → ______  
-B. opposite of sickness → ______  
-C. large room for sport → ______  
-D. period of healing → ______  
-E. opposite of activity → ______  
-F. harmful microbe → ______  
-G. body condition → ______  
-H. serious illness → ______  
+A. physical power in your body → ______  
+B. time when your body returns to normal after sickness → ______  
+C. serious long-term medical condition → ______  
+D. tiny organism that causes infections → ______  
+E. place where people exercise → ______  
+F. general state of good health → ______  
+G. what your body needs when you are tired → ______  
+H. general word for being unwell → ______  
 
 -------
 
@@ -50,12 +50,14 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Health Stories”](https://learningenglish.voanews.com/)  
+Audio: [English-Practice.net – Listening A2: Health Problems](https://english-practice.net/listening-exercises-a2-health-problems/)
 
-Answer:  
-1. What health problems are mentioned?  
-2. Which phrasal verbs could describe them?  
-3. How do people solve them?  
+**Answer:**
+1. What health problem does each speaker mention?  
+2. What symptoms can you hear in the recording?  
+3. Which phrasal verb could describe each situation?  
+4. Which problem have you had before?  
+5. Which advice would you give to the people in the audio?  
 
 -------
 
