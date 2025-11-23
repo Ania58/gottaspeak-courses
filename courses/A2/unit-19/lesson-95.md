@@ -27,14 +27,14 @@ Answer:
 Words: position, CV, interview, skill, application, vacancy, experience, reference.  
 
 **Match (8)**  
-A. what you send for a job → ______  
-B. paper with your experience → ______  
-C. opposite of employer → ______  
-D. free job position → ______  
-E. talk before a job → ______  
-F. practical ability → ______  
-G. opposite of beginner → ______  
-H. opinion from another person → ______  
+A. document with your work history → ______
+B. meeting to talk before getting a job → ______
+C. free job in a company → ______
+D. ability you can use at work → ______
+E. request you send to get a job → ______
+F. person who writes about your qualities → ______
+G. job you want to get → ______
+H. time you have worked before → ______
 
 -------
 
@@ -50,12 +50,22 @@ Complete with idioms:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Jobs and Careers”](https://www.newsinlevels.com/)  
+### **Text: “A Job with Pressure and Passion”**
 
-Answer:  
-1. What jobs are described?  
-2. Which idioms could describe them?  
-3. Do you want a “dream job” or safe job?  
+Many people dream about a job that is exciting and meaningful, but real work often includes stress and deadlines.  
+Emily works as a junior journalist for a local newspaper. For her, it is not a **dream job** yet, but she hopes it will become one in the future. She often has to **work against the clock**, especially when there is breaking news and the team must publish an article quickly.  
+
+Her boss, Mr. Carter, is the **big cheese** in the office — everyone listens to him, and he decides what stories are important. Emily likes him, but she knows she must always **pull her weight**, because the team depends on each person.  
+
+Before this job, Emily worked in a café. She loved her colleagues, but it was a **dead-end job** with no chance to grow. Now she feels she is finally building real **experience**, even if the work is sometimes difficult.  
+
+Last month, one colleague **got the sack** for never meeting deadlines. It was a shock, but it reminded Emily that journalism is a serious job. Despite the pressure, she is happy — every day brings a new story, and she feels she is learning something important.
+
+**Answer:**  
+1. What job does Emily have now?  
+2. Which idioms describe her situation?  
+3. Why was her previous job a dead-end job?  
+4. Would you like a job with pressure but passion?  
 
 -------
 
