@@ -19,12 +19,15 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Health and Fitness”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “For Healthy Aging, Plan to Exercise Regularly”](https://learningenglish.voanews.com/a/7999141.html)
 
-Answer:  
-1. What problems are described?  
-2. What solutions are suggested?  
-3. Which do you follow?  
+**Answer:**  
+1. What health advice is mentioned?  
+2. What daily habits does the speaker talk about?  
+3. Why is regular exercise important according to the audio?  
+4. Which idea from the listening do you agree with most?  
+5. Which idiom or phrasal verb from Unit 18 could describe the speaker’s situation?
+  
 
 -------
 
