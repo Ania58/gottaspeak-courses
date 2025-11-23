@@ -30,14 +30,15 @@ Common mistakes:
 Words: injury, wound, patient, nurse, hospital, clinic, emergency, operation.  
 
 **Match (8)**  
-A. person in hospital → ______  
-B. opposite of doctor → ______  
-C. place for treatment → ______  
-D. urgent situation → ______  
-E. medical cut → ______  
-F. healing place → ______  
-G. opposite of healthy → ______  
-H. act of surgery → ______  
+A. person receiving medical care → ______  
+B. medical professional who assists doctors → ______  
+C. large medical centre for serious cases → ______  
+D. small place for basic medical visits → ______  
+E. situation needing immediate help → ______  
+F. physical damage to the body → ______  
+G. cut or broken skin → ______  
+H. planned medical procedure/surgery → ______  
+ 
 
 -------
 
@@ -53,12 +54,19 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Hospital Stories”](https://www.newsinlevels.com/)  
+### **Text: “My Health Experiences This Year”**
 
-Answer:  
-1. What stories are told?  
-2. Which verbs are in Present Perfect?  
-3. Have you had similar experiences?  
+This year has been quite surprising for me. I have visited the doctor three times already, which is more than in the last five years. First, I have had a bad cold twice, and I have taken medicine for it both times. I have also had a small injury: I’ve cut my finger while cooking, so I’ve been more careful in the kitchen since then.
+
+In the past few months, I have tried to live more healthily. I’ve started eating more vegetables, and I’ve already reduced sugar in my diet. I haven’t drunk any cola this month, and I haven’t eaten fast food since January. I’ve also done more exercise — I’ve walked to work every day and I’ve joined a weekend fitness class.
+
+Because of these changes, I’ve felt better and I haven’t had any serious health problems recently. I’ve learned that small habits can make a big difference, and I’ve decided to continue with this routine. I haven’t reached all my goals yet, but I’ve definitely made progress.
+
+**Answer:**  
+1. What health problems has the person had this year?  
+2. What healthy habits has the person started?  
+3. Which Present Perfect sentences can you find?  
+4. Which of these habits have you already tried?   
 
 -------
 
