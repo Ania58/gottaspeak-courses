@@ -50,12 +50,19 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Work and Business”](https://learningenglish.voanews.com/)  
+Audio: **[ELLLO – Phrasal Verbs](https://www.elllo.org/class/B1/B1-25-Phrasal-Verbs.html)**
 
 Answer:  
-1. Which phrasal verbs could describe the situations?  
-2. What problems do people face?  
-3. How do they solve them?  
+1. In Conversation 1, what did the woman back up?  
+2. Why does she need to look something up?  
+3. In Conversation 2, what part of the report was confusing?  
+4. What does the man promise to rewrite?  
+5. In Conversation 3, why was the man turned down?  
+6. What does he have to put off?  
+7. In Conversation 4, what information did the man write down?  
+8. What must the woman not bring up?  
+9. Which phrasal verbs from the lesson appear in the conversations?  
+10. Which conversation feels most realistic to you?  
 
 -------
 
