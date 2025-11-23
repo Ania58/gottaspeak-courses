@@ -29,14 +29,14 @@ Common mistakes:
 Words: task, deadline, email, report, schedule, file, team, presentation.  
 
 **Match (8)**  
-A. paper with information → ______  
-B. opposite of individual → ______  
-C. message online → ______  
-D. day when work must finish → ______  
-E. small part of work → ______  
-F. opposite of free time → ______  
-G. oral explanation → ______  
-H. order of time → ______  
+A. small piece of work you must complete → ______  
+B. final date when something must be done → ______  
+C. electronic message → ______  
+D. organized plan of times and activities → ______  
+E. written document with information → ______  
+F. group of people working together → ______  
+G. digital or paper document saved for use → ______  
+H. talk given to explain information → ______  
 
 -------
 
@@ -52,12 +52,18 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Office Work”](https://www.newsinlevels.com/)  
+### **Text: “A Busy Morning in the Office”**
 
-Answer:  
-1. What tasks are mentioned?  
-2. Which are done, which not yet?  
-3. Which are similar to your work/school tasks?  
+This morning has been very busy at my office. I’ve already checked my email, and I’ve replied to five important messages. Our team has also had a short meeting, and we’ve discussed a new project for next month. I haven’t finished the project plan yet, but I’ve started writing the first part.
+
+My colleague Anna has prepared a presentation for our client, and she has already sent the final slides to the manager. Tom hasn’t come to the office yet because he is working from home today, but he has uploaded all the files we need.
+
+We’ve completed many small tasks this morning, but we still haven’t met today’s deadline. There is still a lot to do, but we’ve made good progress.
+
+**Answer:**  
+1. What tasks have been completed already?  
+2. Which tasks haven’t been finished yet?  
+3. Which worker has done the most today? Why?  
 
 -------
 
