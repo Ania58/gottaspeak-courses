@@ -19,12 +19,21 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Work Stories”](https://learningenglish.voanews.com/)  
+### Reading: *A Day in a Modern Workplace*
 
-Answer:  
-1. What job experiences are described?  
-2. Which grammar forms do you hear?  
-3. Which idioms or phrasal verbs could describe them?  
+Sarah works in a medium-sized marketing company. She has been part of the team for three years, and during that time she has worked on many different projects. This week, her team is preparing a new campaign for an international client. They have already created the main idea, but they haven’t finished the final presentation yet.
+
+Yesterday was especially busy. While Sarah was checking the latest data, her colleague Daniel was meeting with the client online. At the same time, two designers were working on new graphics, and the project manager was setting up the schedule for the next few days. Everyone was trying to pull their weight because the deadline is approaching.
+
+Sarah enjoys her job, but sometimes she feels they are working against the clock. Still, she thinks it’s worth it — the team gets on well, and she has learned a lot. This project might even help her get a promotion in the future.
+
+### Questions
+1. How long has Sarah been part of the team?  
+2. What have they already finished, and what haven’t they finished yet?  
+3. What were different team members doing yesterday?  
+4. Why is everyone trying to “pull their weight”?  
+5. What does Sarah like and find difficult about her job?  
+6. Why could this project be important for her future? 
 
 -------
 
