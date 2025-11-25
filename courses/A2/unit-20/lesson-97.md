@@ -30,13 +30,13 @@ Common mistakes:
 Words: journey, trip, route, delay, journey time, traveller, experience, adventure.  
 
 **Match (8)**  
-A. person who travels → ______  
-B. opposite of problem → ______  
-C. opposite of boring → ______  
-D. long road or path → ______  
-E. opposite of early → ______  
-F. time of travel → ______  
-G. short travel → ______  
+A. a person who goes to different places → ______  
+B. something interesting that happens to you → ______  
+C. exciting or unusual activity → ______  
+D. the path you follow when travelling → ______  
+E. when transport is late → ______  
+F. the time a journey takes → ______  
+G. a short visit to a place → ______  
 H. long-distance travel → ______  
 
 -------
@@ -53,12 +53,14 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Travelling Experiences”](https://learningenglish.voanews.com/)  
+Audio: [ESL-Lab – “Vacation Plans”](https://www.esl-lab.com/intermediate/vacation-plans/)
 
-Answer:  
-1. What experiences do people talk about?  
-2. Which actions are still continuing?  
-3. What have they learned from travelling?  
+Answer:
+1. Why does Pete need advice from Markus?  
+2. Who is Claudia?  
+3. What plans does Claudia have for Pete in Germany?  
+4. What should Pete do when he meets her parents?  
+5. What problem does Markus mention about Pete’s German?   
 
 -------
 
