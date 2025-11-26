@@ -24,17 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (4 min)
-Words: airport, hotel, suitcase, ticket, station, journey, tourist, border.  
+Words: boarding gate, layover, hostel, souvenir, backpack, motorway, ferry, landmark.
 
-**Match (8)**  
-A. place for trains → ______  
-B. place to sleep → ______  
-C. traveller → ______  
-D. crossing between countries → ______  
-E. opposite of arrival → ______  
-F. paper for travelling → ______  
-G. opposite of home → ______  
-H. bag for travel → ______  
+**Match (8)**
+A. cheap place to sleep for travellers → ______  
+B. place where you wait to enter a plane → ______  
+C. small object you buy to remember a trip → ______  
+D. large road for long-distance cars → ______  
+E. bag you carry on your back → ______  
+F. famous building or place → ______  
+G. short stop between two flights → ______  
+H. boat that carries people across water → ______  
 
 -------
 
@@ -50,12 +50,18 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Travel Tips”](https://learningenglish.voanews.com/)  
+**Text: “A Weekend Trip That Went Wrong”**
 
-Answer:  
-1. What advice is given?  
-2. Which phrasal verbs could describe the story?  
-3. Which tip do you agree with?  
+Last month, my friend Emma and I planned a short weekend trip to a small coastal town. We set off early on Saturday morning, but things became difficult very quickly. First, we ran out of petrol because we forgot to check the tank the day before. After we finally arrived, we went to the hotel to check in, but the receptionist couldn’t find our reservation.
+
+We didn’t want to waste time, so we left our bags and decided to look around the town. We got on a local bus, but we didn’t know it would take us to the countryside instead of the beach. When we tried to return, the bus didn’t come for almost an hour.
+
+In the end, the trip wasn’t perfect, but we still had fun. We learned two important lessons: always check your fuel before you set off, and always double-check your hotel reservation.
+
+**Answer:**
+1. What problems did Emma and the writer have during their trip?  
+2. Which phrasal verbs from the lesson appear in the text?  
+3. What two lessons did they learn?   
 
 -------
 
