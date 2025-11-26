@@ -27,17 +27,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (5 min)
-Words: journey, distance, comfort, price, hotel, weather, food, safety.  
+Words: scenery, atmosphere, service, convenience, budget, destination, comfort, safety.
 
 **Match (8)**  
-A. opposite of dangerous → ______  
-B. how far you go → ______  
-C. opposite of bad → ______  
-D. opposite of uncomfortable → ______  
-E. opposite of expensive → ______  
-F. condition of air → ______  
-G. place to sleep → ______  
-H. what you eat → ______  
+A. money you can spend → ______  
+B. how easy something is → ______  
+C. view around you → ______  
+D. feeling of a place → ______  
+E. quality of help and assistance → ______  
+F. place you are travelling to → ______  
+G. opposite of dangerous → ______  
+H. physical ease and relaxation → ______  
 
 -------
 
@@ -53,12 +53,20 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Comparing Cities”](https://www.newsinlevels.com/)  
+**Text: “Choosing the Best Destination”**
 
-Answer:  
-1. Which cities are compared?  
-2. What adjectives are used?  
-3. Which one would you like to visit?  
+Many people say that travelling in Europe is easier than travelling in other parts of the world, but it really depends on what you want. Paris is one of the most popular destinations because it has better museums and more elegant streets than many other cities. However, it is also one of the most expensive places to stay.
+
+Lisbon, on the other hand, is cheaper and quieter, and many travellers think it has the friendliest atmosphere in Europe. The weather is warmer than in most northern cities, and the food is often fresher and more affordable.
+
+If you prefer nature, Norway offers some of the most impressive scenery in the world. The fjords are deeper and more dramatic than any landscapes you’ll see in southern Europe, but the country is also the coldest and the most expensive.
+
+In the end, the best destination is the one that matches your budget, your interests, and your travel style.
+
+**Answer:**  
+1. Which destinations are described?  
+2. Which adjectives (comparatives/superlatives) are used in the text?  
+3. Which place sounds the most interesting to you, and why?  
 
 -------
 
