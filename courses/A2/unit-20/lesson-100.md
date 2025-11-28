@@ -24,17 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (4 min)
-Words: adventure, rest, destination, luggage, route, journey, flight, trip.  
+Words: getaway, sightseeing, accommodation, itinerary, backpack, border, cruise, landscape.  
 
 **Match (8)**  
-A. action of resting → ______  
-B. opposite of busy → ______  
-C. main direction → ______  
-D. small travel → ______  
-E. opposite of short journey → ______  
-F. flying route → ______  
-G. goal of travel → ______  
-H. experience of excitement → ______  
+A. plan of places to visit → ______  
+B. place to stay during a trip → ______  
+C. trip by ship → ______  
+D. opposite of city buildings → ______  
+E. act of visiting interesting places → ______  
+F. small travel break → ______  
+G. bag carried on your back → ______  
+H. line between countries → ______
 
 -------
 
@@ -50,12 +50,21 @@ Complete with idioms:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Holiday Experiences”](https://www.newsinlevels.com/)  
+### **Text: “Three Different Holidays”**
 
-Answer:  
-1. What holidays are described?  
-2. Which idioms could describe them?  
-3. Which one sounds like your kind of trip?  
+**1. Marta’s Mountain Escape**  
+Marta loves quiet places, so last summer she travelled **off the beaten track** to a small village in the mountains. She didn’t take much with her because she prefers to **travel light**. She spent her days hiking, reading, and enjoying the fresh air.
+
+**2. Daniel’s Busy City Trip**  
+Daniel had only three days in Tokyo, so he planned a full **itinerary** and woke up early every morning. After hours of sightseeing, he was often tired but refused to **call it a day** until he visited every place on his list.
+
+**3. Leo and Anna’s Road Journey**  
+Leo and Anna wanted to explore new countries by car. They **hit the road** at sunrise and crossed three borders in one week. They loved the changing landscapes and agreed they still had **a long journey ahead** before reaching their final destination.
+
+### **Answer:**  
+1. What types of holidays did the three people have?  
+2. Which idioms are used in the text?  
+3. Which trip would you choose and why? 
 
 -------
 
