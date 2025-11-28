@@ -19,12 +19,12 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Travel Experiences”](https://learningenglish.voanews.com/)  
+Audio: [VOA Learning English – “A Trip Around the World”](https://learningenglish.voanews.com/a/a-trip-around-the-world-/7465461.html)
 
-Answer:  
-1. What stories are told?  
-2. Which phrasal verbs or idioms describe them?  
-3. What advice is given?  
+Answer:
+1. What countries are mentioned in the listening?  
+2. What is happening with the populations in those places?  
+3. What surprised you the most about the information? 
 
 -------
 
