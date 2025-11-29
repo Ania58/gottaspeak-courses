@@ -33,15 +33,14 @@ Common mistakes:
 Words: journey, destination, experience, event, memory, moment, travel, visitor.  
 
 **Match (8)**  
-A. something you remember → ______  
-B. a trip to another place → ______  
-C. someone who comes to a place → ______  
-D. specific happening → ______  
-E. opposite of boring → ______  
-F. place you go to → ______  
-G. result of doing something new → ______  
-H. one short period → ______  
-
+A. something you remember from the past → ______  
+B. going from one place to another, usually a long trip → ______  
+C. a person who comes to visit a place → ______  
+D. something that happens at a specific time → ______  
+E. something interesting or enjoyable that happens to you → ______  
+F. the place you are going to → ______  
+G. moving from place to place in general → ______  
+H. one very short point in time → ______
 -------
 
 ## Controlled Practice (8 min)
@@ -56,12 +55,14 @@ Choose the correct form:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Travel Experiences”](https://learningenglish.voanews.com/)  
+Audio: [ESL Lab – “Travel Arrangements”](https://www.esl-lab.com/difficult/travel-arrangements/)
 
-Answer:  
-1. Which experiences are past, which are present?  
-2. How do speakers use *have been* or *went*?  
-3. What new experience would you like to have?  
+**Answer:**  
+1. What travel information does the caller ask for?  
+2. How does he change his travel plans?  
+3. What details does the agent give about the flights?  
+4. What special request does the traveller make?  
+5. Do you prefer cheaper flights or better travel times? Why?  
 
 -------
 
