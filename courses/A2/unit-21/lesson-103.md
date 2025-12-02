@@ -30,15 +30,14 @@ Common mistakes:
 Words: fluently, politely, carefully, confidently, extremely, quite, rather, totally.  
 
 **Match (8)**  
-A. very, a lot → ______  
-B. not very → ______  
-C. opposite of rude → ______  
-D. opposite of fast → ______  
-E. opposite of badly → ______  
-F. not fully but mostly → ______  
-G. opposite of insecurely → ______  
-H. extremely positive → ______  
-
+A. very strongly / completely → ______  
+B. to a small degree, not very much → ______  
+C. in a respectful and kind way → ______  
+D. with attention and without danger → ______  
+E. in a good and clear way, without mistakes → ______  
+F. more than expected but not extremely → ______  
+G. in a relaxed and sure way → ______  
+H. very, to a high degree → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -53,12 +52,21 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “How People Communicate”](https://www.newsinlevels.com/)  
+### **Text: “How We Express Our Opinions”**
 
-Answer:  
-1. How do people show politeness in different cultures?  
-2. Which adverbs describe people best?  
-3. How do you usually behave in new situations?  
+People around the world express their opinions in different ways.  
+Some people speak **confidently** and say exactly what they think. They use clear words and explain their ideas **carefully**, especially when the topic is important. Others prefer to speak more **quietly** and **politely**, because they don’t want to sound rude or too direct.
+
+In many cultures, people show agreement by nodding or smiling, while in other countries people speak more directly and say “I totally agree” or “I completely disagree.”  
+When people discuss difficult topics, they often speak **slowly** to choose their words well. In friendly conversations, people might speak **quickly** and laugh **easily**.
+
+Understanding how people communicate helps us connect with others. When we listen **carefully** and speak **politely**, conversations become easier and more pleasant for everyone.
+
+
+**Answer:**  
+1. What different ways of expressing opinions are described?  
+2. Which adverbs best describe polite communication?  
+3. How do you usually speak in difficult conversations?    
 
 -------
 
