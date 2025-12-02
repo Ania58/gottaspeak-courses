@@ -27,14 +27,14 @@ Answer:
 Words: conversation, discussion, group, friend, relationship, problem, situation, help.  
 
 **Match (8)**  
-A. opposite of enemy → ______  
-B. opposite of quiet → ______  
-C. something you solve → ______  
-D. opposite of alone → ______  
-E. opposite of ignore → ______  
-F. activity with many people → ______  
-G. opposite of reject → ______  
-H. word for connection → ______  
+A. person you trust → ______  
+B. talk with many ideas exchanged → ______  
+C. something difficult that needs a solution → ______  
+D. people together for a purpose → ______  
+E. connection between people → ______  
+F. opposite of speak quietly → ______  
+G. moment when something happens → ______  
+H. support you give someone → ______  
 
 -------
 
@@ -50,12 +50,20 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Communication at Work”](https://learningenglish.voanews.com/)  
+**Text: “How We Communicate in Groups”**
 
-Answer:  
-1. Which phrasal verbs are useful for teamwork?  
-2. How do people express opinions?  
-3. Which one do you use most often?  
+Good communication is important in every group. In my workplace, people get along well because they always try to listen to each other. When someone has a problem, we deal with it together instead of ignoring it.  
+
+During meetings, our manager asks everyone to speak up if they have an idea. Some people are shy, but they are learning to express their opinions more confidently. We also depend on each other when we work on projects, because each person belongs to a different team and has different skills.  
+
+Last month, we organised a big workshop. More than thirty people took part in it. The event showed that good communication helps us build strong relationships and solve difficult situations faster.
+
+**Answer:**  
+1. How do people get along in the writer’s workplace?  
+2. When are people encouraged to speak up?  
+3. Why do team members depend on each other?  
+4. What event did they take part in?  
+5. Which phrasal verb describes your communication style best?  
 
 -------
 
