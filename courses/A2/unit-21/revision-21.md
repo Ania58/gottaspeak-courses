@@ -10,7 +10,7 @@ duration: 30
 1. Have you ever ______ (meet) someone from another country?  
 2. I ______ (go) to Italy in 2018.  
 3. She speaks English very ______ (fluent).  
-4. We ______ (get along) very well.  
+4. We ______ (phrasal verb) very well.  
 5. Try to ______ (idiom) when you meet someone new.  
 6. Culture, belief, attitude, ______ (add one more).  
 7. If you study hard, you ______ (pass) the test.  
@@ -19,12 +19,14 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Cultural Connections”](https://learningenglish.voanews.com/)  
+Audio: [ESL Lab – “A Favorite Ways to Travel”](https://www.esl-lab.com/interviews/a-favorite-ways-to-travel/)
 
-Answer:  
-1. What do people say about culture and communication?  
-2. Which grammar forms are used most often?  
-3. Which idioms or phrasals appear?  
+**Answer:**
+1. What travel options do they discuss?  
+2. What advantages or disadvantages do they mention for each type of transport?  
+3. Why does Aubrey prefer flying in the end?  
+4. What personal opinions do both speakers share about long-distance travel?  
+5. Which type of travel would *you* choose and why?  
 
 -------
 
