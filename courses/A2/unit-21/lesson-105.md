@@ -26,14 +26,14 @@ Answer:
 Words: situation, opinion, stranger, effort, feeling, surprise, choice, empathy.  
 
 **Match (8)**  
-A. emotion or understanding → ______  
-B. new person → ______  
-C. opposite of same opinion → ______  
-D. unexpected event → ______  
-E. opposite of laziness → ______  
+A. understanding someone’s emotions → ______  
+B. a person you don’t know → ______  
+C. different view or changed mind → ______  
+D. something unexpected → ______  
+E. energy you use to do something → ______  
 F. something that happens → ______  
-G. opposite of hate → ______  
-H. opposite of selfishness → ______  
+G. what you feel inside → ______  
+H. decision between two options → ______ 
 
 -------
 
@@ -49,12 +49,22 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Meeting New People”](https://www.newsinlevels.com/)  
+### **Text: “A Friendly Evening”**
 
-Answer:  
-1. What situations are described?  
-2. Which idioms could describe them?  
-3. How do you usually make new friends?  
+Last Friday, my colleague invited me to a small party at her house. At first, I didn’t know anyone there, so I tried to **break the ice** by asking simple questions about work and hobbies. After a few minutes, everyone relaxed.
+
+Then something funny happened. I met a man who went to the same school as my cousin. I said, “Wow, **small world**!” We laughed and talked for a long time.
+
+Later, our host really **went the extra mile**. She prepared snacks for everyone and introduced people who had similar interests. One guest didn’t want to join the group at first, but after talking a bit, she had a **change of heart** and started participating.
+
+During the evening, I tried to **put myself in other people’s shoes**. Some were shy, some tired after work, so I tried to be patient and friendly. In the end, it was a great night, and I made two new friends.
+
+
+
+**Answer:**
+1. What social situations are described in the text?  
+2. Which idioms are used and what do they mean in context?  
+3. How does the narrator make others feel comfortable?  
 
 -------
 
