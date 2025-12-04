@@ -33,14 +33,14 @@ Common mistakes:
 Words: robot, invention, future, prediction, progress, technology, scientist, planet.  
 
 **Match (8)**  
-A. person who studies science → ______  
+A. someone who studies or works in science → ______  
 B. opposite of past → ______  
-C. guess about the future → ______  
-D. opposite of stop → ______  
+C. a guess about what will happen → ______  
+D. opposite of stop or rest → ______  
 E. machine that works automatically → ______  
-F. world we live on → ______  
-G. result of innovation → ______  
-H. area of improvement → ______  
+F. the world we live on → ______  
+G. result of new ideas or creation → ______  
+H. idea of development and improvement → ______  
 
 -------
 
@@ -48,7 +48,7 @@ H. area of improvement → ______
 Complete:  
 1. If people recycle more, we ______ (save) the planet.  
 2. I think robots ______ (help) doctors.  
-3. It ______ (might/be) possible to live on Mars.  
+3. It ______ (be) possible to live on Mars.  
 4. If I study technology, I ______ (get) a good job.  
 5. We ______ (not/use) paper in the future.  
 6. If AI develops more, people ______ (work) from home.  
@@ -56,12 +56,14 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “The Future of Technology”](https://learningenglish.voanews.com/)  
+Audio: [Test-English – “Future plans – A2 Listening Test”](https://test-english.com/listening/a2/future-plans-listening-test/)
 
 Answer:  
-1. What predictions are made?  
-2. Which are positive and which are negative?  
-3. Which do you believe?  
+1. How many people talk about their future plans, and what is each person planning to do?  
+2. Who is going to study, and who is going to keep their current job?  
+3. Who wants to work with computers in the future?  
+4. Who talks about losing or finding a job during COVID-19?  
+5. Which future plan sounds most interesting to you? Why?  
 
 -------
 
