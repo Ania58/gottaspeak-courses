@@ -29,14 +29,14 @@ Common mistakes:
 Words: device, app, website, download, upload, connection, screen, password.  
 
 **Match (8)**  
-A. what you use to go online → ______  
-B. opposite of offline → ______  
-C. picture or text surface → ______  
-D. opposite of upload → ______  
-E. key for logging in → ______  
-F. small computer program → ______  
-G. something you use daily → ______  
-H. process of putting data online → ______  
+A. tool or machine you use (phone, laptop) → ______  
+B. being linked to the internet → ______  
+C. the surface where you see information → ______  
+D. move a file **from the internet to your device** → ______  
+E. secret word you use to enter an account → ______  
+F. small program on your phone → ______  
+G. a place on the internet with pages → ______  
+H. move a file **from your device to the internet** → ______ 
 
 -------
 
@@ -52,12 +52,18 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Technology and People”](https://www.newsinlevels.com/)  
+**Reading: “How Technology Shapes Daily Life”**  
+People around the world use technology every day. Many people start their morning by checking messages on their phones. Students often use apps to study languages, complete homework, or join online classes. Adults use websites to pay bills, plan holidays, or work from home.
 
-Answer:  
-1. What technologies are changing our lives?  
-2. What are their advantages and problems?  
-3. How has technology helped you personally?  
+Technology has many advantages: it makes communication faster, information easier to find, and learning more comfortable. However, there are also problems. People sometimes spend too much time looking at screens, and bad internet connection can stop important work.
+
+Still, most people agree that technology has changed life for the better. It helps us stay connected, work more efficiently, and learn new things every day.
+
+**Answer:**  
+1. What technologies are mentioned in the text?  
+2. What are two advantages of technology?  
+3. What is one problem technology can cause?  
+4. Do you think technology improves your life? Why or why not?   
 
 -------
 
