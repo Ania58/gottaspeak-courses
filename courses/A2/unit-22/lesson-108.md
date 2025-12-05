@@ -27,14 +27,14 @@ Answer:
 Words: battery, wire, screen, software, update, error, signal, account.  
 
 **Match (8)**  
-A. problem in program → ______  
-B. energy source → ______  
-C. metal cable → ______  
-D. visual display → ______  
-E. opposite of old version → ______  
-F. online profile → ______  
-G. power connection → ______  
-H. radio or phone strength → ______  
+A. mistake or problem in a program → ______  
+B. object that stores power for devices → ______  
+C. thin cable that carries electricity or data → ______  
+D. surface where information appears → ______  
+E. newest version of a program → ______  
+F. online user profile for services → ______  
+G. physical connection to electricity → ______  
+H. strength of phone or Wi-Fi reception → ______  
 
 -------
 
@@ -50,12 +50,16 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Everyday Technology”](https://learningenglish.voanews.com/)  
+**Text: “A Day Full of Technology”**
 
-Answer:  
-1. What phrasal verbs describe the actions in the audio?  
-2. What problems do people have with technology?  
-3. How do they fix them?  
+Every morning, Anna **turns on** her phone to check messages. Sometimes the Wi-Fi is weak, so she waits until the **signal** gets stronger. Before work, she always **logs in** to her email account to read new tasks.  
+At the office, she has to **set up** different devices. Yesterday, the projector didn’t work because someone forgot to **plug it in**. She also had to install a **software update**, but an **error** appeared on the **screen** and she needed help from the IT team.  
+In the evening, Anna watches tutorials online and often **picks up** new tech skills without taking any classes. Finally, she **turns off** all devices to relax.  
+
+**Answer:**  
+1. What technology problems does Anna have during the day?  
+2. Which phrasal verbs describe her actions?  
+3. Which things in the text also happen in your daily life?  
 
 -------
 
