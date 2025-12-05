@@ -26,14 +26,15 @@ Answer:
 Words: invention, discovery, progress, idea, popularity, creation, success, failure.  
 
 **Match (8)**  
-A. opposite of new → ______  
-B. something that becomes known → ______  
-C. new product → ______  
-D. opposite of fail → ______  
-E. result of thinking → ______  
-F. opposite of unpopular → ______  
-G. act of improving → ______  
-H. something that doesn’t work → ______  
+A. something new that is made → ______  
+B. something new that is found or learned → ______  
+C. improvement over time → ______  
+D. thought that can become a plan → ______  
+E. when something becomes well liked → ______  
+F. result when something works well → ______  
+G. result when something does **not** work → ______  
+H. the act of making something → ______  
+
 
 -------
 
@@ -49,12 +50,20 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “New Inventions”](https://www.newsinlevels.com/)  
+**Reading: “The Future Lab”**
 
-Answer:  
-1. What new technologies are mentioned?  
-2. Which idioms describe them best?  
-3. Which innovation do you find most useful?  
+A new technology lab has opened in London, and many people say it is *the cutting edge* of modern innovation. The lab tests robots that can learn new tasks by watching humans. Some engineers say these robots are *light years ahead* of anything we use today.
+
+One project in the lab is a cooking robot. At first, people thought it would be very difficult to build, but the team said, “Relax, *it’s not rocket science*!” After several tests, a short video of the robot making pasta *went viral* online.
+
+However, not everyone is excited. Some companies are still using very old devices and are *behind the times*. The lab hopes these inventions will help more people update their technology in the future.
+
+**Answer:**  
+1. What technologies does the lab develop?  
+2. Which idioms can describe these innovations?  
+3. Why did the video become popular?  
+4. Why are some companies “behind the times”?  
+5. Would you like to visit this lab? Why/why not? 
 
 -------
 
