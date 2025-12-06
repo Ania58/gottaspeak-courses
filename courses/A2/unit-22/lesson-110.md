@@ -24,17 +24,17 @@ Answer:
 -------
 
 ## Vocabulary (5 min)
-Words: AI, data, system, automation, remote work, virtual, innovation, design.  
+Words: AI, data, system, automation, remote work, virtual, innovation, design.
 
 **Match (8)**  
-A. using machines instead of people → ______  
-B. working from home → ______  
-C. opposite of real → ______  
-D. creating something new → ______  
-E. opposite of human → ______  
-F. information collection → ______  
-G. plan or structure → ______  
-H. opposite of old method → ______  
+A. using machines to do tasks without human control → ______  
+B. working from home using the internet → ______  
+C. something that exists only digitally and not physically → ______  
+D. a new idea or improvement in technology → ______  
+E. computer intelligence that can learn and make decisions → ______  
+F. information that computers collect, store, or use → ______  
+G. a group of connected parts that work together → ______  
+H. the process of planning how something will look or work → ______  
 
 -------
 
@@ -50,12 +50,18 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Artificial Intelligence and Jobs”](https://www.newsinlevels.com/)  
+**Text: “AI at Work: What Will Change?”**
 
-Answer:  
-1. What changes are described?  
-2. Which jobs are safe, and which are at risk?  
-3. How do you feel about these changes?  
+In many companies, AI is already helping workers with simple tasks. Some offices use virtual assistants to answer questions or organise schedules. Factories are changing too — machines can do dangerous or boring jobs through automation.  
+
+However, not every job will disappear. Many experts say that creative jobs, teaching, and healthcare roles are safer because they need human emotions and communication. At the same time, new jobs will appear. People will need skills such as coding, problem-solving, and data analysis.  
+
+Most scientists agree on one thing: AI will not replace everyone, but it **will** change how we work. If people learn new skills, they will have more opportunities in the future.
+
+**Answer:**  
+1. What changes does AI bring to different workplaces?  
+2. Which jobs seem safe according to the text?  
+3. What skills might be important in the future?   
 
 -------
 
