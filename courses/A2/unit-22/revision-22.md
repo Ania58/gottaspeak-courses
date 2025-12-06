@@ -11,7 +11,7 @@ duration: 30
 2. If we recycle more, we ______ (save) the planet.  
 3. Please ______ your laptop. (phrasal verb)  
 4. This app is ______ – very advanced. (idiom)  
-5. Robots ______ (might / may) replace some jobs.  
+5. Robots ______ (modal) replace some jobs.  
 6. Device, screen, password, ______ (add one more).  
 7. Don’t worry, ______ – it’s easy! (idiom)  
 8. We’re ______ (launch) a new product next week.  
@@ -19,12 +19,12 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Future of Technology”](https://learningenglish.voanews.com/)  
+Audio: [Randall's ESL Lab – “The Future of AI”](https://www.esl-lab.com/interviews/ae-future-of-ai/)
 
 Answer:  
-1. What inventions are discussed?  
-2. Which grammar forms are used for predictions?  
-3. Which idioms or phrasal verbs appear?  
+1. What areas of life do the speakers talk about when they discuss AI (e.g. art, work, education, dating)?  
+2. What positive and negative points about AI do they mention?  
+3. Do the speakers sound more excited or more worried about the future of AI? Why?  
 
 -------
 
