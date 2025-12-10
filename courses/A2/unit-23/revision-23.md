@@ -18,13 +18,15 @@ duration: 30
 
 -------
 
-## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Earth and Us”](https://learningenglish.voanews.com/)  
+## Skills – Listening (10 min)
+Audio: [BBC Learning English – “Climate Anxiety”](https://www.bbc.co.uk/learningenglish/features/6-minute-english_2022/ep-221020)
 
-Answer:  
-1. What problems are discussed?  
-2. What actions do people take?  
-3. Which phrases express cause and effect?  
+**Answer:**
+1. What environmental problems are mentioned?
+2. How does climate change affect people’s feelings?
+3. What examples of positive actions are given?
+4. What places can help improve mental health?
+5. Do you ever feel worried about the planet?
 
 -------
 
