@@ -22,7 +22,7 @@ Answer:
 
 Common mistakes:  
 ❌ Because pollution → ✅ Because of pollution  
-❌ I’m tired so I go → ✅ I’m tired, so I’m going to rest  
+❌ I’m tired so I go → ✅ I’m tired, so I’m going to go 
 
 -------
 
@@ -30,14 +30,14 @@ Common mistakes:
 Words: drought, flood, temperature, rain, storm, heat, air, soil.  
 
 **Match (8)**  
-A. opposite of wet → ______  
-B. heavy water disaster → ______  
-C. very hot weather → ______  
-D. opposite of cold → ______  
-E. land where plants grow → ______  
-F. water from the sky → ______  
-G. opposite of clean → ______  
-H. weather with wind and rain → ______  
+A. long period with no rain → ______  
+B. large amount of water covering land → ______  
+C. strong sun and very high warmth → ______  
+D. how hot or cold the air is → ______  
+E. ground where plants grow → ______  
+F. water that falls from the sky → ______  
+G. gas mixture we breathe → ______  
+H. violent weather with wind, rain, or thunder → ______  
 
 -------
 
@@ -53,12 +53,25 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Climate Change and People”](https://www.newsinlevels.com/)  
+### **Reading: “When Weather Changes, People Must Adapt”**
 
-Answer:  
-1. What examples of cause and effect are given?  
-2. How do people react?  
-3. Which actions can stop global warming?  
+In many countries, climate change is becoming a serious problem.  
+Temperatures are rising, **so** summers are longer and hotter.  
+There is less rain in some areas, **as a result**, farmers lose crops during long droughts.  
+In other places, heavy rain comes suddenly, **therefore** cities experience floods.  
+
+Because the weather is changing, people must change their habits too.  
+Some cities plant more trees because they help cool the air.  
+People also save water during dry seasons, **so** there is enough for everyone.  
+
+Scientists warn that if pollution continues, storms will become stronger.  
+**As a result**, many families may need to move to safer areas.  
+However, if people recycle more and use less energy, the planet will recover slowly.
+
+### Answer:
+1. What cause-and-effect examples are mentioned?  
+2. How do people adapt to climate change?  
+3. Which action do you think is the most important?
 
 -------
 
