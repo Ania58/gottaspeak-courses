@@ -27,14 +27,14 @@ Answer:
 Words: recycling, power, electricity, rubbish, habit, action, change, resource.  
 
 **Match (8)**  
-A. material that can be reused → ______  
-B. energy for machines → ______  
-C. opposite of waste → ______  
-D. opposite of continue → ______  
-E. garbage or waste → ______  
-F. opposite of dirty → ______  
-G. regular behavior → ______  
-H. something we use from Earth → ______  
+A. material that is processed so it can be used again → ______  
+B. energy used to make machines work → ______  
+C. natural material we use from Earth (water, wood, oil) → ______  
+D. garbage or things you throw away → ______  
+E. regular behavior you do often → ______  
+F. something you do to help the environment → ______  
+G. opposite of stay the same → ______  
+H. energy supply sent to homes and buildings → ______ 
 
 -------
 
@@ -50,12 +50,18 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Green Habits”](https://learningenglish.voanews.com/)  
+### Text: *“Small Actions, Big Change”*
 
-Answer:  
-1. Which phrasal verbs can describe the habits?  
-2. What daily habits are mentioned?  
-3. Which can you start today?  
+Many people don’t realize how simple habits can help the planet.  
+Some families **cut down on** plastic by using reusable bags. Others **clean up** local parks every month. At home, people **switch off** lights when they leave a room and try not to **throw away** food.  
+
+Sometimes a family **runs out of** energy or water faster than they expect. This helps them understand how important it is to save resources.  
+When more people make small changes every day, the world slowly becomes cleaner.
+
+**Answer:**  
+1. Which phrasal verbs are used in the text?  
+2. What small actions are described?  
+3. Which action could you do this week?   
 
 -------
 
