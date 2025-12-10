@@ -30,15 +30,14 @@ Common mistakes:
 Words: pollution, energy, water, plastic, rule, habit, ban, protection.  
 
 **Match (8)**  
-A. opposite of dirty → ______  
-B. opposite of permission → ______  
-C. regular action → ______  
-D. opposite of danger → ______  
-E. opposite of waste → ______  
-F. official restriction → ______  
-G. substance from bottles → ______  
-H. resource for electricity → ______  
-
+A. dirty air, land, or water → ______  
+B. resource used to make electricity → ______  
+C. clean liquid we drink and use every day → ______  
+D. material used for bottles and packaging → ______  
+E. something that tells you what you must/mustn’t do → ______  
+F. regular action you do often → ______  
+G. opposite of permission; official “you can’t do this” → ______  
+H. keeping something safe from danger → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -53,12 +52,16 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Rules for a Greener Planet”](https://learningenglish.voanews.com/)  
+Audio: [BBC Learning English – “Waste”](https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250704)
 
-Answer:  
-1. What advice is given?  
-2. What actions are necessary, and what are optional?  
-3. Which do you already follow?  
+**Answer:**  
+1. What examples of waste do the speakers mention?  
+2. What things do they recycle at home?  
+3. How does supermarket shopping relate to reducing waste?  
+4. Why does Beth feel guilty about taking baths?  
+5. What single-use items do they talk about?  
+6. What habits do they want to cut down on?  
+7. Which idea do you agree with most? Why?  
 
 -------
 
