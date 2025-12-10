@@ -25,18 +25,17 @@ Common mistakes:
 -------
 
 ## Vocabulary (5 min)
-Words: forest, pollution, environment, waste, wildlife, recycle, climate, nature.  
+Words: forest, pollution, environment, waste, wildlife, recycle, climate, nature.
 
 **Match (8)**  
-A. animals living in nature → ______  
-B. opposite of city → ______  
-C. things we throw away → ______  
-D. air, land and water around us → ______  
-E. opposite of destroy → ______  
-F. to use again → ______  
-G. opposite of dirty air → ______  
-H. long-term weather changes → ______  
-
+A. animals living freely in natural areas → ______  
+B. large area with many trees → ______  
+C. things people throw away, often in bins → ______  
+D. air, land, and water around us → ______  
+E. using old materials to make new things → ______  
+F. dirty air or water caused by people → ______  
+G. natural world, including plants and animals → ______  
+H. long-term changes in temperature and weather → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -51,12 +50,20 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Saving the Planet”](https://www.newsinlevels.com/)  
+### **Reading: “Young People Protect the Earth”**
 
-Answer:  
-1. What actions are described in the article?  
-2. Who is helping the environment?  
-3. How can you help too?  
+More and more young people around the world are helping the environment. In one town in Italy, students have collected plastic waste from local rivers every weekend **for two years**. They say the water has become much cleaner **since they started**.
+
+In Brazil, a group of teenagers has planted over 3,000 trees **since 2021**. They work with local farmers and teach children how important forests are for wildlife and clean air.
+
+In South Korea, volunteers have repaired old bicycles and given them to families who want to stop using cars. This has reduced pollution and helped people travel more safely.
+
+These small actions show that everyone can do something. If young people continue working together, our planet will slowly become a cleaner and safer place.
+
+**Answer:**  
+1. What actions do young people take to protect the environment?  
+2. Which country’s project do you like most? Why?  
+3. What similar action could you start in your town?   
 
 -------
 
