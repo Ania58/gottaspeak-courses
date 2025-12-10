@@ -26,14 +26,14 @@ Answer:
 Words: effort, action, result, health, problem, plant, garden, change.  
 
 **Match (8)**  
-A. opposite of big → ______  
-B. positive effect → ______  
-C. opposite of unhealthy → ______  
-D. something you do → ______  
-E. living thing that grows → ______  
-F. place with flowers → ______  
-G. opposite of nothing → ______  
-H. something not visible at first → ______  
+A. something very small → ______  
+B. positive effect of something → ______  
+C. good condition of the body → ______  
+D. something you do to achieve a goal → ______  
+E. living thing that grows in soil → ______  
+F. place where flowers and plants grow → ______  
+G. opposite of staying the same → ______  
+H. difficulty that needs a solution → ______  
 
 -------
 
@@ -49,13 +49,19 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “People Who Help the Planet”](https://www.newsinlevels.com/)  
+**Text: “Small Actions, Big Change”**
 
-Answer:  
-1. What actions are described?  
-2. Which idioms could describe the people?  
-3. How do they inspire you?  
+Many people think their actions are *just a drop in the ocean*, but small steps can create real change.  
+For example, in one city, a group of students decided to clean a local beach every weekend. At first, it looked like **the tip of the iceberg**, because there was so much rubbish. But after a few months, the beach became cleaner, and more people joined.
 
+One woman with a **green thumb** started a community garden where neighbours grow vegetables together. This garden has *made a difference* to local families, who now have fresh food and a greener neighbourhood.
+
+Even if the world’s environmental problems are huge, these stories show that small actions can inspire *big change*.
+
+**Answer:**  
+1. What problems or actions are described?  
+2. Which idioms match the situations?  
+3. Which example inspires you the most?  
 -------
 
 ## Writing (2 min)
