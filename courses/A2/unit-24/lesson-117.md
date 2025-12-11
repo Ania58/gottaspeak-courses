@@ -23,7 +23,7 @@ Answer:
 Common mistakes:  
 ❌ Too much hot → ✅ Too hot  
 ❌ Enough big → ✅ Big enough  
-❌ Such beautiful → ✅ Such a beautiful day  
+❌ Such beautiful → ✅ Such a beautiful day  / so beautiful 
 
 -------
 
@@ -31,14 +31,14 @@ Common mistakes:
 Words: loud, quiet, cold, warm, heavy, light, strong, weak.  
 
 **Match (8)**  
-A. opposite of hot → ______  
-B. opposite of noisy → ______  
-C. opposite of light → ______  
-D. opposite of strong → ______  
-E. opposite of warm → ______  
-F. opposite of calm → ______  
-G. opposite of loud → ______  
-H. opposite of heavy → ______  
+A. easy to lift → ______  
+B. low temperature → ______  
+C. able to lift or carry things easily → ______  
+D. not making much noise → ______  
+E. making a lot of noise → ______  
+F. not physically strong → ______  
+G. pleasant temperature → ______  
+H. difficult to lift → ______  
 
 -------
 
@@ -54,12 +54,15 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Feelings and Reactions”](https://learningenglish.voanews.com/)  
+Audio: [TeachingEnglish – "Managing Emotions"](https://www.teachingenglish.org.uk/teaching-resources/teaching-secondary/lesson-plans/pre-intermediate-a2/managing-emotions)
 
 Answer:  
-1. Which situations make people happy or sad?  
-2. Which examples use *too, enough, so, such*?  
-3. How do people describe their emotions?  
+1. Why did the younger brother get angry at school?  
+2. How does the older brother help him calm down?  
+3. What breathing technique do they practise together?  
+4. Why doesn’t shouting help when you are angry?  
+5. What does the younger brother decide to do next time he feels stressed about school?  
+ 
 
 -------
 
