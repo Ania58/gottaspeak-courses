@@ -30,35 +30,51 @@ Common mistakes:
 Words: calm, patient, funny, serious, friendly, shy, brave, clever.  
 
 **Match (8)**  
-A. opposite of afraid → ______  
-B. opposite of outgoing → ______  
-C. opposite of rude → ______  
-D. opposite of silly → ______  
-E. opposite of angry → ______  
-F. opposite of stupid → ______  
-G. opposite of impatient → ______  
-H. opposite of boring → ______  
-
+A. someone who doesn’t fear difficult situations → ______  
+B. someone who doesn’t like speaking in groups → ______  
+C. someone who is kind and easy to talk to → ______  
+D. someone who thinks carefully and doesn’t joke → ______  
+E. someone who stays relaxed in stressful moments → ______  
+F. someone who understands things quickly → ______  
+G. someone who waits without getting angry → ______  
+H. someone who makes people laugh → ______  
 -------
 
 ## Controlled Practice (8 min)
-Complete:  
-1. I’m ______ more confident now than before.  
-2. He’s ______ funnier than his brother.  
-3. This test is ______ harder than the last one.  
-4. She’s ______ friendlier than most people.  
-5. I’m ______ calmer than I used to be.  
-6. He’s ______ more clever than he looks.  
+Choose the ONLY intensifier that fits the meaning: **a bit / much / far / way**.
+
+1. The test today was ______ easier than I expected.  
+   *(It was a BIG and surprising difference.)*
+
+2. I’m ______ more tired than yesterday, but I can still work.  
+   *(A small, noticeable difference.)*
+
+3. This café is ______ quieter than the one across the street — let’s stay here.  
+   *(A clearly bigger difference, but not extreme.)*
+
+4. My new laptop is ______ faster than my old one — it feels like a different machine.  
+   *(A huge jump in quality.)*
+
+5. She’s ______ more patient than me, but not by much.  
+   *(A small difference.)*
+
+6. The city today is ______ busier than last week — I can hardly move!  
+   *(A dramatic difference.)*
 
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Different Personalities”](https://www.newsinlevels.com/)  
+**Reading Text: “How People React Differently”**  
+People react in different ways when they face problems. Some people are much calmer and think before they act. They try to understand the situation and look for solutions. Others get nervous more quickly and feel emotions very strongly.
 
-Answer:  
-1. What types of people are described?  
-2. Which adjectives describe you?  
-3. How can differences help people work together?  
+Friendly people often try to help everyone, while serious people prefer to focus quietly on their tasks. Clever students usually learn faster, but shy students may work harder because they want to improve. Brave people are far more confident in stressful moments, but patient people are often the most successful — they don’t give up easily.
+
+Understanding these differences helps groups work better together. When people with different personalities cooperate, they can support each other and become a stronger team.
+
+**Answer:**  
+1. What different personality types are mentioned?  
+2. Which personality type is the most similar to you?  
+3. Why is having different personalities in a group useful?  
 
 -------
 
