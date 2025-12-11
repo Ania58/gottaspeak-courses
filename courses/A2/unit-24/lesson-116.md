@@ -30,15 +30,14 @@ Common mistakes:
 Words: happy, sad, angry, nervous, relaxed, surprised, excited, worried.  
 
 **Match (8)**  
-A. opposite of calm → ______  
-B. opposite of sad → ______  
-C. opposite of bored → ______  
-D. opposite of relaxed → ______  
-E. opposite of excited → ______  
-F. opposite of peaceful → ______  
-G. opposite of angry → ______  
-H. opposite of nervous → ______  
-
+A. feeling calm and comfortable → ______  
+B. feeling afraid or unsure → ______  
+C. feeling full of energy and looking forward to something → ______  
+D. feeling unhappy → ______  
+E. feeling shocked because something unexpected happened → ______  
+F. feeling upset because something is wrong → ______  
+G. feeling positive and joyful → ______  
+H. feeling annoyed or upset because of a problem → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -53,12 +52,19 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Emotions and the Brain”](https://www.newsinlevels.com/)  
+**Text: “How People Feel During the Day”**
 
-Answer:  
-1. What emotions are mentioned?  
-2. What causes people to feel them?  
-3. Which emotions do you feel most often?  
+People feel different emotions during the day. In the morning, many people feel **tired** or **nervous**, especially when they have work or school. After lunch, people often feel more **relaxed**, because they have already finished part of their tasks.  
+
+Good news, messages from friends, or small successes at work can make people feel **happy** or **excited**. But unexpected problems, like a missed bus or a difficult test, can make them feel **angry** or **worried**.  
+
+In the evening, people usually want to rest. Some feel **calm**, while others feel **surprised** when something unexpected happens at home. Emotions change quickly, and everyone reacts in different ways.
+
+**Answer:**  
+1. What emotions are mentioned in the text?  
+2. What makes people feel happy or excited?  
+3. What situations make people feel worried or angry?  
+4. How do you usually feel in the evening?  
 
 -------
 
