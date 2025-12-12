@@ -27,15 +27,14 @@ Answer:
 Words: emotion, stress, friendship, care, reaction, problem, support, comfort.  
 
 **Match (8)**  
-A. opposite of sadness → ______  
-B. opposite of indifference → ______  
-C. opposite of conflict → ______  
-D. opposite of neglect → ______  
-E. something you solve → ______  
-F. emotional response → ______  
-G. opposite of tension → ______  
-H. giving help → ______  
-
+A. a feeling such as happiness or anger → ______  
+B. pressure or worry that makes you feel tense → ______  
+C. a close and positive relationship → ______  
+D. help given to someone in a difficult situation → ______  
+E. something difficult that needs a solution → ______  
+F. the way someone responds to a situation → ______  
+G. making someone feel safer or less worried → ______  
+H. attention given to protect or help someone → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -50,12 +49,14 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Human Feelings”](https://learningenglish.voanews.com/)  
+**Text:** *Managing Emotions in Everyday Life*  
 
-Answer:  
-1. What emotions are described?  
-2. Which phrasal verbs could describe them?  
-3. How do people deal with emotions?  
+People react to emotions in different ways. When someone feels stressed or angry, it’s important to calm down before speaking. Some people prefer to open up and talk about their problems with friends, while others need time alone. Good relationships help people get along better and feel supported. When friends look after each other, it’s easier to deal with problems and cheer up after a bad day.
+
+**Answer:**  
+1. What emotions are mentioned in the text?  
+2. How do people deal with stress or anger?  
+3. Which phrasal verbs from the lesson appear in the text?  
 
 -------
 
