@@ -26,14 +26,14 @@ Answer:
 Words: happiness, anger, sadness, trouble, mistake, control, mood, emotion.  
 
 **Match (8)**  
-A. opposite of happiness → ______  
-B. opposite of calm → ______  
-C. opposite of freedom → ______  
-D. opposite of peace → ______  
-E. something you fix → ______  
-F. ability to stay relaxed → ______  
-G. opposite of good mood → ______  
-H. opposite of problem → ______  
+A. a positive feeling when something good happens → ______  
+B. a strong feeling when you are annoyed or furious → ______  
+C. a feeling of unhappiness or disappointment → ______  
+D. a difficult or dangerous situation → ______  
+E. something you did wrong → ______  
+F. the ability to stay calm and manage reactions → ______  
+G. how you feel at a particular moment → ______  
+H. a general feeling such as joy, fear or anger → ______  
 
 -------
 
@@ -49,12 +49,18 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Dealing with Emotions”](https://www.newsinlevels.com/)  
+### Text: *Emotions at Work and at Home*
 
-Answer:  
-1. What emotional situations are described?  
-2. Which idioms could describe them?  
-3. How do people manage their feelings?  
+Everyone has emotional days. Sometimes we are **over the moon** because something great happens – a promotion, a good grade, or kind words from someone we care about. On other days, we may **feel blue** for no clear reason, and even small problems feel heavy.
+
+Emotions can also cause trouble. If someone makes a mistake at work, they might be **in hot water** with their boss. In stressful situations like this, some people **lose their temper**, which often makes the problem worse. Shouting or blaming others rarely helps.
+
+Learning to **keep your cool** is an important life skill. People who stay calm can think more clearly, explain their feelings better, and find solutions faster. Whether at work, at school, or at home, understanding emotions helps us build better relationships and deal with challenges in a healthier way.
+
+**Answer:**
+1. Which situations make people happy or sad?
+2. What problems are caused by strong emotions?
+3. Which idiom best describes how you usually react to stress?
 
 -------
 
