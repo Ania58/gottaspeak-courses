@@ -19,12 +19,15 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “How People Feel”](https://learningenglish.voanews.com/)  
+**Listening 3:**  
+Audio: [English4Real – Fears (A2)](https://english4real.com/practice/a2_l2-fears.html)
 
-Answer:  
-1. What emotions are discussed?  
-2. Which grammar structures express them?  
-3. Which idioms describe these feelings best?  
+**Questions:**  
+1. What is each person afraid of?  
+2. What past experience caused their fear?  
+3. How does each person avoid the situation they fear?  
+4. Which fear affects daily life the most? Why?  
+5. Which fear do you understand best?
 
 -------
 
