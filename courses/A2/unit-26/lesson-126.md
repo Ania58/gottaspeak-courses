@@ -27,15 +27,14 @@ Common mistakes:
 Words: balance, stress, routine, hobby, deadline, rest, free time, habit.  
 
 **Match (8)**  
-A. opposite of work → ______  
-B. something you do regularly → ______  
-C. opposite of pressure → ______  
-D. activity you do for fun → ______  
-E. time to relax → ______  
-F. opposite of calm → ______  
-G. date when something must be finished → ______  
-H. healthy pattern in daily life → ______  
-
+A. time when you are not working → ______  
+B. regular way you do things every day → ______  
+C. feeling of pressure or worry → ______  
+D. activity you do for pleasure → ______  
+E. time to sleep or relax → ______  
+F. limit for finishing work → ______  
+G. healthy mix of work and personal life → ______  
+H. action you do often, sometimes without thinking → ______  
 -------
 ## Controlled Practice (8 min)
 Complete:  
@@ -48,13 +47,18 @@ Complete:
 
 -------
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Finding Work–Life Balance”](https://www.newsinlevels.com/)  
+### Reading: *Finding Work–Life Balance*
 
-Answer:  
-1. What advice is given for better balance?  
-2. What are the main causes of stress?  
-3. Which ideas could work for you?  
+Many people today feel stressed because they work too much and rest too little. Long hours, tight deadlines and constant messages make it hard to relax. Over time, this stress can affect both health and relationships.
 
+Work–life balance means finding time not only for work, but also for rest, hobbies and family. Some people try to set clear routines, for example stopping work at the same time every day. Others avoid checking emails in the evening so they can enjoy their free time.
+
+Experts say that small changes can help a lot. Taking short breaks, doing something active, or spending time on a hobby can reduce stress. When people rest well, they often work better too.
+
+**Questions:**  
+1. What problems can poor work–life balance cause?  
+2. What habits help people relax after work?  
+3. Which idea from the text would help you most?  
 -------
 ## Speaking (2 min)
 Describe your typical day and how you relax.
