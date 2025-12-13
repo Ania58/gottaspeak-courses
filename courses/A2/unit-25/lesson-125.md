@@ -29,15 +29,14 @@ Common mistakes:
 Words: motivation, discipline, advice, focus, concentration, goal, strategy, plan.  
 
 **Match (8)**  
-A. opposite of distraction → ______  
-B. opposite of chaos → ______  
-C. opposite of demotivation → ______  
-D. opposite of disorder → ______  
-E. something you want to reach → ______  
-F. method to succeed → ______  
-G. mental energy → ______  
-H. helpful words → ______  
-
+A. the ability to control yourself and work regularly → ______  
+B. something you want to achieve in the future → ______  
+C. ideas or suggestions that help you decide what to do → ______  
+D. strong reason to do something → ______  
+E. the ability to think about one thing only → ______  
+F. careful thinking and attention → ______  
+G. a clear way to achieve something → ______  
+H. a list of steps or actions → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -52,12 +51,18 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Learning Motivation”](https://learningenglish.voanews.com/)  
+**Text: Learning Motivation**
 
-Answer:  
-1. What motivates people to learn?  
-2. What advice do teachers give?  
-3. Which examples use reported speech?  
+Many students say that motivation is the key to success. Some people are naturally motivated, while others need strong discipline to keep studying regularly. Teachers often give advice on how to stay focused, such as setting clear goals or following a simple study plan.
+
+One student said that having a clear strategy helped her concentrate better. She explained that studying in short sessions improved her focus and reduced stress. Another student shared that writing down goals made learning more meaningful and helped him stay motivated even when lessons were difficult.
+
+Good learning habits do not appear overnight. They are built step by step, with practice, effort and patience.
+
+**Answer:**  
+1. What helps students stay motivated?  
+2. What learning strategies are mentioned?  
+3. Which habit would help you most?  
 
 -------
 
