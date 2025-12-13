@@ -32,15 +32,14 @@ Common mistakes:
 Words: success, failure, motivation, effort, result, goal, progress, opportunity.  
 
 **Match (8)**  
-A. opposite of fail → ______  
-B. opposite of laziness → ______  
-C. opposite of loss → ______  
-D. what you want to achieve → ______  
-E. opposite of stagnation → ______  
-F. something that can happen → ______  
-G. opposite of demotivation → ______  
-H. opposite of stop → ______  
-
+A. achieving what you want → ______  
+B. not succeeding → ______  
+C. reason to want to act or study → ______  
+D. hard work you put into something → ______  
+E. what happens because of an action → ______  
+F. something you want to reach → ______  
+G. improvement over time → ______  
+H. a good chance to do something → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -55,13 +54,14 @@ Complete:
 -------
 
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Motivation to Learn”](https://learningenglish.voanews.com/)  
+Audio: [Test-English – “If I Were a Millionaire”](https://test-english.com/listening/a2/if-i-were-a-millionaire-second-conditional-a2-english-listening-test/)  
 
-Answer:  
-1. What examples of “if” sentences do you hear?  
-2. What would students do if they had more time?  
-3. Which ideas can help you learn better?  
-
+**Answer:**  
+1. What would the speakers do if they were millionaires?  
+2. Which things would they buy or change in their lives?  
+3. Do they talk about studying, work, or helping others?  
+4. Which ideas are realistic and which are dreams?  
+5. What would *you* do if you were a millionaire?  
 -------
 
 ## Writing (2 min)
