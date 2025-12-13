@@ -29,15 +29,14 @@ Common mistakes:
 Words: exercise, diet, relaxation, sleep, advice, energy, goal, responsibility.  
 
 **Match (8)**  
-A. opposite of tension → ______  
-B. opposite of tiredness → ______  
-C. opposite of bad habit → ______  
-D. physical activity → ______  
-E. opposite of ignore → ______  
-F. plan or target → ______  
-G. food plan → ______  
-H. something you must do → ______  
-
+A. physical activity to keep your body healthy → ______  
+B. the food you eat every day → ______  
+C. resting your body and mind → ______  
+D. the time when your body recovers → ______  
+E. helpful suggestion about what to do → ______  
+F. power that helps you stay active → ______  
+G. something you want to achieve → ______  
+H. something you are expected to do → ______  
 -------
 ## Controlled Practice (8 min)
 Complete:  
@@ -50,12 +49,15 @@ Complete:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “How to Manage Stress”](https://learningenglish.voanews.com/)  
+**Listening:** *A Helping Hand*  
+Audio: [A Helping Hand – ESL Lounge](https://www.esl-lounge.com/student/listening/3L18-a-helping-hand-2.php)
 
-Answer:  
-1. What advice do experts give?  
-2. Which modal verbs do they use?  
-3. What ideas could help you personally?  
+
+**Answer:**  
+1. Who needs help in the listening?  
+2. What advice is given?  
+3. Which modal verbs for advice or necessity do you hear?  
+4. Which piece of advice do you agree with most?
 
 -------
 ## Writing (2 min)
