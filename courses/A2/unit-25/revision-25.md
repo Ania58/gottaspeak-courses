@@ -19,12 +19,14 @@ duration: 30
 -------
 
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Learning and Success”](https://learningenglish.voanews.com/)  
+Audio: [English Practice – A2 School Listening](https://english-practice.net/practice-listening-english-exercises-for-a2-school/)
 
-Answer:  
-1. What learning tips are shared?  
-2. Which grammar forms appear?  
-3. Which idioms describe motivation?  
+**Questions:**  
+1. Why did Ethan’s parents take him out of school?  
+2. What is “world schooling”?  
+3. What subjects did Ethan learn while travelling?  
+4. Why did Ethan want to go back to school in Bali?  
+5. Does Ethan prefer travelling or school now? Why?  
 
 -------
 
