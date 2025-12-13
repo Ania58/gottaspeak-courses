@@ -30,15 +30,14 @@ Common mistakes:
 Words: subject, homework, test, classmate, teacher, timetable, grade, course.  
 
 **Match (8)**  
-A. plan of lessons → ______  
-B. person who teaches → ______  
-C. friend from school → ______  
-D. opposite of fail → ______  
-E. opposite of optional → ______  
-F. opposite of rest → ______  
-G. something you do after class → ______  
-H. topic of learning → ______  
-
+A. a plan showing when lessons happen → ______  
+B. a person who helps students learn → ______  
+C. someone you study with at school → ______  
+D. a mark showing how well you did → ______  
+E. a group of lessons on one topic → ______  
+F. work students do at home after class → ______  
+G. an exam to check knowledge → ______  
+H. an area of study like maths or history → ______  
 -------
 
 ## Controlled Practice (8 min)
@@ -53,12 +52,17 @@ Complete:
 -------
 
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Different Learning Styles”](https://www.newsinlevels.com/)  
+**Text: Learning in Different Ways**
+
+People learn in different ways. Some students like reading books and taking notes, while others prefer watching videos or listening to explanations. Many people learn better when they work with classmates and discuss ideas together.  
+
+Some students like clear timetables and regular homework because it helps them stay organised. Others learn better when they can choose how and when they study. There is no single best way to learn – the most important thing is to understand what works best for you.  
 
 Answer:  
-1. What learning styles are mentioned?  
-2. Which one describes you best?  
-3. How can knowing your style help you learn better?  
+1. What different learning styles are mentioned?  
+2. Why do some students like timetables and homework?  
+3. What does the text say is the most important thing about learning?  
+
 
 -------
 
