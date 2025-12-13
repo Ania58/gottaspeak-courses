@@ -18,12 +18,21 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Wellbeing and Rest”](https://learningenglish.voanews.com/)  
+Audio: [British Council – “Work–Life Balance”](https://learnenglish.britishcouncil.org/skills/listening/b1-listening/work-life-balance)
 
-Answer:  
-1. What ideas about balance are shared?  
-2. What grammar structures express advice?  
-3. Which idioms describe stress best?  
+**Listening tasks:**
+
+1. What was a typical working day like in traditional workplaces?  
+2. What does *working overtime* mean?  
+3. Which activities were usually free from work in the past? (Choose two.)  
+4. What technology makes it harder to separate work and private life today?  
+5. What advantage of modern work does Chris mention?  
+6. According to the speaker, do people have **more** or **less** freedom now? Why?
+
+*Focus while listening:*  
+- work vs private life  
+- changes in working habits  
+- advantages and disadvantages of flexible work
 
 -------
 ## Writing (6 min)
