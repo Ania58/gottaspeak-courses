@@ -27,14 +27,15 @@ Answer:
 Words: assignment, dictionary, project, lecture, topic, knowledge, lesson, note.  
 
 **Match (8)**  
-A. something you submit → ______  
-B. place to write ideas → ______  
-C. opposite of forget → ______  
-D. long talk by a teacher → ______  
-E. area of study → ______  
-F. opposite of quit → ______  
-G. book for words → ______  
-H. opposite of end → ______  
+A. school work you give to a teacher → ______  
+B. book or app used to find word meanings → ______  
+C. information and understanding you have → ______  
+D. long talk given by a teacher → ______  
+E. subject you are studying → ______  
+F. class with a teacher → ______  
+G. short written reminder or idea → ______  
+H. longer piece of work done over time → ______  
+
 
 -------
 
@@ -50,12 +51,19 @@ Complete with phrasal verbs:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Students and Technology in Schools”](https://www.newsinlevels.com/)  
+### How Students Learn Today
 
-Answer:  
-1. How do students use technology to study?  
-2. Which phrasal verbs describe their actions?  
-3. What are the benefits and risks?  
+Many students use technology to help them learn more effectively. Instead of only listening to lectures, they watch short videos, read online articles, and use apps to practise vocabulary. When they don’t understand a word, they look it up quickly on their phones.
+
+Some students study alone, while others prefer working in groups. Before exams, they usually go over their notes and try to catch up on topics they missed. Taking short notes during lessons helps them remember important information later.
+
+More and more people are also taking up online courses. These courses allow students to learn at their own pace, but they need motivation. Students who drop out often say they didn’t have enough time or support.
+
+**Answer:**  
+1. How do students use technology to learn?  
+2. Which phrasal verbs from the lesson appear in the text?  
+3. Do you prefer learning online or in a classroom? Why?  
+
 
 -------
 
