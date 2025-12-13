@@ -26,15 +26,14 @@ Answer:
 Words: effort, lesson, knowledge, success, failure, skill, exam, practice.  
 
 **Match (8)**  
-A. opposite of hard → ______  
-B. opposite of lose → ______  
-C. opposite of difficult → ______  
-D. result of studying → ______  
-E. opposite of ignorance → ______  
-F. opposite of relax → ______  
-G. test or evaluation → ______  
-H. habit that improves ability → ______  
-
+A. the result of learning and experience → ______  
+B. something you do to improve your ability → ______  
+C. a formal test at school or university → ______  
+D. the act of trying hard to do something → ______  
+E. a class or period of teaching → ______  
+F. the ability to do something well → ______  
+G. when something does not work or goes wrong → ______  
+H. achieving what you wanted → ______
 -------
 
 ## Controlled Practice (8 min)
@@ -49,13 +48,18 @@ Complete:
 -------
 
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Students Who Inspire Others”](https://www.newsinlevels.com/)  
+**Text: Education, Effort and Success**
 
-Answer:  
-1. What examples of success are given?  
-2. Which idioms describe the students best?  
-3. How do they motivate others?  
+For many students, school success doesn’t come overnight. At the beginning of a new subject, most learners need time to **learn the ropes**. New rules, new teachers and new expectations can feel stressful. However, students who are patient and ready to put in effort usually improve.
 
+Before exams, some students really **hit the books**, while others prefer shorter but regular study sessions. What matters most is practice and understanding, not just memorising facts. For some learners, certain subjects are a **piece of cake**, but others need more time and support.
+
+Success is not about being the **teacher’s pet**. It’s about showing progress, asking questions and not giving up after failure. In the end, students who keep practising and stay motivated usually **make the grade**.
+
+**Answer:**
+1. What helps students succeed at school?
+2. Why is effort more important than being talented?
+3. Which idiom best describes your learning experience?
 -------
 
 ## Writing (2 min)
