@@ -27,14 +27,14 @@ Common mistakes:
 Words: rule, tradition, guide, respect, explanation, message, permission, advice.  
 
 **Match (8)**  
-A. opposite of order → ______  
-B. something you follow → ______  
-C. something you learn from → ______  
-D. opposite of prohibition → ______  
-E. information someone gives → ______  
-F. helpful suggestion → ______  
-G. action of showing politeness → ______  
-H. opposite of misunderstanding → ______  
+A. something people do in a culture for many years → ______  
+B. words that help you understand something → ______  
+C. something you are allowed to do → ______  
+D. information sent to someone → ______  
+E. a person who shows places to visitors → ______  
+F. behaviour that shows politeness → ______  
+G. a suggestion that helps you decide what to do → ______  
+H. something you must or must not do → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -48,12 +48,18 @@ Rewrite the sentences in reported speech:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Communicating Across Cultures”](https://learningenglish.voanews.com/)  
+**Text: “Respecting Local Customs”**
 
-Answer:  
-1. What cultural advice is given?  
-2. What rules or traditions are mentioned?  
-3. Which phrases use reported speech?  
+When people travel to another country, they often meet new traditions and rules. Some behaviours that are normal at home can be rude in another culture. For example, in some countries people must take off their shoes before entering a house or a temple. In others, it is impolite to point at people or speak loudly in public places.
+
+Tour guides usually explain local customs to visitors. They may tell tourists to dress appropriately, be quiet, or ask for permission before taking photos. Following these rules shows respect and helps avoid misunderstandings.
+
+Good communication is important when cultures are different. Asking questions, listening carefully and observing others can help travellers feel more comfortable and avoid problems.
+
+**Answer:**
+1. What examples of local rules are mentioned?  
+2. Why do guides give advice to tourists?  
+3. How can travellers avoid misunderstandings? 
 
 -------
 ## Writing (2 min)
