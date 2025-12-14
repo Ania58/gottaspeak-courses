@@ -25,14 +25,14 @@ Answer:
 Words: delay, lost luggage, mistake, solution, passenger, booking, service, complaint.  
 
 **Match (8)**  
-A. opposite of on time → ______  
-B. opposite of find → ______  
-C. thing you make when unhappy → ______  
-D. action to fix a problem → ______  
-E. person travelling → ______  
-F. plan for hotel or flight → ______  
-G. opposite of loss → ______  
-H. help from a company → ______  
+A. problem when something arrives late → ______  
+B. bags that cannot be found after a flight → ______  
+C. something done wrong → ______  
+D. way to fix a problem → ______  
+E. person travelling on a bus, train or plane → ______  
+F. reservation for a hotel or flight → ______  
+G. help provided by a company → ______  
+H. formal expression of dissatisfaction → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -46,12 +46,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Passengers Solve Airport Chaos”](https://www.newsinlevels.com/)  
+### Travel Problems at the Airport
 
-Answer:  
-1. What problems happened at the airport?  
-2. How did people react?  
-3. Which phrasal verbs describe their actions?  
+Last summer, many passengers experienced serious problems at a busy European airport. Several flights were delayed because of bad weather, and some travellers waited more than five hours to board their planes. When they finally arrived, many people discovered that their luggage hadn’t turned up.
+
+One passenger said she had run out of clean clothes and had to buy new ones. Another traveller made a complaint because the airline service was very slow. Airport staff worked hard to sort out the situation and offered food vouchers and hotel rooms to some passengers.
+
+Although the experience was stressful, most people stayed calm and helped each other. By the end of the day, most of the luggage was found, and passengers were able to continue their journeys.
+
+**Answer:**  
+1. What travel problems did passengers experience?  
+2. How did the airport staff try to help?  
+3. Which phrasal verbs from the lesson appear in the text?  
 
 -------
 ## Speaking (2 min)
