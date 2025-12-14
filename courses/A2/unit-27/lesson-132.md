@@ -32,15 +32,14 @@ Common mistakes:
 Words: destination, sightseeing, local, souvenir, museum, culture, adventure, memory.  
 
 **Match (8)**  
-A. something you buy to remember → ______  
-B. place you travel to → ______  
-C. something exciting → ______  
-D. something you remember → ______  
-E. person from the area → ______  
-F. place with art → ______  
-G. exploring interesting places → ______  
-H. opposite of foreign → ______  
-
+A. an object you buy to remember a trip → ______  
+B. the final place you travel to → ______  
+C. exciting or unusual experience → ______  
+D. something from the past you remember → ______  
+E. a person who lives in the place → ______  
+F. a building where you see art or history → ______  
+G. visiting places of interest → ______  
+H. traditions, history and way of life → ______  
 -------
 ## Controlled Practice (8 min)
 Choose the correct option:  
@@ -53,12 +52,14 @@ Choose the correct option:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “People and Travel”](https://learningenglish.voanews.com/)  
+Audio: [English4Real – Travel Experiences (Listening 3)](https://english4real.com/practice/a2_l2-travel.html)
 
-Answer:  
-1. What countries are mentioned?  
-2. How do people describe their experiences?  
-3. Which tense do they use more often?  
+Answer:
+1. Which story is the most positive?  
+2. Which traveller had a problem with transport or luggage?  
+3. Who wants to visit the place again? Why?  
+4. Which problems made travelling difficult?  
+5. Which experience is similar to yours?   
 
 -------
 ## Writing (2 min)
