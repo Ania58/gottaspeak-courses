@@ -24,14 +24,14 @@ Answer:
 Words: gesture, misunderstanding, respect, behaviour, habit, difference, culture, curiosity.  
 
 **Match (8)**  
-A. sign made with hands or body → ______  
-B. opposite of similarity → ______  
-C. interest in learning → ______  
-D. opposite of disrespect → ______  
-E. something you do often → ______  
-F. action or manner → ______  
-G. confusion between languages → ______  
-H. opposite of understanding → ______  
+A. movement of the hands or body to communicate → ______  
+B. something that makes people different → ______  
+C. desire to know or learn more → ______  
+D. polite and careful attitude to others → ______  
+E. something done regularly → ______  
+F. the way someone acts → ______  
+G. wrong understanding between people → ______  
+H. traditions, customs and way of life → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -45,12 +45,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Cultural Misunderstandings Abroad”](https://www.newsinlevels.com/)  
+**Cultural Encounters Abroad**
 
-Answer:  
-1. What situations caused confusion?  
-2. How did people solve the problems?  
-3. Which idioms could describe them?  
+When people travel or live abroad, cultural misunderstandings are common. A simple gesture, like a handshake or eye contact, can have different meanings in different cultures. What seems polite in one country may feel rude in another.
+
+Many travellers say they feel like a *fish out of water* at first. They may get the wrong idea about people’s behaviour or feel that jokes are lost in translation. However, showing curiosity and respect helps a lot. Asking questions and observing how locals behave can break the ice and avoid problems.
+
+In the end, adapting to local habits makes cultural encounters easier and more enjoyable.
+
+**Answer:**  
+1. What causes cultural misunderstandings?  
+2. How do travellers feel at the beginning?  
+3. What helps people adapt to a new culture? 
 
 -------
 ## Speaking (2 min)
