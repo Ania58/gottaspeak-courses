@@ -32,15 +32,14 @@ Common mistakes:
 Words: trip, journey, ticket, flight, luggage, airport, hotel, guide.  
 
 **Match (8)**  
-A. what you buy to travel → ______  
-B. place where planes take off → ______  
-C. person who shows tourists around → ______  
-D. opposite of departure → ______  
-E. opposite of unpack → ______  
-F. something you carry clothes in → ______  
-G. where you stay when you travel → ______  
-H. short travel for fun → ______  
-
+A. a short visit for pleasure, usually not far away → ______  
+B. the building where planes arrive and leave → ______  
+C. a person who gives information and shows places → ______  
+D. the moment when you arrive somewhere → ______  
+E. the action of opening your bags after travelling → ______  
+F. bags or suitcases you take with you → ______  
+G. a place where travellers sleep → ______  
+H. travel by plane → ______ 
 -------
 ## Controlled Practice (8 min)
 Complete:  
@@ -53,13 +52,15 @@ Complete:
 
 -------
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Travel Experiences”](https://www.newsinlevels.com/)  
+**Text: “A Memorable Journey”**
 
-Answer:  
-1. What places are mentioned?  
-2. How do travelers describe their experiences?  
-3. Which country would you like to visit next?  
+Last year, I went on an amazing **trip** to Portugal with my family. We bought our **tickets** online and flew early in the morning. The **flight** was short, but I was still very excited. When we arrived at the **airport**, a local **guide** was waiting for us.  
+We stayed in a small **hotel** near the beach. My **luggage** was heavy because I packed too many clothes! During our **journey**, we visited beautiful cities, tried local food, and met friendly people. I’ve never had such a great travel experience before.
 
+**Answer:**  
+1. Where did the writer travel?  
+2. How did they travel there?  
+3. What made the journey special? 
 -------
 ## Speaking (2 min)
 Say 3 sentences about places you’ve visited and what you liked most.
