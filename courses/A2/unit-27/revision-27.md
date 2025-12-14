@@ -2,7 +2,7 @@
 course: "A2"
 unit: "27"
 lesson: "Revision"
-title: "Unit 27 Revision – Travel Experiences and Cultural Awareness (updated)"
+title: "Unit 27 Revision – Travel Experiences and Cultural Awareness"
 duration: 30
 ---
 
@@ -18,12 +18,15 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Cultural Communication Abroad”](https://learningenglish.voanews.com/)  
+Listening: **Travel experiences**  
+Audio: [ESL Video – Travel Experiences (A2)](https://eslvideo.com/quiz.php?id=51522)
 
-Answer:  
-1. What misunderstandings are mentioned?  
-2. How do travelers solve them?  
-3. Which idioms describe the experiences?  
+**Answer:**  
+1. Which places has the speaker travelled to?  
+2. What type of travel does the speaker prefer: beaches or countryside?  
+3. What problem did the speaker have in a hostel?  
+4. Why does the speaker recommend reading hostel reviews?  
+5. What flight problems does the speaker mention?  
 
 -------
 ## Writing (6 min)
