@@ -33,15 +33,14 @@ Common mistakes:
 Words: question, command, answer, explanation, message, information, reminder, advice.  
 
 **Match (8)**  
-A. opposite of order → ______  
-B. opposite of silence → ______  
-C. opposite of forget → ______  
-D. helpful suggestion → ______  
-E. opposite of confusion → ______  
-F. what you send to someone → ______  
-G. opposite of ignorance → ______  
-H. something you reply to → ______  
-
+A. something you ask to get information → ______  
+B. an instruction telling someone what to do → ______  
+C. spoken or written reply → ______  
+D. details that help you understand something → ______  
+E. spoken or written communication for someone → ______  
+F. facts or data you need → ______  
+G. note that helps you remember something → ______  
+H. suggestion about what you should do → ______  
 -------
 ## Controlled Practice (8 min)
 Rewrite:  
@@ -54,12 +53,15 @@ Rewrite:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Messages and Communication”](https://learningenglish.voanews.com/)  
+Audio:  
+[British Council – Leaving a Message](https://learnenglish.britishcouncil.org/skills/listening/a2-listening/leaving-message)
 
-Answer:  
-1. What types of messages are mentioned?  
-2. Which examples include reported speech?  
-3. What advice do they give about digital communication?  
+**Answer:**  
+1. Why is Maria not available when Peter calls?  
+2. What message does Peter want Jane to give Maria?  
+3. What contact details does Peter leave?  
+4. What is the call about?  
+5. Which sentences could be reported using *said*, *asked*, or *told*?  
 
 -------
 ## Writing (2 min)
