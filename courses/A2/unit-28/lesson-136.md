@@ -28,15 +28,14 @@ Common mistakes:
 Words: device, app, message, call, internet, password, account, file.  
 
 **Match (8)**  
-A. opposite of offline → ______  
-B. something you install on your phone → ______  
-C. thing that protects your account → ______  
-D. opposite of paper → ______  
-E. opposite of delete → ______  
-F. what you send in chat → ______  
-G. electronic tool → ______  
-H. profile you use online → ______  
-
+A. a piece of equipment used for technology → ______  
+B. a program you download to your phone or computer → ______  
+C. written text you send online → ______  
+D. spoken communication by phone → ______  
+E. global network used to go online → ______  
+F. secret word used for security → ______  
+G. personal profile on a website → ______  
+H. document saved on a computer → ______  
 -------
 ## Controlled Practice (8 min)
 Complete:  
@@ -49,12 +48,18 @@ Complete:
 
 -------
 ## Skills – Reading (6 min)
-Text: [News in Levels – “Technology in Modern Life”](https://www.newsinlevels.com/)  
+**Reading: Technology in Our Daily Routine**
 
-Answer:  
-1. What are the advantages of technology?  
-2. What are the main problems?  
-3. How do people balance online and offline life?  
+Most people use technology every day. We wake up and check our phones, read messages, and look at the news online. At work or school, we use computers to write files, send emails, and search for information on the internet.
+
+Technology makes life easier, but it can also be a problem. Some people spend too much time online and forget to rest or meet friends. That is why it is important to have a balance between online and offline life.
+
+Using technology in a smart way helps us stay connected, informed, and productive.
+
+**Answer:**
+1. What examples of daily technology use are mentioned?  
+2. What problems can technology cause?  
+3. Why is balance important?  
 
 -------
 ## Speaking (2 min)
