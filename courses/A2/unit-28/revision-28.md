@@ -18,12 +18,16 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Digital Communication”](https://learningenglish.voanews.com/)  
 
-Answer:  
-1. What types of online communication are discussed?  
-2. What grammar forms appear?  
-3. Which idioms describe good connection?  
+**Listening 3**  
+Audio: [Phone Messages – A2 Listening Practice](https://english-practice.net/practice-listening-english-exercises-for-a2-phone-messages/)
+
+**Answer:**  
+1. Why is Mike calling in message 3?  
+2. Where does he want to go for lunch?  
+3. What food does he recommend?  
+4. What activity does he suggest after lunch?  
+5. When should the listener call him back?   
 
 -------
 ## Writing (6 min)
