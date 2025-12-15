@@ -24,15 +24,14 @@ Answer:
 Words: keyboard, screen, volume, connection, charger, network, call, signal.  
 
 **Match (8)**  
-A. opposite of disconnect → ______  
-B. opposite of silence → ______  
-C. opposite of dark → ______  
-D. opposite of quiet → ______  
-E. opposite of off → ______  
-F. opposite of stop → ______  
-G. tool for typing → ______  
-H. opposite of strong → ______  
-
+A. flat surface where images and text appear → ______  
+B. device used to type letters and numbers → ______  
+C. strength of sound on a device → ______  
+D. ability to access the internet → ______  
+E. device used to give power to a phone → ______  
+F. system that connects computers or phones → ______  
+G. spoken communication by phone → ______  
+H. level of mobile or Wi-Fi reception → ______  
 -------
 ## Controlled Practice (8 min)
 Complete:  
@@ -45,12 +44,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Technology Problems”](https://www.newsinlevels.com/)  
+**Reading: Everyday Technology Problems**
 
-Answer:  
-1. What tech problems do people face?  
-2. Which phrasal verbs describe the actions?  
-3. How can you fix similar issues?  
+Many people depend on technology every day, but problems often appear at the worst moment. You might try to **log in** to an app and realise you forgot your password. During online meetings, weak internet **connections** can make the screen freeze or the sound disappear.  
+
+Phone calls can also be frustrating. Sometimes the **signal** is poor, so people need to **speak up** or repeat themselves. Other times, the battery dies because the phone wasn’t **charged**, and the call suddenly ends.  
+
+To avoid these problems, it’s important to check your **network**, keep your **charger** nearby, and make sure your devices are turned off properly when you finish using them.
+
+**Answer:**  
+1. What technology problems are mentioned in the text?  
+2. Which phrasal verbs describe the actions people take?  
+3. What advice does the text give to avoid problems?  
 
 -------
 ## Speaking (2 min)
