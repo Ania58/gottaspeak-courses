@@ -24,14 +24,14 @@ Answer:
 Words: conversation, friendship, idea, rumour, information, surprise, silence, connection.  
 
 **Match (8)**  
-A. opposite of written → ______  
-B. opposite of detail → ______  
-C. opposite of forget → ______  
-D. opposite of disconnect → ______  
-E. opposite of noise → ______  
-F. opposite of ignorance → ______  
-G. opposite of text → ______  
-H. opposite of confusion → ______  
+A. talk between two or more people → ______  
+B. close relationship between people → ______  
+C. thought or plan in your mind → ______  
+D. information that may not be true → ______  
+E. facts or details you learn or share → ______  
+F. feeling when something unexpected happens → ______  
+G. moment with no speaking or sound → ______  
+H. relationship or link between people → ______   
 
 -------
 ## Controlled Practice (8 min)
@@ -45,12 +45,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “How People Communicate”](https://www.newsinlevels.com/)  
+**Reading: Communication in the Digital Age**
 
-Answer:  
-1. What communication styles are mentioned?  
-2. Which idioms could describe them?  
-3. How do you prefer to communicate?  
+Modern communication is fast and easy, but it can also be confusing. Many people meet online and need to **break the ice** before they feel comfortable talking. Social media helps friends **keep in touch**, even when they live far away.  
+
+Sometimes information spreads by **word of mouth**, especially when people share news with friends before checking the facts. This can cause rumours, so it’s important to look at the **big picture** and think carefully before believing everything you hear.  
+
+Good communication is not only about speaking. Silence, listening, and understanding connections between people are just as important.
+
+**Answer:**  
+1. How do people communicate today according to the text?  
+2. Which idioms from the lesson appear in the reading?  
+3. What advice does the text give about sharing information?  
 
 -------
 ## Speaking (2 min)
