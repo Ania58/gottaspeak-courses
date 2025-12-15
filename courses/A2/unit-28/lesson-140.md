@@ -18,23 +18,29 @@ Answer:
 - Direct: “Why are you late?” → Indirect: Do you know why you’re late?  
 - Direct: “When does the meeting start?” → Indirect: Can you tell me when the meeting starts?  
 
+**Key rule:**  
+In indirect questions, the word order is **subject + verb** (no question order).
+
 Common mistakes:  
-❌ Can you tell me where is the file → ✅ where the file is  
-❌ I don’t know where is she → ✅ where she is  
+❌ Can you tell me where is the file  
+✅ Can you tell me where the file is  
+
+❌ I don’t know where is she  
+✅ I don’t know where she is   
 
 -------
 ## Vocabulary (5 min)
 Words: polite, rude, tone, message, attention, respect, reply, emoji.  
 
 **Match (8)**  
-A. opposite of impolite → ______  
-B. opposite of loud → ______  
-C. opposite of anger → ______  
-D. opposite of ignore → ______  
-E. opposite of emotionless → ______  
-F. opposite of delay → ______  
-G. opposite of confusion → ______  
-H. opposite of disrespect → ______  
+A. showing good manners → ______  
+B. not respectful in behaviour or words → ______  
+C. the way something sounds or feels → ______  
+D. written or spoken information you send → ______  
+E. interest you give to someone or something → ______  
+F. showing care and good behaviour → ______  
+G. answer to a message → ______  
+H. small symbol showing emotion → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -48,12 +54,16 @@ Rewrite direct → indirect:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Online Communication Rules”](https://www.newsinlevels.com/)  
+**Reading: Being Polite Online**
 
-Answer:  
-1. What are the main digital etiquette rules?  
-2. What examples of politeness are mentioned?  
-3. Which expressions are indirect questions?  
+Online communication is fast, but it can easily sound rude if people are not careful. When writing emails or messages, using polite language and indirect questions helps avoid misunderstandings. For example, instead of asking *“Why didn’t you reply?”*, it is better to ask *“Could you tell me when you have time to reply?”*  
+
+Tone is also important. Short messages without emojis or polite words can sound angry or cold. Showing respect, saying *please* and *thank you*, and replying calmly help create better online relationships. Good digital etiquette makes communication clearer and more friendly.
+
+**Answer:**  
+1. Why can online messages sound rude easily?  
+2. What examples of polite behaviour are mentioned?  
+3. Which indirect question from the text sounds most polite to you?  
 
 -------
 ## Writing (2 min)
