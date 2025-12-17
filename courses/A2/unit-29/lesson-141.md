@@ -33,14 +33,14 @@ Common mistakes:
 Words: respectful, open-minded, honest, reliable, selfish, supportive, jealous, stubborn.  
 
 **Match (8)**  
-A. opposite of honest → ______  
-B. opposite of supportive → ______  
-C. opposite of generous → ______  
-D. opposite of flexible → ______  
-E. opposite of rude → ______  
-F. opposite of closed-minded → ______  
-G. opposite of unreliable → ______  
-H. opposite of calm → ______  
+A. tells the truth and doesn’t lie → ______  
+B. thinks mainly about their own needs → ______  
+C. accepts different opinions and ideas → ______  
+D. doesn’t change their opinion easily → ______  
+E. helps others emotionally or practically → ______  
+F. feels angry or insecure about other people → ______  
+G. can be trusted and does what they promise → ______  
+H. shows good manners and consideration for others → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -54,12 +54,23 @@ Choose the correct word or phrase:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Understanding Human Behaviour”](https://www.newsinlevels.com/)  
+**Text: Personalities at Work**
 
-Answer:  
-1. What behaviours make people successful in society?  
-2. Which character traits help build relationships?  
-3. Which ideas do you agree with?  
+People work better together when they respect each other.  
+Some people are very open-minded and like listening to new ideas.  
+Others can be stubborn and find it hard to accept different opinions.  
+
+Good relationships are built on honesty and support.  
+Reliable people keep their promises and help when someone needs it.  
+Jealous or selfish behaviour, however, can cause problems in teams.  
+
+Although everyone is different, learning how to communicate politely  
+and stay calm helps create better personal and professional relationships.
+
+**Answer:**  
+1. Which personality traits are described in the text?  
+2. Which behaviours cause problems in relationships?  
+3. Which qualities are most important for you at work or in friendships?   
 
 -------
 ## Speaking (3 min)
