@@ -29,14 +29,14 @@ Common mistakes:
 Words: community, neighbour, kindness, respect, volunteer, rule, freedom, responsibility.  
 
 **Match (8)**  
-A. opposite of selfishness → ______  
-B. opposite of rudeness → ______  
-C. opposite of restriction → ______  
-D. opposite of hate → ______  
-E. opposite of punishment → ______  
-F. opposite of isolation → ______  
-G. opposite of chaos → ______  
-H. opposite of laziness → ______  
+A. caring about others and helping them → ______  
+B. people who live near you → ______  
+C. behaving politely and valuing others → ______  
+D. people working together in one area → ______  
+E. something you must follow → ______  
+F. the right to choose and act freely → ______  
+G. helping without being paid → ______  
+H. duty to act in a correct way → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -50,12 +50,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Respect and Tolerance in Society”](https://www.newsinlevels.com/)  
+**Text: Living Together in Society**
 
-Answer:  
-1. What actions show respect?  
-2. What problems are discussed?  
-3. How can we make our society kinder?  
+Every society depends on respect and responsibility. People live together in communities, and this means they must think not only about themselves, but also about others. Simple actions like being kind to neighbours, following rules, or helping someone in need can make a big difference.
+
+Many people choose to volunteer in their free time. They help in schools, hospitals or local organisations. Although volunteering takes time and effort, it helps build stronger communities. On the other hand, when people ignore rules or show disrespect, problems appear more easily.
+
+Freedom is important in modern society, but it also comes with responsibility. In my opinion, a good society is one where people use their freedom wisely and treat others with respect, even when they disagree.
+
+**Answer:**  
+1. What actions help build a strong community?  
+2. Why is volunteering important?  
+3. How are freedom and responsibility connected?  
 
 -------
 ## Speaking (2 min)
