@@ -18,12 +18,16 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Respect in Society”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[ELLLO – Adelina: Learning in Life](https://www.elllo.org/english/1251/1291-ade-learning.htm)
 
-Answer:  
-1. What makes people respectful?  
-2. Which grammar structures express opinions?  
-3. Which idioms describe relationships?  
+**Answer:**  
+1. How does Adelina describe her life?  
+2. Why does she say she learns more than people with a routine life?  
+3. What problems can appear when someone is not “stable”?  
+4. How does Adelina react when she fails?  
+5. Which ideas from the listening relate to opinions, relationships, or society?  
+
 
 -------
 ## Writing (6 min)
