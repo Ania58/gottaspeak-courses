@@ -25,14 +25,14 @@ Answer:
 Words: respect, argument, friend, child, care, relationship, chance, support.  
 
 **Match (8)**  
-A. opposite of enemy → ______  
-B. opposite of adult → ______  
-C. opposite of hate → ______  
-D. opposite of harm → ______  
-E. opposite of fight → ______  
-F. opposite of avoid → ______  
-G. connection between people → ______  
-H. help and love → ______  
+A. feeling of admiration for someone → ______  
+B. disagreement between people → ______  
+C. person you like and trust → ______  
+D. young person, not an adult → ______  
+E. looking after someone → ______  
+F. connection between people → ______  
+G. something that happens unexpectedly → ______  
+H. help given to someone → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -46,12 +46,14 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “How People Connect”](https://www.newsinlevels.com/)  
+**Text: Friends, Family and Everyday Life**
 
-Answer:  
-1. What types of relationships are described?  
-2. Which phrasal verbs fit the examples?  
-3. What’s the key to good communication?  
+When people grow up, their relationships often change. Some friends get along well for years, while others fall out after an argument. Many people look up to their parents or teachers because they give support and good advice. Sometimes, you can even run into an old friend by chance, which can be a nice surprise. In the end, respect and communication are the most important parts of any relationship.
+
+**Answer:**  
+1. How do relationships change when people grow up?  
+2. Who do people often look up to?  
+3. What helps relationships stay strong?  
 
 -------
 ## Speaking (2 min)
