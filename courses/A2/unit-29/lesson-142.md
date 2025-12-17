@@ -31,14 +31,14 @@ Common mistakes:
 Words: opinion, reason, question, answer, idea, discussion, belief, statement.  
 
 **Match (8)**  
-A. opposite of fact → ______  
-B. something people ask → ______  
-C. something you give after a question → ______  
-D. a group conversation → ______  
-E. what you think → ______  
-F. opposite of doubt → ______  
-G. opposite of silence → ______  
-H. something you say → ______  
+A. something you think about a topic → ______  
+B. something people ask to get information → ______  
+C. what you say to reply → ______  
+D. conversation where people share ideas → ______  
+E. something you think is true → ______  
+F. explanation for why something happens → ______  
+G. sentence that gives information → ______  
+H. opposite of agreement → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -52,12 +52,14 @@ Rewrite:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Asking and Sharing Opinions”](https://learningenglish.voanews.com/)  
+**Text: Talking About Opinions**
 
-Answer:  
-1. What questions are asked?  
-2. How do people express agreement or disagreement?  
-3. What phrases sound polite?  
+In a class discussion about society, the teacher asked students what they thought about social media. One student said she believed it helped people stay connected. Another student disagreed and explained that it sometimes caused stress. The teacher asked why they felt this way and encouraged everyone to share their ideas politely. At the end of the lesson, the teacher said that listening to different opinions was an important skill in communication.
+
+**Answer:**  
+1. What topic did the students discuss?  
+2. What different opinions were mentioned?  
+3. Why did the teacher think discussions were important?  
 
 -------
 ## Speaking (2 min)
