@@ -27,14 +27,14 @@ Use **there is / there are** + nature vocabulary naturally, not mechanically:
 Words: mountain, forest, desert, river, ocean, island, pollution, climate.  
 
 **Match (8)**  
-A. very dry land → ______  
-B. large body of salt water → ______  
-C. area full of trees → ______  
-D. opposite of clean → ______  
-E. small land surrounded by water → ______  
-F. high area of land → ______  
-G. natural changes in weather → ______  
-H. water flowing to the sea → ______  
+A. a very dry place with little rain and few plants → ______  
+B. a very large area of salty water between continents → ______  
+C. a large area covered with trees and wildlife → ______  
+D. dirty air, water, or land caused by human activity → ______  
+E. a piece of land with water all around it → ______  
+F. a very high area of land, often with snow on top → ______  
+G. the usual weather conditions in a place over many years → ______  
+H. a long natural flow of water that goes to the sea → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -48,13 +48,19 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Nature and Climate”](https://www.newsinlevels.com/)  
+### Reading: *Our Planet and Its Future*
 
-Answer:  
-1. What examples of nature appear in the article?  
-2. What problems are mentioned?  
-3. What solutions are possible?  
+The Earth is full of different natural places such as mountains, forests, rivers and oceans. Each place has its own climate and animals. Forests are very important because they produce oxygen and help keep the air clean. Oceans cover most of the planet and are home to millions of sea animals.
 
+However, pollution is becoming a serious problem. Plastic waste is found in rivers and oceans, and dirty air affects both people and nature. Climate change also causes extreme weather, such as very hot summers or long periods without rain.
+
+Many people believe that protecting nature is everyone’s responsibility. Small actions, like using less plastic and saving water, can help protect the planet for future generations.
+
+**Questions:**  
+1. What natural places are mentioned in the text?  
+2. Why are forests important?  
+3. What environmental problems are described?  
+4. What small actions can help protect nature?  
 -------
 ## Speaking (2 min)
 Describe one natural place you love and what makes it special.
