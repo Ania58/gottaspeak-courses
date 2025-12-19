@@ -25,14 +25,14 @@ Answer:
 Words: energy, waste, smoke, plastic, pollution, gas, electricity, food.  
 
 **Match (8)**  
-A. opposite of reuse → ______  
-B. opposite of on → ______  
-C. opposite of full → ______  
-D. opposite of clean → ______  
-E. opposite of natural → ______  
-F. opposite of save → ______  
-G. opposite of stop → ______  
-H. opposite of empty → ______  
+A. power used to make machines, lights, or heating work → ______  
+B. materials that are not needed anymore → ______  
+C. grey or black air from fires or factories → ______  
+D. light material often used for bottles and bags → ______  
+E. dirty air, water, or land caused by human activity → ______  
+F. air-like substance such as carbon dioxide → ______  
+G. power used for lights and devices → ______  
+H. things people eat every day → ______
 
 -------
 ## Controlled Practice (8 min)
@@ -46,12 +46,20 @@ Complete with phrasal verbs:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Cleaning Up Our World”](https://www.newsinlevels.com/)  
+### Reading: *Small Actions, Big Environmental Impact*
 
-Answer:  
-1. What actions are people taking to help the planet?  
-2. Which phrasal verbs describe these actions?  
-3. What can you personally do?  
+Many environmental problems are caused by everyday habits. When people throw away plastic bottles and bags, they often end up in rivers or oceans. If rubbish is not cleaned up, it harms animals and pollutes water.
+
+Energy use is another serious issue. Cars and factories give off gases that damage the air and contribute to climate change. If people cut down on electricity use and turn off devices when they are not needed, pollution can be reduced.
+
+Communities around the world are taking action. Volunteers clean up parks and beaches, and families try not to run out of resources by using less and reusing more. Small changes may seem unimportant, but together they can make a real difference.
+
+**Questions:**  
+1. What problems are caused by throwing away plastic?  
+2. What gives off harmful gases according to the text?  
+3. What actions help reduce pollution?  
+4. Which phrasal verbs from the lesson appear in the text?  
+ 
 
 -------
 ## Speaking (2 min)
