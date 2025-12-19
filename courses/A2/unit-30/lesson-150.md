@@ -28,14 +28,14 @@ Common mistakes:
 Words: flood, drought, storm, heat, waste, cause, effect, result.  
 
 **Match (8)**  
-A. opposite of cold → ______  
-B. opposite of dry → ______  
-C. opposite of calm → ______  
-D. opposite of reason → ______  
-E. opposite of stop → ______  
-F. opposite of action → ______  
-G. opposite of frozen → ______  
-H. opposite of loss → ______  
+A. a large amount of water covering land → ______  
+B. a long period with very little rain → ______  
+C. extreme weather with strong wind and rain → ______  
+D. very high temperature → ______  
+E. something people throw away or use badly → ______  
+F. the reason why something happens → ______  
+G. what happens because of an action → ______  
+H. the final outcome of an action or event → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -49,13 +49,17 @@ Complete:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Climate and Cause”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[British Council – Big City Small World, Episode 5: Environmental Issues](https://learnenglish.britishcouncil.org/general-english/audio-series/big-city-small-world/bcsw-series-3/episode-05-environmental-issues)
 
-Answer:  
-1. What environmental problems are described?  
-2. What cause/effect connections do you hear?  
-3. What actions are suggested?  
+**Questions:**  
+1. Why does Olivia think people should cycle more?  
+2. What reasons do Harry and Johnny give for driving cars?  
+3. How does Magda usually travel around the city?  
+4. What problem does Harry mention about driving in the city?  
+5. Who believes that everyone should help protect the environment?   
 
 -------
 ## Writing (2 min)
-Write 3 cause-and-effect sentences about the environment.
+Write **3 sentences** about the environment using cause-and-effect structures  
+(*because, because of, so, as a result*).
