@@ -24,14 +24,14 @@ Answer:
 Words: rain, plant, air, action, health, problem, garden, situation.  
 
 **Match (8)**  
-A. opposite of dry → ______  
-B. opposite of sick → ______  
-C. opposite of dirty → ______  
-D. opposite of inaction → ______  
-E. opposite of small → ______  
-F. opposite of tense → ______  
-G. opposite of die → ______  
-H. opposite of useless → ______  
+A. water that falls from the sky → ______  
+B. living thing that grows in the ground → ______  
+C. invisible gas we breathe → ______  
+D. something you do to change a situation → ______  
+E. how your body and mind feel → ______  
+F. a difficult situation that needs a solution → ______  
+G. place where flowers or vegetables grow → ______  
+H. the state or condition something is in → ______ 
 
 -------
 ## Controlled Practice (8 min)
@@ -45,13 +45,21 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “People Making a Difference”](https://www.newsinlevels.com/)  
+### Reading: *Small Actions and Big Change*
 
-Answer:  
-1. What people are making a change in the environment?  
-2. Which idioms describe their actions?  
-3. How can small efforts grow into big results?  
+Many people believe that protecting the planet is too big a problem for one person. Recycling one bottle or planting one tree can feel like a drop in the ocean. However, when millions of people do small actions every day, real change becomes possible.
+
+Some people have a green thumb and grow their own food. This helps reduce pollution and improves their health. Others help by cleaning parks or talking openly about environmental problems to clear the air in their communities.
+
+Even when people feel under the weather or discouraged, they can still make a difference. Simple actions, repeated often, slowly improve the situation and show that every effort matters.
+
+**Questions:**  
+1. Why do small actions sometimes feel useless?  
+2. How do people with a green thumb help the environment?  
+3. What does “clear the air” mean in the text?  
+4. Which idioms from the lesson appear in the reading?  
+
 
 -------
 ## Speaking (2 min)
-Say which idiom fits you best and why.
+Choose one idiom from the lesson and explain how it connects to your life or habits.
