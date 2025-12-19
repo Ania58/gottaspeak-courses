@@ -18,12 +18,15 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Protecting Nature”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[Climate Change – Listening Activities (ESOL Courses)](https://www.esolcourses.com/content/topics/environment/climate-change/climate-change-listening-activities.html)
 
-Answer:  
-1. What examples of environmental actions are given?  
-2. Which grammar structures express cause and effect?  
-3. Which idioms describe positive actions?  
+**Questions:**  
+1. What is climate change, according to the video?  
+2. What human activities are mentioned as causes of climate change?  
+3. What effects of climate change are described?  
+4. How does climate change affect people or nature?  
+5. What actions can individuals take to help the environment?   
 
 -------
 ## Writing (6 min)
