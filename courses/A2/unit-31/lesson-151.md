@@ -27,14 +27,14 @@ Common mistakes:
 Words: habit, routine, sleep, diet, energy, stress, exercise, balance.  
 
 **Match (8)**  
-A. opposite of tiredness → ______  
-B. opposite of rest → ______  
-C. opposite of unhealthy → ______  
-D. opposite of irregular → ______  
-E. opposite of chaos → ______  
-F. opposite of sadness → ______  
-G. opposite of weakness → ______  
-H. opposite of laziness → ______  
+A. something you do again and again every day → ______  
+B. the way you usually organise your day → ______  
+C. the food you usually eat → ______  
+D. the power you have to do things → ______  
+E. the feeling when you worry because you have too much to do → ______  
+F. physical activity that keeps your body strong → ______  
+G. a healthy mix of work and rest → ______  
+H. the natural rest your body needs at night → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -48,12 +48,21 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “How to Stay Healthy”](https://www.newsinlevels.com/)  
+### Healthy Habits in Everyday Life
 
-Answer:  
-1. What tips does the article give?  
-2. Which ones do you already follow?  
-3. Which would you like to try?  
+Many people want to live a healthy life, but they don’t always know how to start. Healthy habits are often simple and small. For example, drinking enough water every day helps your body work better and gives you more energy. Eating regular meals and having a balanced diet are also very important.
+
+Sleep is another key habit. When people don’t sleep enough, they feel tired and stressed. This makes it harder to focus at work or school. A good routine, like going to bed at the same time every night, can really help.
+
+Exercise doesn’t have to be difficult or time-consuming. Walking, stretching or riding a bike are easy ways to stay active. Finally, it’s important to relax. Taking breaks, spending time outdoors or talking to friends helps reduce stress and keeps a good balance in life.
+
+---
+
+**Answer:**  
+1. Name three healthy habits mentioned in the text.  
+2. Why is sleep important for daily life?  
+3. Which habit from the text is the easiest for you to start?
+
 
 -------
 ## Speaking (2 min)
