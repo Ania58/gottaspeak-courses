@@ -30,14 +30,14 @@ Common mistakes:
 Words: choice, time, rest, opportunity, stress, diet, improvement, change.  
 
 **Match (8)**  
-A. opposite of problem → ______  
-B. opposite of work → ______  
-C. opposite of bad habit → ______  
-D. opposite of illness → ______  
-E. opposite of limitation → ______  
-F. opposite of difficulty → ______  
-G. opposite of old → ______  
-H. opposite of no chance → ______  
+A. a decision you make between different options → ______  
+B. the hours you have during the day → ______  
+C. the sleep your body needs to recover → ______  
+D. a good chance to do something new → ______  
+E. the feeling you have when you are worried or under pressure → ______  
+F. the food you usually eat → ______  
+G. a positive result or better situation → ______  
+H. something you make different → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -51,12 +51,18 @@ Complete:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Healthy Living Choices”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[If I Were You – Healthy Choices and Life Decisions (A2)](https://eslvideo.com/quiz.php?id=49870)
 
-Answer:  
-1. What habits do people imagine changing?  
-2. Which conditional sentences do you hear?  
-3. Which ideas would you try?  
+**Listen and answer:**
+
+1. Why does Sally want to change her lifestyle?  
+2. What food habits does her friend say she should change?  
+3. Why is drinking cola in the evening a problem?  
+4. What sport did Sally use to do in the past?  
+5. What would Sally like to become in the future?  
+6. Why is her father not happy about her plan?  
+7. What advice does her friend give about her father?    
 
 -------
 ## Speaking (2 min)
