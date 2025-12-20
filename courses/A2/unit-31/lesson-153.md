@@ -25,14 +25,14 @@ Answer:
 Words: illness, energy, patience, fitness, sugar, noise, anger, sleep.  
 
 **Match (8)**  
-A. opposite of weakness → ______  
-B. opposite of calm → ______  
-C. opposite of early → ______  
-D. opposite of health → ______  
-E. opposite of rest → ______  
-F. opposite of recovery → ______  
-G. opposite of fit → ______  
-H. opposite of peace → ______  
+A. a condition when you are sick → ______  
+B. the strength your body has to act and move → ______  
+C. the ability to stay calm and wait → ______  
+D. being healthy and in good physical shape → ______  
+E. a sweet substance often added to food → ______  
+F. sounds that are loud or disturbing → ______  
+G. a strong feeling when you are very upset → ______  
+H. the rest your body needs at night → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -46,12 +46,18 @@ Complete with phrasal verbs:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Healthy Habits Around the World”](https://www.newsinlevels.com/)  
+**Healthy Habits in Everyday Life**
 
-Answer:  
-1. What habits are mentioned?  
-2. Which phrasal verbs describe them?  
-3. Which habit would you like to adopt?  
+Many people want to live healthier lives, but their daily habits often stop them from doing so. After a long day at work or school, people feel tired and stressed, so they stay up late watching series or using their phones. As a result, they don’t get enough sleep and feel exhausted the next day.
+
+Doctors say that working out regularly and cutting down on sugar can make a big difference to our health. Even simple activities like walking, stretching or cycling help the body and mind. When people feel angry or stressed, it’s also important to calm down instead of reacting too quickly.
+
+Another problem is that many people don’t rest when they come down with an illness. They continue working instead of letting their bodies recover. If people listened more to their bodies, they would get over illnesses faster and feel more energetic in everyday life.
+
+**Answer:**
+1. What unhealthy habits are mentioned in the text?  
+2. Which activities help people stay healthy?  
+3. Why is rest important when someone is ill? 
 
 -------
 ## Speaking (2 min)
