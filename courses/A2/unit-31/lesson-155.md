@@ -18,23 +18,28 @@ Answer:
 - Direct: “Don’t skip breakfast.” → Reported: He advised me not to skip breakfast.  
 - Direct: “Take vitamins every day.” → Reported: She told me to take vitamins.  
 
+**Form reminders:**  
+- told + object + (that) clause / infinitive  
+- advised + object + to / not to + verb 
+
 Common mistakes:  
 ❌ She said me → ✅ She told me  
 ❌ He told that → ✅ He told me that / He advised me to  
+❌ He advised that → ✅ He advised me to 
 
 -------
 ## Vocabulary (5 min)
 Words: advice, suggestion, rest, doctor, medicine, problem, relaxation, exercise.  
 
 **Match (8)**  
-A. opposite of stress → ______  
-B. opposite of illness → ______  
-C. opposite of activity → ______  
-D. opposite of confusion → ______  
-E. opposite of silence → ______  
-F. opposite of order → ______  
-G. opposite of tension → ______  
-H. opposite of harm → ______  
+A. an idea meant to help someone → ______  
+B. something you do to relax your body and mind → ______  
+C. a person who treats illnesses → ______  
+D. a substance used to treat health problems → ______  
+E. a situation that needs a solution → ______  
+F. physical activity to stay healthy → ______  
+G. time without work or effort → ______  
+H. a helpful opinion, often from experience → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -48,12 +53,18 @@ Rewrite:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Doctors Give Advice”](https://learningenglish.voanews.com/)  
+**Good Advice Is Not Always Easy to Follow**
 
-Answer:  
-1. What advice is mentioned?  
-2. How do people report it?  
-3. Which suggestions do you agree with?  
+Many people receive good advice every day, but that doesn’t mean they follow it. Doctors often advise their patients to rest more, exercise regularly and reduce stress. Friends suggest taking breaks or spending more time outdoors. Even when people know the advice is helpful, changing habits can be difficult.
+
+One reason is that advice usually asks us to change something in our routine. Resting more might mean working less, and exercising might require giving up free time. However, people who listen to advice and apply it slowly often see real improvements in their health.
+
+Experts say the best advice is simple and realistic. Instead of changing everything at once, it’s better to start with small steps. When advice feels achievable, people are more likely to follow it and benefit from it.
+
+**Answer:**
+1. Why do people often ignore good advice?  
+2. What kind of advice works best according to the text?  
+3. What advice from the text would you personally follow?  
 
 -------
 ## Writing (2 min)
