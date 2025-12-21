@@ -24,14 +24,14 @@ Answer:
 Words: illness, energy, mood, fitness, activity, stress, health, work.  
 
 **Match (8)**  
-A. opposite of tiredness → ______  
-B. opposite of laziness → ______  
-C. opposite of unhealthy → ______  
-D. opposite of sad → ______  
-E. opposite of rest → ______  
-F. opposite of weakness → ______  
-G. opposite of busyness → ______  
-H. opposite of sickness → ______  
+A. the condition of not feeling well → ______  
+B. the power your body has to act and move → ______  
+C. the way you feel emotionally → ______  
+D. being strong and physically healthy → ______  
+E. something you do to stay active → ______  
+F. mental or physical pressure → ______  
+G. the general state of your body and mind → ______  
+H. tasks you do as a job or duty → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -45,12 +45,18 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Healthy Mind and Body”](https://www.newsinlevels.com/)  
+**Listening to Your Body**
 
-Answer:  
-1. What habits help people stay healthy?  
-2. Which idioms could describe their feelings?  
-3. Which one fits you best?  
+In today’s fast-paced world, many people ignore their health until something goes wrong. They continue working even when they feel under the weather, believing that rest is a waste of time. However, doctors say that listening to your body is one of the most important habits for staying healthy.
+
+People who are in good shape don’t only exercise regularly – they also know when to take it easy. They understand that rest is not laziness but a necessary part of a healthy life. Even short breaks during the day help people recharge their batteries and reduce stress.
+
+Interestingly, many older people are as fit as a fiddle because they have simple routines: walking every day, eating regular meals and keeping a positive mood. Good health is not about doing everything perfectly, but about balance and care.
+
+**Answer:**
+1. Why do some people ignore their health?  
+2. What habits help people stay healthy?  
+3. Which idiom best describes a healthy lifestyle in the text?   
 
 -------
 ## Speaking (2 min)
