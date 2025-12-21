@@ -18,12 +18,15 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Healthy Lifestyle Choices”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[Life Changes – A2 Listening](https://test-english.com/listening/a2/life-changes-listening-test/)
 
-Answer:  
-1. What choices help people stay healthy?  
-2. Which grammar forms show advice or conditions?  
-3. Which idioms describe how people feel?  
+**Answer:**
+1. What kind of life change is described in the listening?  
+2. Why did the person decide to change their lifestyle?  
+3. Which healthy habits are mentioned?  
+4. What advice or suggestions appear in the listening?  
+5. How does the person feel after making changes?  
 
 -------
 ## Writing (6 min)
