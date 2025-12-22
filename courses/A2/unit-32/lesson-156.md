@@ -18,6 +18,10 @@ Answer:
 - I’d rather work from home than in an office.  
 - We’d like to travel for work.  
 
+**Form reminder:**  
+- would like to + verb  
+- would rather + base verb (+ than)
+
 Common mistakes:  
 ❌ I like to be a doctor → ✅ I’d like to be a doctor  
 ❌ I rather work → ✅ I’d rather work  
@@ -27,33 +31,59 @@ Common mistakes:
 Words: colleague, boss, salary, company, employee, meeting, task, responsibility.  
 
 **Match (8)**  
-A. person you work with → ______  
-B. person who manages others → ______  
-C. money you get for work → ______  
-D. opposite of free time → ______  
-E. thing you must do at work → ______  
-F. opposite of employer → ______  
-G. formal talk about work → ______  
-H. organization where you work → ______  
+A. someone who works under a boss → ______  
+B. a planned work discussion → ______  
+C. money paid every month for work → ______  
+D. a job duty you must complete → ______  
+E. a person who gives instructions → ______  
+F. a business organisation → ______  
+G. a person you cooperate with at work → ______  
+H. something you are accountable for → ______  
+
 
 -------
 ## Controlled Practice (8 min)
-Complete:  
-1. I’d like to ______ (work) for an international company.  
-2. She’d rather ______ (travel) than stay in one place.  
-3. We’d like to ______ (learn) new skills this year.  
-4. I’d rather ______ (have) a small team than a big one.  
-5. He’d like to ______ (start) his own business one day.  
-6. Would you rather ______ (work) alone or in a team?  
+**A. Choose the best option:**
+
+1. I’d rather ______ in a small company because I like close teamwork.  
+   a) work  
+   b) working  
+
+2. She’d like to ______ more responsibility in her next job.  
+   a) have  
+   b) having  
+
+3. They’d rather ______ flexible hours than earn more money.  
+   a) have  
+   b) having  
+
+4. I’d like to ______ my boss that I need clearer tasks.  
+   a) tell  
+   b) telling  
+
+**B. Paraphrase using *would like to* or *would rather*:**
+
+5. I want to work remotely.  
+→ I’d like to ____________________________.
+
+6. I prefer working alone, not in a big team.  
+→ I’d rather ____________________________.
+
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Working Habits Around the World”](https://www.newsinlevels.com/)  
+### *Choosing the Right Job*
 
-Answer:  
-1. What jobs or habits are described?  
-2. What do people like or dislike about their jobs?  
-3. Which job culture sounds most interesting?  
+Many people think that a good job is only about money, but this is not always true. For some employees, job satisfaction is more important than a high salary. They want to feel useful, respected, and motivated at work.
+
+In modern companies, responsibilities are often shared between colleagues. Employees usually work in teams, attend meetings, and complete different tasks every day. Some people would rather have a stable routine, while others prefer new challenges and learning new skills.
+
+Today, more workers would like to have flexible working hours or work from home. This helps them balance their professional life with personal responsibilities. In the end, the best job is not the same for everyone — it depends on personality, goals, and values.
+
+**Answer:**
+1. What do some people value more than money?  
+2. What responsibilities do employees usually have?  
+3. Why do many workers want flexible working hours?  
 
 -------
 ## Speaking (2 min)
