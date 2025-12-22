@@ -32,14 +32,14 @@ Common mistakes:
 Words: dream, goal, wish, future, freedom, hope, success, improvement.  
 
 **Match (8)**  
-A. something you want in life → ______  
-B. opposite of failure → ______  
-C. opposite of past → ______  
-D. opposite of reality → ______  
-E. opposite of sadness → ______  
-F. opposite of limitation → ______  
-G. opposite of hopelessness → ______  
-H. opposite of routine → ______  
+A. something you want but don’t have now → ______  
+B. a clear plan or target → ______  
+C. time that hasn’t happened yet → ______  
+D. becoming better than before → ______  
+E. feeling that good things will happen → ______  
+F. doing what you want without limits → ______  
+G. achieving your aims → ______  
+H. a strong desire for your life → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -53,12 +53,15 @@ Complete:
 
 -------
 ## Skills – Listening (5 min)
-Audio: [VOA Learning English – “Dreams and Goals”](https://learningenglish.voanews.com/)  
+**Listening:**  
+[ELLLO – Wishes (Rebecca & Todd)](https://www.elllo.org/english/0851/T875-Reb-Wish.htm)
 
-Answer:  
-1. What dreams do people share?  
-2. Which grammar structure do they use?  
-3. Which wish do you identify with most?  
+**Questions:**
+1. What is the main thing Rebecca wishes she could do?  
+2. Which instruments has Rebecca played before?  
+3. Why is it difficult for her to play the piano now?  
+4. What two languages does Rebecca wish she could speak?  
+5. Why does Todd say those languages sound impressive?   
 
 -------
 ## Speaking (2 min)
