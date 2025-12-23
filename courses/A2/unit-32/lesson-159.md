@@ -24,14 +24,14 @@ Answer:
 Words: success, goal, skill, work, effort, energy, patience, ambition.  
 
 **Match (8)**  
-A. achieving what you want after effort → ______  
-B. something you want to achieve → ______  
-C. an ability you learn → ______  
-D. your job or tasks you do → ______  
-E. energy you put into doing something well → ______  
-F. strength to do things → ______  
-G. staying calm and not giving up quickly → ______  
-H. strong desire to achieve more → ______  
+A. staying calm and not giving up quickly → ______
+B. an ability you learn → ______
+C. something you want to achieve → ______
+D. strength to do things → ______
+E. your job or tasks you do → ______
+F. achieving what you want after effort → ______
+G. strong desire to achieve more → ______
+H. energy you put into doing something well → ______
 
 -------
 ## Controlled Practice (8 min)
