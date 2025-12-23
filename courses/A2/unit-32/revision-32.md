@@ -18,12 +18,16 @@ duration: 30
 
 -------
 ## Skills – Listening (6 min)
-Audio: [VOA Learning English – “Work and Motivation”](https://learningenglish.voanews.com/)  
+**Audio:**  
+🎧 **[Motivation and Goals – A2 English Listening](https://www.youtube.com/watch?v=lVhk7UP3taY)**
 
-Answer:  
-1. What motivates people at work?  
-2. What grammar forms are used to express ambition?  
-3. Which idioms describe success or burnout?  
+**Answer:**  
+1. According to the listening, what is one key thing people need to find motivation?  
+2. What do people often set to stay motivated and reach goals?  
+3. What example does the speaker give about planning for the future?  
+4. Why is it important to break big goals into smaller steps, according to the audio?  
+5. What can happen if someone loses motivation, and how can they get it back?
+
 
 -------
 ## Writing (6 min)
