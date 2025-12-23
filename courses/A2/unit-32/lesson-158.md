@@ -25,14 +25,14 @@ Answer:
 Words: project, offer, position, task, time, responsibility, search, progress.  
 
 **Match (8)**  
-A. opposite of accept → ______  
-B. opposite of stop → ______  
-C. opposite of delay → ______  
-D. opposite of miss → ______  
-E. opposite of lose → ______  
-F. opposite of give up → ______  
-G. opposite of refuse → ______  
-H. opposite of quit → ______  
+A. a job or role in a company → ______  
+B. planned work with a goal → ______  
+C. something you are asked to do → ______  
+D. accepting care for something important → ______  
+E. trying to find something new → ______  
+F. a proposal of work → ______  
+G. hours available for work → ______  
+H. moving forward or improving → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -46,12 +46,18 @@ Complete with phrasal verbs:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “Changes at Work”](https://www.newsinlevels.com/)  
+**Reading: “Changes at Work”**
 
-Answer:  
-1. What work changes are described?  
-2. Which phrasal verbs fit these stories?  
-3. What changes would you like at work or school?  
+Many people today experience changes at work. Some employees **take on** more responsibilities because their companies are growing. Others feel stressed and decide to **step down** from their positions to protect their health.
+
+When work becomes busy, people try to **carry on** and manage their tasks better. They often need to **catch up on** emails and unfinished projects after holidays or busy weeks. Sometimes workers **look for** new jobs because they want better pay or more free time. However, not every offer is good, so they may **turn down** a job if it doesn’t fit their needs.
+
+Learning how to manage work and make good decisions helps people feel more confident and satisfied in their careers.
+
+**Questions:**
+1. Why do some people take on more responsibilities?  
+2. Why do others decide to step down from their jobs?  
+3. Which phrasal verbs describe managing too much work?  
 
 -------
 ## Speaking (2 min)
