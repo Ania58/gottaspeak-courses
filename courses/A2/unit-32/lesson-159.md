@@ -24,14 +24,14 @@ Answer:
 Words: success, goal, skill, work, effort, energy, patience, ambition.  
 
 **Match (8)**  
-A. opposite of failure → ______  
-B. opposite of laziness → ______  
-C. opposite of giving up → ______  
-D. opposite of rest → ______  
-E. opposite of boredom → ______  
-F. opposite of chaos → ______  
-G. opposite of weakness → ______  
-H. opposite of apathy → ______  
+A. achieving what you want after effort → ______  
+B. something you want to achieve → ______  
+C. an ability you learn → ______  
+D. your job or tasks you do → ______  
+E. energy you put into doing something well → ______  
+F. strength to do things → ______  
+G. staying calm and not giving up quickly → ______  
+H. strong desire to achieve more → ______  
 
 -------
 ## Controlled Practice (8 min)
@@ -45,12 +45,20 @@ Complete:
 
 -------
 ## Skills – Reading (5 min)
-Text: [News in Levels – “People Who Follow Their Dreams”](https://www.newsinlevels.com/)  
+**Reading: “Success Isn’t Just Talent”**
 
-Answer:  
-1. What examples of success are given?  
-2. Which idioms describe them?  
-3. What can you learn from them?  
+When Mia started her first office job, she felt nervous every day. She didn’t know the systems, the rules, or even how meetings worked. Her manager told her not to worry and to **learn the ropes** step by step. Mia listened carefully, asked questions, and wrote notes. After a few weeks, she was more confident.
+
+Mia also wanted to **climb the career ladder**, but she didn’t want to rush. She decided to improve one skill at a time: writing emails clearly, speaking politely, and planning her tasks. When a difficult project appeared, she **went the extra mile**. She stayed a little longer, helped a colleague, and checked details twice. The project was successful, and her boss noticed her effort.
+
+However, after a few months, Mia started feeling tired all the time. She was working late, skipping breaks, and thinking about work at night. Her friend said, “You’re going to **burn out** if you don’t slow down.” Mia finally understood: it’s good to **dream big**, but it’s also important to rest and stay healthy.
+
+**Questions**
+1. Why did Mia feel nervous at the start of her job?  
+2. What did she do to learn the ropes? (Give 2 actions.)  
+3. How did Mia go the extra mile during the project? (Give 2 examples.)  
+4. What signs show Mia might burn out? (Give 2 signs.)  
+5. What lesson does Mia learn at the end?
 
 -------
 ## Speaking (2 min)
