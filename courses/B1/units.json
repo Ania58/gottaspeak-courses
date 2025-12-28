@@ -1,7 +1,8 @@
 {
-  "units": ["1", "2"],
+  "units": ["1", "2", "3"],
   "titles": {
     "1": "Communication and Social Life",
-    "2": "Work and Goals"
+    "2": "Work and Goals",
+    "3": "Society and Change"
   }
 }
