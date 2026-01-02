@@ -4,7 +4,6 @@ unit: "06"
 lesson: "28"
 title: "Media, Truth and Manipulation"
 focus: "vocabulary"
-level: "B1+/B2-"
 ---
 
 ## Warm-up Questions
