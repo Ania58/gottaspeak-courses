@@ -70,7 +70,7 @@ Complete the sentences.
 
 ---
 
-## Reading: When Information Shapes Reality (18–20 min)
+## Reading: When Information Shapes Reality 
 
 In today’s digital world, information travels faster than ever before. News spreads within seconds, often without verification. As a result, people are constantly exposed to headlines that influence opinions, emotions and decisions.
 
