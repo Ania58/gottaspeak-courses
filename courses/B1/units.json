@@ -1,11 +1,12 @@
 {
-  "units": ["1", "2", "3", "4", "5", "6"],
+  "units": ["1", "2", "3", "4", "5", "6", "7"],
   "titles": {
     "1": "Communication and Social Life",
     "2": "Work and Goals",
     "3": "Society and Change",
     "4": "Health, Mind and Lifestyle",
     "5": "Relationships, Communication and Emotions",
-    "6": "Media, Technology and Truth"
+    "6": "Media, Technology and Truth",
+    "7": "News, Media and Responsibility"
   }
 }
