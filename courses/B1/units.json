@@ -1,5 +1,5 @@
 {
-  "units": ["1", "2", "3", "4", "5", "6", "7"],
+  "units": ["1", "2", "3", "4", "5", "6", "7","8"],
   "titles": {
     "1": "Communication and Social Life",
     "2": "Work and Goals",
@@ -7,6 +7,7 @@
     "4": "Health, Mind and Lifestyle",
     "5": "Relationships, Communication and Emotions",
     "6": "Media, Technology and Truth",
-    "7": "News, Media and Responsibility"
+    "7": "News, Media and Responsibility",
+    "8": "What People Say and Mean"
   }
 }
