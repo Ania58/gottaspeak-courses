@@ -52,7 +52,7 @@ Use an idiom or phrasal verb in the correct form.
    (backed out / gave in)
 
 2. He stayed calm and __________ the situation professionally.  
-   (dealt with / carried on)
+   (carried on / dealt with)
 
 3. She finally __________ to social pressure and accepted the offer.  
    (gave in / stood up)
@@ -61,7 +61,7 @@ Use an idiom or phrasal verb in the correct form.
    (take / face)
 
 5. They decided to __________ their colleague during the conflict.  
-   (stand up for / carry on)
+   (carry on / stand up for)
 
 ---
 
