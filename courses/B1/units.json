@@ -1,5 +1,5 @@
 {
-  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
   "titles": {
     "1": "Communication and Social Life",
     "2": "Work and Goals",
@@ -11,6 +11,7 @@
     "8": "What People Say and Mean",
     "9": "Choices, Responsibility and Possibility",
     "10": "If, Then, and Otherwise: Consequences and Scenarios",
-    "11": "How Things Are Done: Processes, Systems and Formal English"
+    "11": "How Things Are Done: Processes, Systems and Formal English",
+    "12": "Connecting Ideas: Reasons, Results and Emphasis"
   }
 }
