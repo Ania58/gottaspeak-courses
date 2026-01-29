@@ -68,8 +68,6 @@ Examples:
    a) I think that could work.  
    b) No.
 
-> ✔ poprawne: **1b, 2a, 3b, 4b, 5a**  
-> (układ: b / a / b / b / a – bez wzoru)
 
 ---
 
