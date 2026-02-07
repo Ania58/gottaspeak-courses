@@ -1,5 +1,5 @@
 {
-  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"],
+  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15", "16"],
   "titles": {
     "1": "Communication and Social Life",
     "2": "Work and Goals",
@@ -15,6 +15,7 @@
     "12": "Connecting Ideas: Reasons, Results and Emphasis",
     "13": "Opinions, Arguments and Influence",
     "14": "Problems, solutions and making suggestions",
-    "15": "Plans, Goals and Future Decisions"
+    "15": "Plans, Goals and Future Decisions",
+    "16": "Choices, Comparisons and Trade-offs"
   }
 }
