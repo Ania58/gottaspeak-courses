@@ -13,14 +13,13 @@ grammar: "reporting language (He said…, She asked…, Apparently…, According
 
 Match the words with their meanings.
 
-| Word | Meaning |
-|-----|--------|
-rumour | a) information that may not be true |
-clarify | b) to explain something clearly |
-confirm | c) to say that something is definitely correct |
-misunderstanding | d) a situation where people understand something incorrectly |
-announcement | e) an official statement or piece of news |
-
+| Word             | Meaning                                                        |
+|------------------|----------------------------------------------------------------|
+| rumour           | d) a situation where people understand something incorrectly   |
+| clarify          | e) an official statement or piece of news                      |
+| confirm          | a) information that may not be true                            |
+| misunderstanding | c) to say that something is definitely correct                 |
+| announcement     | b) to explain something clearly                                |
 ---
 
 ## 2. Useful Expressions
