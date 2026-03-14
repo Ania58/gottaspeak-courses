@@ -76,12 +76,18 @@ Sentence starters you may use:
 
 Complete the table with examples from the listening or your own ideas.
 
-| Expression | Meaning |
-|---------|--------|
-| take a stand | |
-| take full responsibility | |
-| live up to something | |
-| think of one’s own life | |
+**take a stand**  
+→ _______________________________________
+
+**take full responsibility**  
+→ _______________________________________
+
+**live up to something**  
+→ _______________________________________
+
+**think of one’s own life**  
+→ _______________________________________
+
 
 ---
 
