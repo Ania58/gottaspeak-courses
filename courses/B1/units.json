@@ -1,5 +1,5 @@
 {
-  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15", "16", "17", "18", "19","20", "21", "22", "23", "24", "25"],
+  "units": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15", "16", "17", "18", "19","20", "21", "22", "23", "24", "25", "26"],
   "titles": {
     "1": "Communication and Social Life",
     "2": "Work and Goals",
@@ -25,6 +25,7 @@
     "22": "Comparing Options: Choices, Pros and Cons",
     "23": "Experiences, Stories and Life Lessons",
     "24": "What People Said – Reporting Conversations and News",
-    "25": "Social Situations and Communication"
+    "25": "Social Situations and Communication",
+    "26": "Life Skills & Practical Situations"
   }
 }
