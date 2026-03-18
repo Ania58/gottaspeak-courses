@@ -1,7 +1,7 @@
 ---
 course: "B1"
 unit: "30"
-lesson: 147
+lesson: "147"
 title: "First Impressions"
 focus: "talking about first impressions and meeting people"
 ---
