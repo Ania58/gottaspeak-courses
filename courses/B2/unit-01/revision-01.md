@@ -2,7 +2,7 @@
 course: "B2"
 unit: "1"
 lesson: "Revision"
-title: "Revision – Identity, Personality & Self-Development""
+title: "Revision – Identity, Personality & Self-Development"
 focus: "revision of personality, decisions, habits, verb patterns and argumentation"
 ---
 
