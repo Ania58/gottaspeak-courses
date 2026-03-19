@@ -1,7 +1,6 @@
 ---
 course: "B1"
 unit: "30"
-revision: true
 title: "Revision – People, Relationships & Communication"
 focus: "full revision of personality, relationships, conflict and admiration"
 listening: "Relationship problems and advice"

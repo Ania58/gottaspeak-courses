@@ -1,7 +1,6 @@
 ---
 course: "B1"
 unit: "27"
-revision: true
 title: "Revision – Decisions, Opportunities and Personal Choices"
 focus: "review of vocabulary, phrasal verbs, idioms and language for decision-making"
 listening: "Personal goals and the kind of person you want to become"

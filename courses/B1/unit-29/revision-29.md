@@ -1,7 +1,6 @@
 ---
 course: "B1"
 unit: "29"
-revision: true
 title: "Revision – Technology, Communication and Digital Life"
 focus: "full revision of vocabulary, phrasal verbs, idioms and communication about technology"
 listening: "How people use technology in everyday life"

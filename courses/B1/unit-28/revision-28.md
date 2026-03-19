@@ -1,7 +1,6 @@
 ---
 course: "B1"
 unit: "28"
-revision: true
 title: "Revision – Travel, Experiences and Trip Planning"
 focus: "review of travel vocabulary, phrasal verbs, idioms and storytelling"
 listening: "Travel experiences and unexpected situations"
