@@ -388,4 +388,4 @@ Przed zakończeniem lekcji:
 ### Następna lekcja
 
 W następnej lekcji nauczysz się **przedstawiać się i pytać drugą osobę o imię**. 👋
-```
+
