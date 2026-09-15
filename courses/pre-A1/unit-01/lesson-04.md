@@ -26,7 +26,7 @@ Angielski alfabet ma **26 liter**.
 
 ### 👂 Listen and repeat
 
-🔊 [Posłuchaj alfabetu — Cambridge Dictionary](https://dictionary.cambridge.org/grammar/british-grammar/alphabet)
+🔊 [English Alphabet Pronunciation | Slow Pronunciation for Beginners — Verbly](https://www.youtube.com/watch?v=aN_ILRo3i4g)
 
 **A · B · C · D · E · F · G**
 
